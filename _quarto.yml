@@ -1,8 +1,8 @@
 project:
   type: manuscript
 
-execute:
-  freeze: auto
+manuscript:
+  article: index.qmd
 
 format:
   html:
@@ -13,5 +13,9 @@ format:
   jats: default
   agu-pdf: default
 
+execute:
+  freeze: auto
 
+preview:
+  navigate: false
 

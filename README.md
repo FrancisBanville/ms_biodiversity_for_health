@@ -1,5 +1,5 @@
-## A Quarto Manuscript Template
+## Monitoring biodiversity for human, animal, and environmental health
 
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: VS Code](https://quarto.org/docs/manuscripts/authoring/vscode.html)
+This manuscript was made using Quarto and VS Code, following [this tutorial](https://quarto.org/docs/manuscripts/authoring/vscode.html).
 
 

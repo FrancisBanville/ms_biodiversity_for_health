@@ -1,0 +1,8 @@
+---
+title: Data cleaning and analysis
+description: Cleaning and analyzing data
+authors:
+  - name: Francis Banville
+    orcid: 0000-0001-9051-0597
+---
+
