@@ -2,11 +2,17 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
+
+
+\PassOptionsToPackage{table}{xcolor}
+
 \documentclass[
-]{agujournal2019}
+  10pt,
+  letterpaper,
+]{article}
 \usepackage{xcolor}
+\usepackage[top=0.85in,left=0.85in,right=0.85in,footskip=0.75in]{geometry}
 \usepackage{amsmath,amssymb}
 \setcounter{secnumdepth}{5}
 \usepackage{iftex}
@@ -38,29 +44,6 @@
     \setlength{\parskip}{6pt plus 2pt minus 1pt}}
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
-\makeatother
-% Make \paragraph and \subparagraph free-standing
-\makeatletter
-\ifx\paragraph\undefined\else
-  \let\oldparagraph\paragraph
-  \renewcommand{\paragraph}{
-    \@ifstar
-      \xxxParagraphStar
-      \xxxParagraphNoStar
-  }
-  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
-  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-  \let\oldsubparagraph\subparagraph
-  \renewcommand{\subparagraph}{
-    \@ifstar
-      \xxxSubParagraphStar
-      \xxxSubParagraphNoStar
-  }
-  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
-  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
 \makeatother
 
 
@@ -102,13 +85,79 @@
 
 
  
+\usepackage[numbers,square,comma]{natbib}
+\bibliographystyle{plos2015}
 
 
-\usepackage{url} %this package should fix any errors with URLs in refs.
-\usepackage{lineno}
-\usepackage[inline]{trackchanges} %for better track changes. finalnew option will compile document with changes incorporated.
-\usepackage{soul}
-\linenumbers
+% Use adjustwidth environment to exceed column width (see example table in text)
+\usepackage{changepage}
+
+% marvosym package for additional characters
+\usepackage{marvosym}
+
+% cite package, to clean up citations in the main text. Do not remove.
+% Using natbib instead
+% \usepackage{cite}
+
+% Use nameref to cite supporting information files (see Supporting Information section for more info)
+\usepackage{nameref,hyperref}
+
+% line numbers
+\usepackage[right]{lineno}
+
+% ligatures disabled
+\usepackage{microtype}
+\DisableLigatures[f]{encoding = *, family = * }
+
+% create "+" rule type for thick vertical lines
+\newcolumntype{+}{!{\vrule width 2pt}}
+
+% create \thickcline for thick horizontal lines of variable length
+\newlength\savedwidth
+\newcommand\thickcline[1]{%
+  \noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
+  \cline{#1}%
+  \noalign{\vskip\arrayrulewidth}%
+  \noalign{\global\arrayrulewidth\savedwidth}%
+}
+
+% \thickhline command for thick horizontal lines that span the table
+\newcommand\thickhline{\noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
+\hline
+\noalign{\global\arrayrulewidth\savedwidth}}
+
+% Text layout
+\raggedright
+\setlength{\parindent}{0.5cm}
+\textwidth 7.0in 
+\textheight 8.75in
+
+% Bold the 'Figure #' in the caption and separate it from the title/caption with a period
+% Captions will be left justified
+\usepackage[aboveskip=1pt,labelfont=bf,labelsep=period,justification=raggedright,singlelinecheck=off]{caption}
+\renewcommand{\figurename}{Fig}
+
+% Remove brackets from numbering in List of References
+\makeatletter
+\renewcommand{\@biblabel}[1]{\quad#1.}
+\makeatother
+
+% Header and Footer with logo
+\usepackage{lastpage,fancyhdr}
+\usepackage{epstopdf}
+%\pagestyle{myheadings}
+\pagestyle{fancy}
+\fancyhf{}
+%\setlength{\headheight}{27.023pt}
+%\lhead{\includegraphics[width=2.0in]{PLOS-submission.eps}}
+\rfoot{\thepage/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrule}{\hrule height 2pt \vspace{2mm}}
+\fancyheadoffset[L]{2.25in}
+\fancyfootoffset[L]{2.25in}
+\lfoot{\today}
+\usepackage{setspace} 
+\doublespacing
 \makeatletter
 \@ifpackageloaded{caption}{}{\usepackage{caption}}
 \AtBeginDocument{%
@@ -155,44 +204,83 @@
 \urlstyle{same}
 \hypersetup{
   pdftitle={Monitoring biodiversity for human, animal, and environmental health},
+  pdfauthor={Francis Banville; Colin Carlson; Andrea Paz Velez; Timothée Poisot},
   pdfkeywords={biodiversity indicators, One Health},
-  colorlinks=true,
-  linkcolor={blue},
-  filecolor={Maroon},
-  citecolor={Blue},
-  urlcolor={Blue},
+  hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 
-\journalname{TBD}
 
-\draftfalse
 
 \begin{document}
-\title{Monitoring biodiversity for human, animal, and environmental
-health}
+\vspace*{0.2in}
 
-\authors{Francis Banville\affil{1}, Colin Carlson\affil{2}, Andrea Paz
-Velez\affil{1}, Timothée Poisot\affil{1}}
-\affiliation{1}{Département de sciences biologiques, Université de
-Montréal, }\affiliation{2}{Yale School of Public Health, Yale
-University, }
-\correspondingauthor{Francis Banville}{francis.banville@umontreal.ca}
+% Title must be 250 characters or less.
+\begin{flushleft}
+{\Large
+\textbf\newline{Monitoring biodiversity for human, animal, and
+environmental
+health} % Please use "sentence case" for title and headings (capitalize only the first word in a title (or heading), the first word in a subtitle (or subheading), and any proper nouns).
+}
+\newline
+\\
+% Insert author names, affiliations and corresponding author email (do not include titles, positions, or degrees).
+Francis Banville\textsuperscript{1*}, Colin
+Carlson\textsuperscript{2}, Andrea Paz
+Velez\textsuperscript{1}, Timothée Poisot\textsuperscript{1}
+\\
+\bigskip
+\textbf{1} Département de sciences biologiques, Université de
+Montréal, Montréal, Québec, Canada, \\ \textbf{2} Yale School of Public
+Health, Yale University, New Haven, Connecticut, USA, 
+\bigskip
 
+% Insert additional author notes using the symbols described below. Insert symbol callouts after author names as necessary.
+% 
+% Remove or comment out the author notes below if they aren't used.
+%
+% Primary Equal Contribution Note
+%% \Yinyang These authors contributed equally to this work.
 
-\begin{abstract}
-TBD.
-\end{abstract}
+% Additional Equal Contribution Note
+% Also use this double-dagger symbol for special authorship notes, such as senior authorship.
+%\ddag These authors also contributed equally to this work.
 
-\section*{Plain Language Summary}
-TBD.
+% Current address notes
+% \textcurrency Current Address: Dept/Program/Center, Institution Name, City, State, Country % change symbol to "\textcurrency a" if more than one current address note
+% \textcurrency b Insert second current address 
+% \textcurrency c Insert third current address
 
+% Deceased author note
+% \dag Deceased
 
+% Group/Consortium Author Note
+% \textpilcrow Membership list can be found in the Acknowledgments section.
 
+% Use the asterisk to denote corresponding authorship and provide email address in note below.
+* francis.banville@umontreal.ca
+
+\end{flushleft}
+
+\section*{Abstract}
+..
+
+\section*{Author summary}
+..
+
+\linenumbers
 
 \section{Introduction}\label{introduction}
 
+Test10
 
+\section{Methods}\label{methods}
+
+Test11
+
+
+\nolinenumbers
+  \bibliography{references.bib}
 
 
 \end{document}

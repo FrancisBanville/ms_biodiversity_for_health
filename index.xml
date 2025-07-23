@@ -5,18 +5,6 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
 
 <front>
-<journal-meta>
-<journal-id></journal-id>
-
-<journal-title-group>
-<journal-title>TBD</journal-title>
-</journal-title-group>
-<issn></issn>
-
-<publisher>
-<publisher-name></publisher-name>
-</publisher>
-</journal-meta>
 
 
 <article-meta>
@@ -37,7 +25,7 @@ environmental health</article-title>
 <string-name>Francis Banville</string-name>
 
 <email>francis.banville@umontreal.ca</email>
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="udem">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
 <contrib contrib-type="author">
@@ -48,7 +36,7 @@ environmental health</article-title>
 </name>
 <string-name>Colin Carlson</string-name>
 
-<xref ref-type="aff" rid="aff-2">b</xref>
+<xref ref-type="aff" rid="yale">b</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0001-6484-1210</contrib-id>
@@ -58,7 +46,7 @@ environmental health</article-title>
 </name>
 <string-name>Andrea Paz Velez</string-name>
 
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0002-0735-5184</contrib-id>
@@ -68,30 +56,30 @@ environmental health</article-title>
 </name>
 <string-name>Timothée Poisot</string-name>
 
-<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 </contrib-group>
-<aff id="aff-1">
+<aff id="udem">
 <institution-wrap>
 <institution>Département de sciences biologiques, Université de
 Montréal</institution>
 </institution-wrap>
 
-
-
-
+<city>Montréal</city>
+<state>Québec</state>
+<country>Canada</country>
 
 
 
 </aff>
-<aff id="aff-2">
+<aff id="yale">
 <institution-wrap>
 <institution>Yale School of Public Health, Yale University</institution>
 </institution-wrap>
 
-
-
-
+<city>New Haven</city>
+<state>Connecticut</state>
+<country>USA</country>
 
 
 
@@ -100,11 +88,7 @@ Montréal</institution>
 <corresp id="cor-1">francis.banville@umontreal.ca</corresp>
 </author-notes>
 
-<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-07-22">
-<year>2025</year>
-<month>7</month>
-<day>22</day>
-</pub-date>
+
 
 
 
@@ -116,7 +100,7 @@ Montréal</institution>
 
 
 <abstract>
-<p>TBD.</p>
+<p>..</p>
 </abstract>
 <kwd-group kwd-group-type="author">
 <kwd>biodiversity indicators</kwd>
@@ -132,41 +116,18 @@ Montréal</institution>
 
 <body>
 <sec id="introduction">
-  <title>1 Introduction</title>
+  <title>Introduction</title>
+  <p>Test10</p>
+</sec>
+<sec id="methods">
+  <title>Methods</title>
+  <p>Test11</p>
 </sec>
 </body>
 
 <back>
 </back>
 
-<sub-article article-type="notebook" id="nb-4-nb-1">
-<front-stub>
-<title-group>
-<article-title>Data cleaning and analysis</article-title>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0001-9051-0597</contrib-id>
-<name>
-<surname>Banville</surname>
-<given-names>Francis</given-names>
-</name>
-<string-name>Francis Banville</string-name>
 
-</contrib>
-</contrib-group>
-</front-stub>
-
-<body>
-
-</body>
-
-
-
-<back>
-</back>
-
-
-</sub-article>
 
 </article>
