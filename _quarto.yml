@@ -8,7 +8,7 @@ format:
   html:
     toc: true
     comments:
-      hypothesis: false
+      hypothesis: true
   docx: default
   jats: default
   plos-pdf:
