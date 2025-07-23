@@ -1,51 +1,65 @@
 ---
-title: Monitoring biodiversity for human, animal, and environmental health
+title: "Monitoring biodiversity for human, animal, and environmental health"
 
-authors:
+author:
   - name: Francis Banville
-    affiliation: Département de sciences biologiques, Université de Montréal 
-    roles: []
     corresponding: true
+    affiliations:
+      - ref: udem
+    roles: []
     email: francis.banville@umontreal.ca
     orcid: 0000-0001-9051-0597
+
   - name: Colin Carlson
-    affiliation: Yale School of Public Health, Yale University    
+    affiliations:
+      - ref: yale
     roles: []
-    corresponding: false
     orcid: 0000-0001-6960-8434
+
   - name: Andrea Paz Velez 
-    affiliation: Département de sciences biologiques, Université de Montréal
+    affiliations:
+      - ref: udem
     roles: []
-    corresponding: false
     orcid: 0000-0001-6484-1210
+
   - name: Timothée Poisot
-    affiliation: Département de sciences biologiques, Université de Montréal
+    affiliations:
+      - ref: udem
     roles: []
-    corresponding: false
     orcid: 0000-0002-0735-5184
+
+affiliations:
+  - id: udem
+    name: Département de sciences biologiques, Université de Montréal
+    city: Montréal
+    state: Québec
+    country: Canada
+  - id: yale
+    name: Yale School of Public Health, Yale University 
+    city: New Haven
+    state: Connecticut
+    country: USA
 
 keywords:
   - biodiversity indicators
   - One Health
   
 abstract: |
-  TBD.
+  ..
 
-plain-language-summary: |
-  TBD.
-
-key-points:
-  TBD.
+author-summary: |
+  ..
 
 date: last-modified
 published-title: Date
 
-citation:
-  container-title: TBD
-
-number-sections: true
-
-bibliography: references.bib
+bibliography: references.bib 
 ---
 
-## Introduction
+# Introduction
+
+Test10
+
+# Methods
+
+Test11
