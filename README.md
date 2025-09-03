@@ -1,6 +1,6 @@
 # Monitoring biodiversity for human, animal, and environmental health
 
-This manuscript was made with Quarto using an adaptation of the [Quarto template for PLOS](https://github.com/quarto-journals/plos). Follow [this tutorial](https://quarto.org/docs/manuscripts/authoring/vscode.html) to learn how to use Quarto with VS Code. 
+This manuscript was made with Quarto. Follow [this tutorial](https://quarto.org/docs/manuscripts/authoring/vscode.html) to learn how to use Quarto with VS Code. 
 
 ## Folder organization 
 
@@ -15,10 +15,8 @@ This repository contains the following files and folders:
 ### Formatting and compiling the manuscript
 
 - `.github/workflows/`: contains the GitHub Actions workflow used to produce the manuscript 
-- `_extensions/quarto-journals/plos/`: contains formatting files provided by the Quarto template for PLOS
-- `site_libs/`: contains formatting files used for the manuscript website
+- `_extensions/cerg/`: contains Quarto formatting files
 - `_quarto.yml`: specifies the project's type and outputs
-- `plos2015.bst`: contains instructions to correctly compile the bibliography according to PLOS guidelines
 
 ### Miscellaneous
 
