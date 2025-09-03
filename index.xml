@@ -11,7 +11,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>Monitoring biodiversity for human, animal, and
+<article-title>Monitoring biodiversity for human, animal, plant and
 environmental health</article-title>
 </title-group>
 
@@ -25,6 +25,10 @@ environmental health</article-title>
 <string-name>Francis Banville</string-name>
 
 <email>francis.banville@umontreal.ca</email>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
 <xref ref-type="aff" rid="udem">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
@@ -36,6 +40,8 @@ environmental health</article-title>
 </name>
 <string-name>Colin Carlson</string-name>
 
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
 <xref ref-type="aff" rid="yale">b</xref>
 </contrib>
 <contrib contrib-type="author">
@@ -46,6 +52,8 @@ environmental health</article-title>
 </name>
 <string-name>Andrea Paz Velez</string-name>
 
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
 <xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 <contrib contrib-type="author">
@@ -56,13 +64,16 @@ environmental health</article-title>
 </name>
 <string-name>Timothée Poisot</string-name>
 
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
 <xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 </contrib-group>
 <aff id="udem">
+<institution content-type="dept">Département de Sciences
+Biologiques</institution>
 <institution-wrap>
-<institution>Département de sciences biologiques, Université de
-Montréal</institution>
+<institution>Université de Montréal</institution>
 </institution-wrap>
 
 <city>Montréal</city>
@@ -73,8 +84,10 @@ Montréal</institution>
 
 </aff>
 <aff id="yale">
+<institution content-type="dept">Yale School of Public
+Health</institution>
 <institution-wrap>
-<institution>Yale School of Public Health, Yale University</institution>
+<institution>Yale University</institution>
 </institution-wrap>
 
 <city>New Haven</city>
@@ -100,11 +113,37 @@ Montréal</institution>
 
 
 <abstract>
-<p>..</p>
+<p>The One Health approach promotes collaboration across disciplines to
+enhance the health of humans, animals, plants, and the environment. The
+Quadripartite organizations, which include the Food and Agriculture
+Organization of the United Nations (FAO), the United Nations Environment
+Programme (UNEP), the World Organisation for Animal Health (WOAH), and
+the World Health Organization (WHO), developed the One Health Joint Plan
+of Action (OH JPA) to support countries in achieving One Health. This
+plan consists of six action tracks, each consisting of a set of actions
+for implementing One Health. By requiring knowledge on zoonotic diseases
+(tracks 2 and 3), food and agriculture (track 4), antimicrobial
+resistance (track 5), and environmental health (track 6), most of these
+tracks directly concern biodiversity. However, there are currently no
+indicators for monitoring the OH JPA. Our research examines the extent
+to which all six tracks are covered by the Kunming-Montreal Global
+Biodiversity Framework (KM-GBF) of the Convention on Biological
+Diversity (CBD), which contains many indicators at the intersection of
+biodiversity and health. We assessed (1) the link between each indicator
+of the KM-GBF and human, animal, plant, and environmental health and (2)
+the usability of these indicators for monitoring One Health actions. We
+found that 75% of indicators are associated with health, and that a
+similar proportion can be used for monitoring One Health actions.
+Overall, our work aims to strengthen collaboration between the CBD
+Secretariat and the Quadripartite Organizations by highlighting the need
+for shared data, policy, and governance practices.</p>
 </abstract>
 <kwd-group kwd-group-type="author">
 <kwd>biodiversity indicators</kwd>
+<kwd>Kunming-Montreal Global Biodiversity Framework</kwd>
 <kwd>One Health</kwd>
+<kwd>One Health Joint Plan of Action</kwd>
+<kwd>Quadripartite Organizations</kwd>
 </kwd-group>
 
 
@@ -117,11 +156,15 @@ Montréal</institution>
 <body>
 <sec id="introduction">
   <title>Introduction</title>
-  <p>Test10</p>
 </sec>
 <sec id="methods">
   <title>Methods</title>
-  <p>Test11</p>
+</sec>
+<sec id="results-and-discussion">
+  <title>Results and discussion</title>
+</sec>
+<sec id="conclusion">
+  <title>Conclusion</title>
 </sec>
 </body>
 
