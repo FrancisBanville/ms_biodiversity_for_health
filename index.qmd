@@ -1,65 +1,75 @@
 ---
-title: "Monitoring biodiversity for human, animal, and environmental health"
+title: "Monitoring biodiversity for human, animal, plant and environmental health"
 
 author:
   - name: Francis Banville
-    corresponding: true
     affiliations:
       - ref: udem
-    roles: []
+    roles: 
+      - writing
+      - editing
     email: francis.banville@umontreal.ca
+    corresponding: true
     orcid: 0000-0001-9051-0597
 
   - name: Colin Carlson
     affiliations:
       - ref: yale
-    roles: []
+    roles:
+      - editing
     orcid: 0000-0001-6960-8434
 
   - name: Andrea Paz Velez 
     affiliations:
       - ref: udem
-    roles: []
+    roles:
+      - editing
     orcid: 0000-0001-6484-1210
 
   - name: Timothée Poisot
     affiliations:
       - ref: udem
-    roles: []
+    roles:
+      - editing
     orcid: 0000-0002-0735-5184
 
 affiliations:
   - id: udem
-    name: Département de sciences biologiques, Université de Montréal
+    name: Université de Montréal
+    department: Département de Sciences Biologiques
     city: Montréal
-    state: Québec
+    region: Québec
     country: Canada
+
   - id: yale
-    name: Yale School of Public Health, Yale University 
+    name: Yale University
+    department: Yale School of Public Health  
     city: New Haven
-    state: Connecticut
+    region: Connecticut
     country: USA
 
 keywords:
   - biodiversity indicators
+  - Kunming-Montreal Global Biodiversity Framework
   - One Health
+  - One Health Joint Plan of Action
+  - Quadripartite Organizations
   
 abstract: |
-  ..
-
-author-summary: |
-  ..
+  The One Health approach promotes collaboration across disciplines to enhance the health of humans, animals, plants, and the environment. The Quadripartite organizations, which include the Food and Agriculture Organization of the United Nations (FAO), the United Nations Environment Programme (UNEP), the World Organisation for Animal Health (WOAH), and the World Health Organization (WHO), developed the One Health Joint Plan of Action (OH JPA) to support countries in achieving One Health. This plan consists of six action tracks, each consisting of a set of actions for implementing One Health. By requiring knowledge on zoonotic diseases (tracks 2 and 3), food and agriculture (track 4), antimicrobial resistance (track 5), and environmental health (track 6), most of these tracks directly concern biodiversity. However, there are currently no indicators for monitoring the OH JPA. Our research examines the extent to which all six tracks are covered by the Kunming-Montreal Global Biodiversity Framework (KM-GBF) of the Convention on Biological Diversity (CBD), which contains many indicators at the intersection of biodiversity and health. We assessed (1) the link between each indicator of the KM-GBF and human, animal, plant, and environmental health and (2) the usability of these indicators for monitoring One Health actions. We found that 75% of indicators are associated with health, and that a similar proportion can be used for monitoring One Health actions. Overall, our work aims to strengthen collaboration between the CBD Secretariat and the Quadripartite Organizations by highlighting the need for shared data, policy, and governance practices.
 
 date: last-modified
 published-title: Date
 
 bibliography: references.bib 
+bibliographystyle: springer-basic-author-date
+
 ---
 
 # Introduction
 
-Test10
-
 # Methods
 
-Test11
+# Results and discussion
+
+# Conclusion
