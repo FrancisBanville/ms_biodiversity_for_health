@@ -156,15 +156,513 @@ for shared data, policy, and governance practices.</p>
 <body>
 <sec id="introduction">
   <title>Introduction</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>The One Health approach</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Interconnection between human, animal, plant, and
+          environmental health</p>
+        </list-item>
+        <list-item>
+          <p>Zoonotic diseases, non-communicable diseases, food safety,
+          antimicrobial and antiparasitic resistance, climate change,
+          pollution</p>
+        </list-item>
+        <list-item>
+          <p>Collaboration across disciplines</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>The One Health Joint Plan of Action</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Quadripartite Organizations</p>
+        </list-item>
+        <list-item>
+          <p>6 action tracks, many actions, even more activities</p>
+        </list-item>
+        <list-item>
+          <p>No indicators</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>The Kunming-Montreal Global Biodiversity Framework</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Convention on Biological Diversity</p>
+        </list-item>
+        <list-item>
+          <p>Protecting biodiversity by working towards targets and
+          goals</p>
+        </list-item>
+        <list-item>
+          <p>Global Action Plan recognizes that biodiversity is linked
+          with health</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Monitoring framework of the KM-GBF</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Types of indicators (headline, binary, component,
+          complementary)</p>
+        </list-item>
+        <list-item>
+          <p>Many indicators are linked with health (examples)</p>
+        </list-item>
+        <list-item>
+          <p>Reusing indicators decreases the workload of countries</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Objectives of our study</p>
+      <list list-type="order">
+        <list-item>
+          <p>Assess the link between biodiversity indicators and human,
+          animal, plant, and environmental health</p>
+        </list-item>
+      </list>
+      <list list-type="bullet">
+        <list-item>
+          <p>Strengthens the link between biodiversity and health</p>
+        </list-item>
+        <list-item>
+          <p>Reinforces the need for collaboration across
+          disciplines</p>
+        </list-item>
+        <list-item>
+          <p>Highlights the need for shared policy and governance
+          practices between the CBD Secretariat and the Quadripartite
+          Organizations</p>
+        </list-item>
+      </list>
+      <list list-type="order">
+        <list-item>
+          <label>2.</label>
+          <p>Evaluate the usability of indicators for monitoring One
+          Health actions</p>
+        </list-item>
+      </list>
+      <list list-type="bullet">
+        <list-item>
+          <p>Highlights the need for data sharing between Parties,
+          organizations, and other stakeholders</p>
+        </list-item>
+        <list-item>
+          <p>Reduces the workload on countries</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
 </sec>
-<sec id="methods">
-  <title>Methods</title>
+<sec id="evaluation-of-indicators">
+  <title>Evaluation of indicators</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Qualitative assessments</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Total of 204 indicators</p>
+        </list-item>
+        <list-item>
+          <p>Two evaluators for each indicator</p>
+        </list-item>
+        <list-item>
+          <p>Assessments based on expert knowledge</p>
+        </list-item>
+        <list-item>
+          <p>Finding a consensus between the evaluators</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <sec id="assessing-the-link-between-biodiversity-indicators-and-health">
+    <title>Assessing the link between biodiversity indicators and
+    health</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Qualitative assessments</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Assessing the link between each indicator and human,
+            animal, plant, and environmental health</p>
+          </list-item>
+          <list-item>
+            <p>Direct connection if there is a direct causal
+            relationship between the indicator and health (e.g., the
+            indicator could directly measure the state or a risk factor
+            of health)</p>
+          </list-item>
+          <list-item>
+            <p>Indirect connection if there is a single intermediary
+            factor between the indicator and health</p>
+          </list-item>
+          <list-item>
+            <p>Potential connection if there are two or more
+            intermediary factors between the indicator and health, or if
+            they are likely connected but we are not sure how</p>
+          </list-item>
+          <list-item>
+            <p>No connection if the connection between the indicator and
+            health is far-fetched, unlikely, or absent</p>
+          </list-item>
+          <list-item>
+            <p>Require categorizing species and defining health</p>
+          </list-item>
+        </list>
+      </list-item>
+      <list-item>
+        <p>Categorizing species within One Health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Animals</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Include pets, livestock, fisheries, and aquaculture,
+                i.e. species currently looked after by veterinarians and
+                food inspectors</p>
+              </list-item>
+              <list-item>
+                <p>Exclude humans and wildlife</p>
+              </list-item>
+              <list-item>
+                <p>Are taken care of by the World Organisation for
+                Animal Health (WOAH)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Humans</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Are taken care of by the World Health Organization
+                (WHO)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Plants</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Include species used for food, fuel, and medicine,
+                i.e. cultivates plants</p>
+              </list-item>
+              <list-item>
+                <p>Are taken care of by the Food and Agriculture
+                Organization of the United Nations (FAO)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Environment</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Includes ecosystems and all species not considered in
+                the human, animal, or plant categories</p>
+              </list-item>
+              <list-item>
+                <p>Includes forestry and fisheries</p>
+              </list-item>
+              <list-item>
+                <p>Being taken care of by the United Nations Environment
+                Programme (UNEP)</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </list-item>
+      <list-item>
+        <p>Defining health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Human and animal health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Overall wellbeing of an individual, i.e. the extent
+                to which it is able to function physically, mentally,
+                and behaviorally</p>
+              </list-item>
+              <list-item>
+                <p>Diseases are deviations from the normal functioning
+                of an individual, often leading to pain, suffering, and
+                death</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Plant health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>The extent to which an individual is able to function
+                physically</p>
+              </list-item>
+              <list-item>
+                <p>Diseases are deviations from the normal physiological
+                functioning of an individual, often leading to death</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Environmental health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>The extent to which the environment is able to
+                function, maintain biological and chemical processes,
+                and adapt to change</p>
+              </list-item>
+              <list-item>
+                <p>Disturbances are degradations that lead to a decline
+                in the functioning of ecosystems and biological
+                communities</p>
+              </list-item>
+              <list-item>
+                <p>Environmental health include wildlife health</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="assessing-the-usability-of-indicators-for-monitoring-the-oh-jpa">
+    <title>Assessing the usability of indicators for monitoring the OH
+    JPA</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Qualitative assessments</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Evaluating each action track independently</p>
+          </list-item>
+          <list-item>
+            <p>Identifying the main action that can be monitored for
+            each relevant action track</p>
+          </list-item>
+          <list-item>
+            <p>Directly usable indicators can already be used to monitor
+            an action in the action track</p>
+          </list-item>
+          <list-item>
+            <p>Indicators usable after adaptation need to be slightly
+            modified (e.g., changes in scale of measurement, data
+            resolution, or taxa) before being used to monitor an action
+            in the action track</p>
+          </list-item>
+          <list-item>
+            <p>Not usable indicators need to be greatly modified before
+            being used to monitor the actions in the action track, or
+            they monitor something outside the scope of the action
+            track</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+  </sec>
 </sec>
-<sec id="results-and-discussion">
-  <title>Results and discussion</title>
+<sec id="link-between-biodiversity-indicators-and-health">
+  <title>Link between biodiversity indicators and health</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Most indicators are linked with health</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many indicators are directly or indirectly linked with
+          human, animal, plant, and environmental health?</p>
+        </list-item>
+        <list-item>
+          <p>Description of Figure 1</p>
+        </list-item>
+        <list-item>
+          <p>Examples of indicator linked with human, animal, plant, and
+          environmental health</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Figure 1: Bar chart</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>x-axis: Human, animal, plant, and environmental health</p>
+        </list-item>
+        <list-item>
+          <p>color bars: Directly, indirectly, potentially connected and
+          no connection</p>
+        </list-item>
+        <list-item>
+          <p>y-axis: number of indicators</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Link between biodiversity and health</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The state of biodiversity impacts health</p>
+        </list-item>
+        <list-item>
+          <p>Ecosystem services benefit health</p>
+        </list-item>
+        <list-item>
+          <p>Biodiversity and health have similar pressures</p>
+        </list-item>
+        <list-item>
+          <p>Biodiversity and health are protected with similar
+          actions</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+</sec>
+<sec id="usability-of-indicators-for-monitoring-the-oh-jpa">
+  <title>Usability of indicators for monitoring the OH JPA</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Most indicators can be used to monitor the OH JPA</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many indicators for each action track?</p>
+        </list-item>
+        <list-item>
+          <p>Description of Table 1</p>
+        </list-item>
+        <list-item>
+          <p>Importance of directly reusing indicators</p>
+        </list-item>
+        <list-item>
+          <p>Indicators usable after adaptation are based on similar and
+          robust methodologies, which minimizing training
+          requirements</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Table 1:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Lines: All actions in the OH JPA</p>
+        </list-item>
+        <list-item>
+          <p>Columns: Directly usable, usable after adaptation, not
+          usable</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Many usable indicators are headline and binary indicators</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many?</p>
+        </list-item>
+        <list-item>
+          <p>Presentation of important gaps</p>
+        </list-item>
+        <list-item>
+          <p>Description of Figure 2</p>
+        </list-item>
+        <list-item>
+          <p>Important because these are mandatory indicators that are
+          more likely to be measured</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Figure 2: Sankey diagram</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Left: Indicator categories (headline, binary, component,
+          and complementary indicators)</p>
+        </list-item>
+        <list-item>
+          <p>Right: Six action tracks (including no action track)</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Usable indicators are in all categories of the Action Plan</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The KM-GBF addresses many dimensions of health</p>
+        </list-item>
+        <list-item>
+          <p>Presentation of important gaps</p>
+        </list-item>
+        <list-item>
+          <p>Description of important categories and their connection
+          with health</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Figure 3: Sankey diagram</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Left: Categories of the Global Action Plan on biodiversity
+          and health (including no assigned category)</p>
+        </list-item>
+        <list-item>
+          <p>Right: Six action tracks (including no action track)</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
 </sec>
 <sec id="conclusion">
   <title>Conclusion</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Monitoring Frameworks</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The monitoring framework of the OH JPA can be based on
+          indicators of the KM-GBF</p>
+        </list-item>
+        <list-item>
+          <p>Importance of reusing indicators to decrease workload on
+          countries</p>
+        </list-item>
+        <list-item>
+          <p>Importance of sharing data, methodologies, and
+          expertise</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Gaps in indicators</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Indicators</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Other indicators could be identified in other monitoring
+      frameworks (e.g. SDG)</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>New indicators can be developed after identifying gaps</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+    </list-item>
+    <list-item>
+      <p>Collaboration</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Sharing policy and governance practices</p>
+        </list-item>
+        <list-item>
+          <p>The CBD Secretariat should join the Quadripartite
+          Organizations</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
 </sec>
 </body>
 
