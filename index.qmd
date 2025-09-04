@@ -68,8 +68,158 @@ bibliographystyle: springer-basic-author-date
 
 # Introduction
 
-# Methods
+- The One Health approach
+  - Interconnection between human, animal, plant, and environmental health
+  - Zoonotic diseases, non-communicable diseases, food safety, antimicrobial and antiparasitic resistance, climate change, pollution
+  - Collaboration across disciplines
 
-# Results and discussion
+- The One Health Joint Plan of Action 
+  - Quadripartite Organizations
+  - 6 action tracks, many actions, even more activities
+  - No indicators
+
+- The Kunming-Montreal Global Biodiversity Framework
+  - Convention on Biological Diversity
+  - Protecting biodiversity by working towards targets and goals
+  - Global Action Plan recognizes that biodiversity is linked with health 
+
+- Monitoring framework of the KM-GBF
+  - Types of indicators (headline, binary, component, complementary)
+  - Many indicators are linked with health (examples)
+  - Reusing indicators decreases the workload of countries
+
+- Objectives of our study 
+  1. Assess the link between biodiversity indicators and human, animal, plant, and environmental health 
+    - Strengthens the link between biodiversity and health 
+    - Reinforces the need for collaboration across disciplines
+    - Highlights the need for shared policy and governance practices between the CBD Secretariat and the Quadripartite Organizations
+  
+  2. Evaluate the usability of indicators for monitoring One Health actions
+    - Highlights the need for data sharing between Parties, organizations, and other stakeholders
+    - Reduces the workload on countries
+
+# Evaluation of indicators
+
+- Qualitative assessments
+  - Total of 204 indicators
+  - Two evaluators for each indicator
+  - Assessments based on expert knowledge
+  - Finding a consensus between the evaluators
+
+## Assessing the link between biodiversity indicators and health
+
+- Qualitative assessments
+  - Assessing the link between each indicator and human, animal, plant, and environmental health
+  - Direct connection if there is a direct causal relationship between the indicator and health (e.g., the indicator could directly measure the state or a risk factor of health) 
+  - Indirect connection if there is a single intermediary factor between the indicator and health
+  - Potential connection if there are two or more intermediary factors between the indicator and health, or if they are likely connected but we are not sure how
+  - No connection if the connection between the indicator and health is far-fetched, unlikely, or absent
+  - Require categorizing species and defining health
+
+- Categorizing species within One Health 
+  - Animals 
+    - Include pets, livestock, fisheries, and aquaculture, i.e. species currently looked after by veterinarians and food inspectors
+    - Exclude humans and wildlife 
+    - Are taken care of by the World Organisation for Animal Health (WOAH)
+  
+  - Humans
+    - Are taken care of by the World Health Organization (WHO)
+
+  - Plants
+    - Include species used for food, fuel, and medicine, i.e. cultivates plants 
+    - Are taken care of by the Food and Agriculture Organization of the United Nations (FAO)
+
+  - Environment 
+    - Includes ecosystems and all species not considered in the human, animal, or plant categories
+    - Includes forestry and fisheries
+    - Being taken care of by the United Nations Environment Programme (UNEP)
+
+- Defining health
+  - Human and animal health
+    - Overall wellbeing of an individual, i.e. the extent to which it is able to function physically, mentally, and behaviorally 
+    - Diseases are deviations from the normal functioning of an individual, often leading to pain, suffering, and death
+
+  - Plant health 
+    - The extent to which an individual is able to function physically
+    - Diseases are deviations from the normal physiological functioning of an individual, often leading to death
+  
+  - Environmental health
+    - The extent to which the environment is able to function, maintain biological and chemical processes, and adapt to change 
+    - Disturbances are degradations that lead to a decline in the functioning of ecosystems and biological communities
+    - Environmental health include wildlife health
+
+## Assessing the usability of indicators for monitoring the OH JPA
+
+- Qualitative assessments
+  - Evaluating each action track independently
+  - Identifying the main action that can be monitored for each relevant action track
+  - Directly usable indicators can already be used to monitor an action in the action track
+  - Indicators usable after adaptation need to be slightly modified (e.g., changes in scale of measurement, data resolution, or taxa) before being used to monitor an action in the action track
+  - Not usable indicators need to be greatly modified before being used to monitor the actions in the action track, or they monitor something outside the scope of the action track
+
+# Link between biodiversity indicators and health
+
+- Most indicators are linked with health
+  - How many indicators are directly or indirectly linked with human, animal, plant, and environmental health?
+  - Description of Figure 1
+  - Examples of indicator linked with human, animal, plant, and environmental health
+
+- Figure 1: Bar chart
+  - x-axis: Human, animal, plant, and environmental health
+  - color bars: Directly, indirectly, potentially connected and no connection
+  - y-axis: number of indicators
+
+- Link between biodiversity and health
+  - The state of biodiversity impacts health
+  - Ecosystem services benefit health
+  - Biodiversity and health have similar pressures
+  - Biodiversity and health are protected with similar actions
+
+# Usability of indicators for monitoring the OH JPA
+
+- Most indicators can be used to monitor the OH JPA
+  - How many indicators for each action track?
+  - Description of Table 1
+  - Importance of directly reusing indicators
+  - Indicators usable after adaptation are based on similar and robust methodologies, which minimizing training requirements
+
+- Table 1: 
+  - Lines: All actions in the OH JPA
+  - Columns: Directly usable, usable after adaptation, not usable
+
+- Many usable indicators are headline and binary indicators
+  - How many?
+  - Presentation of important gaps
+  - Description of Figure 2
+  - Important because these are mandatory indicators that are more likely to be measured
+
+- Figure 2: Sankey diagram
+  - Left: Indicator categories (headline, binary, component, and complementary indicators)
+  - Right: Six action tracks (including no action track)
+
+- Usable indicators are in all categories of the Action Plan
+  - The KM-GBF addresses many dimensions of health
+  - Presentation of important gaps
+  - Description of important categories and their connection with health
+
+- Figure 3: Sankey diagram
+  - Left: Categories of the Global Action Plan on biodiversity and health (including no assigned category)
+  - Right: Six action tracks (including no action track)
+
 
 # Conclusion
+
+- Monitoring Frameworks
+  - The monitoring framework of the OH JPA can be based on indicators of the KM-GBF
+  - Importance of reusing indicators to decrease workload on countries
+  - Importance of sharing data, methodologies, and expertise 
+
+- Gaps in indicators
+  - Indicators
+- Other indicators could be identified in other monitoring frameworks (e.g. SDG)
+  - New indicators can be developed after identifying gaps
+
+- 
+- Collaboration 
+  - Sharing policy and governance practices
+  - The CBD Secretariat should join the Quadripartite Organizations
