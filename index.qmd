@@ -213,13 +213,9 @@ bibliographystyle: springer-basic-author-date
   - The monitoring framework of the OH JPA can be based on indicators of the KM-GBF
   - Importance of reusing indicators to decrease workload on countries
   - Importance of sharing data, methodologies, and expertise 
+  - Sharing policy and governance practices
 
 - Gaps in indicators
   - Indicators
 - Other indicators could be identified in other monitoring frameworks (e.g. SDG)
   - New indicators can be developed after identifying gaps
-
-- 
-- Collaboration 
-  - Sharing policy and governance practices
-  - The CBD Secretariat should join the Quadripartite Organizations
