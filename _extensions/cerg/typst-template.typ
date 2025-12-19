@@ -41,7 +41,7 @@
   // Change table settings
   
   show table.cell.where(y: 0): set text(style: "normal", weight: "bold", size: 9pt)
-  show table.cell: set text(style: "normal", size: 9pt)
+  show table.cell: set text(style: "normal", size: 8pt)
  
   set table(stroke: none)
   
