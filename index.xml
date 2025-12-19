@@ -148,8 +148,8 @@ administration</role>
 </contrib>
 </contrib-group>
 <aff id="udem">
-<institution content-type="dept">Département de Sciences
-Biologiques</institution>
+<institution content-type="dept">Département de sciences
+biologiques</institution>
 <institution-wrap>
 <institution>Université de Montréal</institution>
 </institution-wrap>
@@ -702,19 +702,11 @@ for shared data, policy, and governance practices.</p>
         </list-item>
       </list>
     </list-item>
-    <list-item>
-      <p>Figure 4: Sankey diagram</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>Left: Categories of the Global Action Plan on biodiversity
-          and health (including no assigned category)</p>
-        </list-item>
-        <list-item>
-          <p>Right: Six action tracks (including no action track)</p>
-        </list-item>
-      </list>
-    </list-item>
   </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_GAP.png" />
+  </fig>
 </sec>
 <sec id="conclusion">
   <title>Conclusion</title>
