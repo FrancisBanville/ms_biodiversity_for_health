@@ -33,7 +33,10 @@
     text(10pt, it)
   }
 
-    // show bibliography: set text(7pt)
+  // Let figures float
+  set figure(placement: auto)
+
+  // show bibliography: set text(7pt)
 
   // Set the body font.
   set text(font: "Libertinus Serif", size: 12pt)
