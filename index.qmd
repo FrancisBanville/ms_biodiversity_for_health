@@ -6,8 +6,15 @@ author:
     affiliations:
       - ref: udem
     roles: 
-      - writing
-      - editing
+      - writing – original draft
+      - writing – review & editing
+      - formal analysis
+      - data curation
+      - investigation
+      - methodology
+      - software
+      - validation
+      - visualization
     email: francis.banville@umontreal.ca
     corresponding: true
     orcid: 0000-0001-9051-0597
@@ -16,21 +23,57 @@ author:
     affiliations:
       - ref: yale
     roles:
-      - editing
+      - writing – review & editing
+      - conceptualization
+      - supervision
+      - validation
     orcid: 0000-0001-6960-8434
+
+  - name: Elodie Eiffener
+    affiliations:
+      - ref: ki
+    roles:
+      - writing – review & editing
+      - data curation
+      - investigation
+      - validation
+    orcid: 0000-0001-5971-4903
+
+  - name: Gabriel Munoz Acevedo
+    affiliations:
+      - ref: cihi
+    roles:
+      - writing – review & editing
+      - data curation
+      - investigation
+      - validation
 
   - name: Andrea Paz Velez 
     affiliations:
       - ref: udem
     roles:
-      - editing
+      - writing – review & editing
+      - conceptualization
+      - data curation
+      - investigation
+      - project administration
+      - supervision
+      - validation
     orcid: 0000-0001-6484-1210
 
   - name: Timothée Poisot
     affiliations:
       - ref: udem
     roles:
-      - editing
+      - writing – review & editing
+      - funding acquisition
+      - conceptualization
+      - data curation
+      - investigation
+      - methodology
+      - project administration
+      - supervision
+      - validation
     orcid: 0000-0002-0735-5184
 
 affiliations:
@@ -47,6 +90,18 @@ affiliations:
     city: New Haven
     region: Connecticut
     country: USA
+
+  - id: ki
+    name: Karolinska Institutet
+    city: Stockholm
+    country: Sweden
+
+  - id: cihi
+    name: Canadian Institute for Health Information
+    city: Ottawa
+    region: Ontario
+    country: Canada
+
 
 keywords:
   - biodiversity indicators
