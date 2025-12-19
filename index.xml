@@ -26,9 +26,22 @@ environmental health</article-title>
 
 <email>francis.banville@umontreal.ca</email>
 <role vocab="https://credit.niso.org" vocab-term="writing – original
-draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing
+– original draft</role>
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
-editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="formal
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">formal
+analysis</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">software</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">visualization</role>
 <xref ref-type="aff" rid="udem">a</xref>
 <xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
 </contrib>
@@ -41,8 +54,47 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <string-name>Colin Carlson</string-name>
 
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
-editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
 <xref ref-type="aff" rid="yale">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-5971-4903</contrib-id>
+<name>
+<surname>Eiffener</surname>
+<given-names>Elodie</given-names>
+</name>
+<string-name>Elodie Eiffener</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="ki">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Acevedo</surname>
+<given-names>Gabriel Munoz</given-names>
+</name>
+<string-name>Gabriel Munoz Acevedo</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="cihi">d</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0001-6484-1210</contrib-id>
@@ -53,7 +105,18 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <string-name>Andrea Paz Velez</string-name>
 
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
-editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">project
+administration</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
 <xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 <contrib contrib-type="author">
@@ -65,7 +128,22 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <string-name>Timothée Poisot</string-name>
 
 <role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
-editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">editing</role>
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="funding
+acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">funding
+acquisition</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">project
+administration</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
 <xref ref-type="aff" rid="udem">a</xref>
 </contrib>
 </contrib-group>
@@ -93,6 +171,30 @@ Health</institution>
 <city>New Haven</city>
 <state>Connecticut</state>
 <country>USA</country>
+
+
+
+</aff>
+<aff id="ki">
+<institution-wrap>
+<institution>Karolinska Institutet</institution>
+</institution-wrap>
+
+<city>Stockholm</city>
+
+<country>Sweden</country>
+
+
+
+</aff>
+<aff id="cihi">
+<institution-wrap>
+<institution>Canadian Institute for Health Information</institution>
+</institution-wrap>
+
+<city>Ottawa</city>
+<state>Ontario</state>
+<country>Canada</country>
 
 
 
