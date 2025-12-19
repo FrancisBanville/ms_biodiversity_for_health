@@ -239,10 +239,31 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
 
 ![Figure caption.](figures/usability_all.png)
 
-- Table 1: 
-  - Lines: All actions in the OH JPA
-  - Columns: Directly usable, usable after adaptation, not usable
 
+| Action | Directly usable | Usable after adaptation |
+|:-------------------------------------|-----|-----|
+| 1.1 Establish the foundations for One Health capacities | 30 | 5 | 
+| 1.2 Generate mechanisms, tools, and capacities to establish a One Health competent workforce and the frameworks/processes to facilitate One Health work | 8 | 50 | 
+| 1.3 Generate an enabling environment for the effective implementation of One Health | 8 | 6 | 
+| 2.1 Understand the drivers of emergence, spillover, and spread of zoonotic pathogens | 16 | 27 |  
+| 2.2 Identify and prioritize targeted, evidence-based upstream interventions to prevent the emergence, spillover, and spread of zoonotic pathogens | 7 | 6 | 
+| 2.3 Strengthen national, regional, and global One Health surveillance, early warning, and response systems | 17 | 30 |
+| 3.1 Enable countries to develop and implement community-centric and risk-based solutions to endemic zoonotic, neglected tropical, and vector-borne disease control using a One Health approach involving all relevant stakeholders | 3 | 14 | 
+| 3.2 Ensure the harmonized application of One Health principles at all levels by implementing practical measures to strengthen local, national, regional, and global policy frameworks for the control and prevention of endemic zoonotic, neglected tropical, and vector-borne diseases | 18 | 10 | 
+| 3.3 Increase political commitment and investment in the control of endemic zoonotic, neglected tropical, and vector-borne diseases, by advocating for and demonstrating the value of a One Health approach | 4 | 19 | 
+| 4.1 Strengthen the One Health approach in national food control systems and food safety coordination | 18 | 30 | 
+| 4.2 Utilize and improve food systems data and analysis, scientific evidence, and risk assessment in developing policy and making integrated risk management decisions | 15 | 21 | 
+| 4.3 Foster the adoption of the One Health approach in national foodborne disease surveillance systems and research for the detection and monitoring of foodborne disease and food contamination | 9 | 19 | 
+| 5.1 Strengthen the capacity and knowledge of countries to prioritize and implement context-specific collaborative One Health work to control AMR in policy, legislation, and practice | 7 | 17 | 
+| 5.2 Reinforce global and regional initiatives and programmes to influence and support One Health responses to AMR | 2 | 13 |
+| 5.3 Strengthen global AMR governance structures | 0 | 1 |  
+| 6.1 Protect, restore, and prevent the degradation of ecosystems and the wider environment | 92 | 16 |  
+| 6.2 Mainstream the health of the environment and ecosystems into the One Health approach | 9 | 7 | 
+| 6.3 Integrate environmental knowledge, data, and evidence into One Health decision-making | 20 | 6 |  
+| 6.4 Create an interoperable One Health academic and in-service training programme for environmental, medical, agricultural, and veterinary sector professionals | 5 | 7 |  
+
+: Table caption {#tbl-letters}
+ 
 - Many usable indicators are headline and binary indicators
   - How many?
   - Presentation of important gaps
