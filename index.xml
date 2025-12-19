@@ -641,7 +641,8 @@ for shared data, policy, and governance practices.</p>
     <caption><p>Figure caption.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
   </fig>
-  <fig id="tbl-letters">
+  <p></p>
+  <fig id="tbl-letters-tbl-colwidths104545">
     <caption><p>Table 1: Table caption</p></caption>
     <table-wrap>
       <table>
@@ -891,6 +892,867 @@ for shared data, policy, and governance practices.</p>
 <back>
 </back>
 
+<sub-article article-type="notebook" id="nb-4-nb-article">
+<front-stub>
+<title-group>
+<article-title>Monitoring biodiversity for human, animal, plant and
+environmental health</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0001-9051-0597</contrib-id>
+<name>
+<surname>Banville</surname>
+<given-names>Francis</given-names>
+</name>
+<string-name>Francis Banville</string-name>
 
+<email>francis.banville@umontreal.ca</email>
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing
+– original draft</role>
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="formal
+analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">formal
+analysis</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">software</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">visualization</role>
+<xref ref-type="aff" rid="udem-nb-article">a</xref>
+<xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-6960-8434</contrib-id>
+<name>
+<surname>Carlson</surname>
+<given-names>Colin</given-names>
+</name>
+<string-name>Colin Carlson</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="yale-nb-article">b</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-5971-4903</contrib-id>
+<name>
+<surname>Eiffener</surname>
+<given-names>Elodie</given-names>
+</name>
+<string-name>Elodie Eiffener</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="ki-nb-article">c</xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Acevedo</surname>
+<given-names>Gabriel Munoz</given-names>
+</name>
+<string-name>Gabriel Munoz Acevedo</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="cihi-nb-article">d</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-6484-1210</contrib-id>
+<name>
+<surname>Velez</surname>
+<given-names>Andrea Paz</given-names>
+</name>
+<string-name>Andrea Paz Velez</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">project
+administration</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="udem-nb-article">a</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-0735-5184</contrib-id>
+<name>
+<surname>Poisot</surname>
+<given-names>Timothée</given-names>
+</name>
+<string-name>Timothée Poisot</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – review &amp;
+editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
+– review &amp; editing</role>
+<role vocab="https://credit.niso.org" vocab-term="funding
+acquisition" vocab-term-identifier="https://credit.niso.org/contributor-roles/funding-acquisition/">funding
+acquisition</role>
+<role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
+<role vocab="https://credit.niso.org" vocab-term="data
+curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">data
+curation</role>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">methodology</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">project
+administration</role>
+<role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
+<role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
+<xref ref-type="aff" rid="udem-nb-article">a</xref>
+</contrib>
+</contrib-group>
+<aff id="udem-nb-article">
+<institution content-type="dept">Département de sciences
+biologiques</institution>
+<institution-wrap>
+<institution>Université de Montréal</institution>
+</institution-wrap>
+
+<city>Montréal</city>
+<state>Québec</state>
+<country>Canada</country>
+
+
+
+</aff>
+<aff id="yale-nb-article">
+<institution content-type="dept">Yale School of Public
+Health</institution>
+<institution-wrap>
+<institution>Yale University</institution>
+</institution-wrap>
+
+<city>New Haven</city>
+<state>Connecticut</state>
+<country>USA</country>
+
+
+
+</aff>
+<aff id="ki-nb-article">
+<institution-wrap>
+<institution>Karolinska Institutet</institution>
+</institution-wrap>
+
+<city>Stockholm</city>
+
+<country>Sweden</country>
+
+
+
+</aff>
+<aff id="cihi-nb-article">
+<institution-wrap>
+<institution>Canadian Institute for Health Information</institution>
+</institution-wrap>
+
+<city>Ottawa</city>
+<state>Ontario</state>
+<country>Canada</country>
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1-nb-article">francis.banville@umontreal.ca</corresp>
+</author-notes>
+<abstract>
+<p>The One Health approach promotes collaboration across disciplines to
+enhance the health of humans, animals, plants, and the environment. The
+Quadripartite organizations, which include the Food and Agriculture
+Organization of the United Nations (FAO), the United Nations Environment
+Programme (UNEP), the World Organisation for Animal Health (WOAH), and
+the World Health Organization (WHO), developed the One Health Joint Plan
+of Action (OH JPA) to support countries in achieving One Health. This
+plan consists of six action tracks, each consisting of a set of actions
+for implementing One Health. By requiring knowledge on zoonotic diseases
+(tracks 2 and 3), food and agriculture (track 4), antimicrobial
+resistance (track 5), and environmental health (track 6), most of these
+tracks directly concern biodiversity. However, there are currently no
+indicators for monitoring the OH JPA. Our research examines the extent
+to which all six tracks are covered by the Kunming-Montreal Global
+Biodiversity Framework (KM-GBF) of the Convention on Biological
+Diversity (CBD), which contains many indicators at the intersection of
+biodiversity and health. We assessed (1) the link between each indicator
+of the KM-GBF and human, animal, plant, and environmental health and (2)
+the usability of these indicators for monitoring One Health actions. We
+found that 75% of indicators are associated with health, and that a
+similar proportion can be used for monitoring One Health actions.
+Overall, our work aims to strengthen collaboration between the CBD
+Secretariat and the Quadripartite Organizations by highlighting the need
+for shared data, policy, and governance practices.</p>
+</abstract>
+</front-stub>
+
+<body>
+<sec id="introduction-nb-article">
+  <title>Introduction</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>The One Health approach</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Interconnection between human, animal, plant, and
+          environmental health</p>
+        </list-item>
+        <list-item>
+          <p>Zoonotic diseases, non-communicable diseases, food safety,
+          antimicrobial and antiparasitic resistance, climate change,
+          pollution</p>
+        </list-item>
+        <list-item>
+          <p>Collaboration across disciplines</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>The One Health Joint Plan of Action</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Quadripartite Organizations</p>
+        </list-item>
+        <list-item>
+          <p>6 action tracks, many actions, even more activities</p>
+        </list-item>
+        <list-item>
+          <p>No indicators</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>The Kunming-Montreal Global Biodiversity Framework</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Convention on Biological Diversity</p>
+        </list-item>
+        <list-item>
+          <p>Protecting biodiversity by working towards targets and
+          goals</p>
+        </list-item>
+        <list-item>
+          <p>Global Action Plan recognizes that biodiversity is linked
+          with health</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Monitoring framework of the KM-GBF</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Types of indicators (headline, binary, component,
+          complementary)</p>
+        </list-item>
+        <list-item>
+          <p>Many indicators are linked with health (examples)</p>
+        </list-item>
+        <list-item>
+          <p>Reusing indicators decreases the workload of countries</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Objectives of our study</p>
+      <list list-type="order">
+        <list-item>
+          <p>Assess the link between biodiversity indicators and human,
+          animal, plant, and environmental health</p>
+        </list-item>
+      </list>
+      <list list-type="bullet">
+        <list-item>
+          <p>Strengthens the link between biodiversity and health</p>
+        </list-item>
+        <list-item>
+          <p>Reinforces the need for collaboration across
+          disciplines</p>
+        </list-item>
+        <list-item>
+          <p>Highlights the need for shared policy and governance
+          practices between the CBD Secretariat and the Quadripartite
+          Organizations</p>
+        </list-item>
+      </list>
+      <list list-type="order">
+        <list-item>
+          <label>2.</label>
+          <p>Evaluate the usability of indicators for monitoring One
+          Health actions</p>
+        </list-item>
+      </list>
+      <list list-type="bullet">
+        <list-item>
+          <p>Highlights the need for data sharing between Parties,
+          organizations, and other stakeholders</p>
+        </list-item>
+        <list-item>
+          <p>Reduces the workload on countries</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+</sec>
+<sec id="evaluation-of-indicators-nb-article">
+  <title>Evaluation of indicators</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Qualitative assessments</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Total of 204 indicators</p>
+        </list-item>
+        <list-item>
+          <p>Two evaluators for each indicator</p>
+        </list-item>
+        <list-item>
+          <p>Assessments based on expert knowledge</p>
+        </list-item>
+        <list-item>
+          <p>Finding a consensus between the evaluators</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <sec id="assessing-the-link-between-biodiversity-indicators-and-health-nb-article">
+    <title>Assessing the link between biodiversity indicators and
+    health</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Qualitative assessments</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Assessing the link between each indicator and human,
+            animal, plant, and environmental health</p>
+          </list-item>
+          <list-item>
+            <p>Direct connection if there is a direct causal
+            relationship between the indicator and health (e.g., the
+            indicator could directly measure the state or a risk factor
+            of health)</p>
+          </list-item>
+          <list-item>
+            <p>Indirect connection if there is a single intermediary
+            factor between the indicator and health</p>
+          </list-item>
+          <list-item>
+            <p>Potential connection if there are two or more
+            intermediary factors between the indicator and health, or if
+            they are likely connected but we are not sure how</p>
+          </list-item>
+          <list-item>
+            <p>No connection if the connection between the indicator and
+            health is far-fetched, unlikely, or absent</p>
+          </list-item>
+          <list-item>
+            <p>Require categorizing species and defining health</p>
+          </list-item>
+        </list>
+      </list-item>
+      <list-item>
+        <p>Categorizing species within One Health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Animals</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Include pets, livestock, fisheries, and aquaculture,
+                i.e. species currently looked after by veterinarians and
+                food inspectors</p>
+              </list-item>
+              <list-item>
+                <p>Exclude humans and wildlife</p>
+              </list-item>
+              <list-item>
+                <p>Are taken care of by the World Organisation for
+                Animal Health (WOAH)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Humans</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Are taken care of by the World Health Organization
+                (WHO)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Plants</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Include species used for food, fuel, and medicine,
+                i.e. cultivates plants</p>
+              </list-item>
+              <list-item>
+                <p>Are taken care of by the Food and Agriculture
+                Organization of the United Nations (FAO)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Environment</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Includes ecosystems and all species not considered in
+                the human, animal, or plant categories</p>
+              </list-item>
+              <list-item>
+                <p>Includes forestry and fisheries</p>
+              </list-item>
+              <list-item>
+                <p>Being taken care of by the United Nations Environment
+                Programme (UNEP)</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </list-item>
+      <list-item>
+        <p>Defining health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Human and animal health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Overall wellbeing of an individual, i.e. the extent
+                to which it is able to function physically, mentally,
+                and behaviorally</p>
+              </list-item>
+              <list-item>
+                <p>Diseases are deviations from the normal functioning
+                of an individual, often leading to pain, suffering, and
+                death</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Plant health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>The extent to which an individual is able to function
+                physically</p>
+              </list-item>
+              <list-item>
+                <p>Diseases are deviations from the normal physiological
+                functioning of an individual, often leading to death</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Environmental health</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>The extent to which the environment is able to
+                function, maintain biological and chemical processes,
+                and adapt to change</p>
+              </list-item>
+              <list-item>
+                <p>Disturbances are degradations that lead to a decline
+                in the functioning of ecosystems and biological
+                communities</p>
+              </list-item>
+              <list-item>
+                <p>Environmental health include wildlife health</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="assessing-the-usability-of-indicators-for-monitoring-the-oh-jpa-nb-article">
+    <title>Assessing the usability of indicators for monitoring the OH
+    JPA</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Qualitative assessments</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Evaluating each action track independently</p>
+          </list-item>
+          <list-item>
+            <p>Identifying the main action that can be monitored for
+            each relevant action track</p>
+          </list-item>
+          <list-item>
+            <p>Directly usable indicators can already be used to monitor
+            an action in the action track</p>
+          </list-item>
+          <list-item>
+            <p>Indicators usable after adaptation need to be slightly
+            modified (e.g., changes in scale of measurement, data
+            resolution, or taxa) before being used to monitor an action
+            in the action track</p>
+          </list-item>
+          <list-item>
+            <p>Not usable indicators need to be greatly modified before
+            being used to monitor the actions in the action track, or
+            they monitor something outside the scope of the action
+            track</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+  </sec>
+</sec>
+<sec id="link-between-biodiversity-indicators-and-health-nb-article">
+  <title>Link between biodiversity indicators and health</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Most indicators are linked with health</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many indicators are directly or indirectly linked with
+          human, animal, plant, and environmental health?</p>
+        </list-item>
+        <list-item>
+          <p>Description of Figure 1</p>
+        </list-item>
+        <list-item>
+          <p>Examples of indicator linked with human, animal, plant, and
+          environmental health</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
+  </fig>
+  <list list-type="bullet">
+    <list-item>
+      <p>Link between biodiversity and health</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The state of biodiversity impacts health</p>
+        </list-item>
+        <list-item>
+          <p>Ecosystem services benefit health</p>
+        </list-item>
+        <list-item>
+          <p>Biodiversity and health have similar pressures</p>
+        </list-item>
+        <list-item>
+          <p>Biodiversity and health are protected with similar
+          actions</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+</sec>
+<sec id="usability-of-indicators-for-monitoring-the-oh-jpa-nb-article">
+  <title>Usability of indicators for monitoring the OH JPA</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Most indicators can be used to monitor the OH JPA</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many indicators for each action track?</p>
+        </list-item>
+        <list-item>
+          <p>Description of Table 1</p>
+        </list-item>
+        <list-item>
+          <p>Description of Figure 2</p>
+        </list-item>
+        <list-item>
+          <p>Importance of directly reusing indicators</p>
+        </list-item>
+        <list-item>
+          <p>Indicators usable after adaptation are based on similar and
+          robust methodologies, which minimizing training
+          requirements</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
+  </fig>
+  <p></p>
+  <fig id="tbl-letters-tbl-colwidths104545-nb-article">
+    <caption><p>Table 1: Table caption</p></caption>
+    <table-wrap>
+      <table>
+        <colgroup>
+          <col width="79%" />
+          <col width="10%" />
+          <col width="10%" />
+        </colgroup>
+        <thead>
+          <tr>
+            <th align="left">Action</th>
+            <th>Directly usable</th>
+            <th>Usable after adaptation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">1.1 Establish the foundations for One
+            Health capacities</td>
+            <td>30</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td align="left">1.2 Generate mechanisms, tools, and
+            capacities to establish a One Health competent workforce and
+            the frameworks/processes to facilitate One Health work</td>
+            <td>8</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td align="left">1.3 Generate an enabling environment for
+            the effective implementation of One Health</td>
+            <td>8</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td align="left">2.1 Understand the drivers of emergence,
+            spillover, and spread of zoonotic pathogens</td>
+            <td>16</td>
+            <td>27</td>
+          </tr>
+          <tr>
+            <td align="left">2.2 Identify and prioritize targeted,
+            evidence-based upstream interventions to prevent the
+            emergence, spillover, and spread of zoonotic pathogens</td>
+            <td>7</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td align="left">2.3 Strengthen national, regional, and
+            global One Health surveillance, early warning, and response
+            systems</td>
+            <td>17</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td align="left">3.1 Enable countries to develop and
+            implement community-centric and risk-based solutions to
+            endemic zoonotic, neglected tropical, and vector-borne
+            disease control using a One Health approach involving all
+            relevant stakeholders</td>
+            <td>3</td>
+            <td>14</td>
+          </tr>
+          <tr>
+            <td align="left">3.2 Ensure the harmonized application of
+            One Health principles at all levels by implementing
+            practical measures to strengthen local, national, regional,
+            and global policy frameworks for the control and prevention
+            of endemic zoonotic, neglected tropical, and vector-borne
+            diseases</td>
+            <td>18</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td align="left">3.3 Increase political commitment and
+            investment in the control of endemic zoonotic, neglected
+            tropical, and vector-borne diseases, by advocating for and
+            demonstrating the value of a One Health approach</td>
+            <td>4</td>
+            <td>19</td>
+          </tr>
+          <tr>
+            <td align="left">4.1 Strengthen the One Health approach in
+            national food control systems and food safety
+            coordination</td>
+            <td>18</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td align="left">4.2 Utilize and improve food systems data
+            and analysis, scientific evidence, and risk assessment in
+            developing policy and making integrated risk management
+            decisions</td>
+            <td>15</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td align="left">4.3 Foster the adoption of the One Health
+            approach in national foodborne disease surveillance systems
+            and research for the detection and monitoring of foodborne
+            disease and food contamination</td>
+            <td>9</td>
+            <td>19</td>
+          </tr>
+          <tr>
+            <td align="left">5.1 Strengthen the capacity and knowledge
+            of countries to prioritize and implement context-specific
+            collaborative One Health work to control AMR in policy,
+            legislation, and practice</td>
+            <td>7</td>
+            <td>17</td>
+          </tr>
+          <tr>
+            <td align="left">5.2 Reinforce global and regional
+            initiatives and programmes to influence and support One
+            Health responses to AMR</td>
+            <td>2</td>
+            <td>13</td>
+          </tr>
+          <tr>
+            <td align="left">5.3 Strengthen global AMR governance
+            structures</td>
+            <td>0</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td align="left">6.1 Protect, restore, and prevent the
+            degradation of ecosystems and the wider environment</td>
+            <td>92</td>
+            <td>16</td>
+          </tr>
+          <tr>
+            <td align="left">6.2 Mainstream the health of the
+            environment and ecosystems into the One Health approach</td>
+            <td>9</td>
+            <td>7</td>
+          </tr>
+          <tr>
+            <td align="left">6.3 Integrate environmental knowledge,
+            data, and evidence into One Health decision-making</td>
+            <td>20</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td align="left">6.4 Create an interoperable One Health
+            academic and in-service training programme for
+            environmental, medical, agricultural, and veterinary sector
+            professionals</td>
+            <td>5</td>
+            <td>7</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </fig>
+  <list list-type="bullet">
+    <list-item>
+      <p>Many usable indicators are headline and binary indicators</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>How many?</p>
+        </list-item>
+        <list-item>
+          <p>Presentation of important gaps</p>
+        </list-item>
+        <list-item>
+          <p>Description of Figure 3</p>
+        </list-item>
+        <list-item>
+          <p>Important because these are mandatory indicators that are
+          more likely to be measured</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
+  </fig>
+  <list list-type="bullet">
+    <list-item>
+      <p>Usable indicators are in all categories of the Action Plan</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The KM-GBF addresses many dimensions of health</p>
+        </list-item>
+        <list-item>
+          <p>Presentation of important gaps</p>
+        </list-item>
+        <list-item>
+          <p>Description of important categories and their connection
+          with health</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_GAP.png" />
+  </fig>
+</sec>
+<sec id="conclusion-nb-article">
+  <title>Conclusion</title>
+  <list list-type="bullet">
+    <list-item>
+      <p>Monitoring Frameworks</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The monitoring framework of the OH JPA can be based on
+          indicators of the KM-GBF</p>
+        </list-item>
+        <list-item>
+          <p>Importance of reusing indicators to decrease workload on
+          countries</p>
+        </list-item>
+        <list-item>
+          <p>Importance of sharing data, methodologies, and
+          expertise</p>
+        </list-item>
+        <list-item>
+          <p>Sharing policy and governance practices</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Gaps in indicators</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Indicators</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Other indicators could be identified in other monitoring
+      frameworks (e.g. SDG)</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>New indicators can be developed after identifying gaps</p>
+        </list-item>
+      </list>
+    </list-item>
+  </list>
+</sec>
+</body>
+
+
+
+<back>
+</back>
+
+
+</sub-article>
 
 </article>
