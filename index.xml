@@ -531,6 +531,9 @@ for shared data, policy, and governance practices.</p>
           <p>Description of Table 1</p>
         </list-item>
         <list-item>
+          <p>Description of Figure 2</p>
+        </list-item>
+        <list-item>
           <p>Importance of directly reusing indicators</p>
         </list-item>
         <list-item>
@@ -540,6 +543,12 @@ for shared data, policy, and governance practices.</p>
         </list-item>
       </list>
     </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
+  </fig>
+  <list list-type="bullet">
     <list-item>
       <p>Table 1:</p>
       <list list-type="bullet">
@@ -562,7 +571,7 @@ for shared data, policy, and governance practices.</p>
           <p>Presentation of important gaps</p>
         </list-item>
         <list-item>
-          <p>Description of Figure 2</p>
+          <p>Description of Figure 3</p>
         </list-item>
         <list-item>
           <p>Important because these are mandatory indicators that are
@@ -572,19 +581,27 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
   <fig>
-    <caption><p>Elephant</p></caption>
+    <caption><p>Figure caption.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
   </fig>
-  <p>#figure( rect[Hello], caption: [I am emphasized!], )</p>
-  <p>#figure( image(“figures/usability_categories.png”, width: 80%),
-  caption: [A curious figure.], ) </p>
-  <p>TEST - Usable indicators are in all categories of the Action Plan -
-  The KM-GBF addresses many dimensions of health - Presentation of
-  important gaps - Description of important categories and their
-  connection with health</p>
   <list list-type="bullet">
     <list-item>
-      <p>Figure 3: Sankey diagram</p>
+      <p>Usable indicators are in all categories of the Action Plan</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The KM-GBF addresses many dimensions of health</p>
+        </list-item>
+        <list-item>
+          <p>Presentation of important gaps</p>
+        </list-item>
+        <list-item>
+          <p>Description of important categories and their connection
+          with health</p>
+        </list-item>
+      </list>
+    </list-item>
+    <list-item>
+      <p>Figure 4: Sankey diagram</p>
       <list list-type="bullet">
         <list-item>
           <p>Left: Categories of the Global Action Plan on biodiversity
