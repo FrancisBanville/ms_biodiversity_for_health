@@ -27,6 +27,12 @@ $if(by-affiliation)$
         $for(by-affiliation)$
             $if(it.name)$
                 (
+                    name: "$it.name$, $it.city$ $it.region$, $it.country$",
+                    number: "$it.number$",
+                ),
+            $endif$
+            $if(it.department)$
+                (
                     name: "$it.name$, $it.department$, $it.city$ $it.region$, $it.country$",
                     number: "$it.number$",
                 ),
