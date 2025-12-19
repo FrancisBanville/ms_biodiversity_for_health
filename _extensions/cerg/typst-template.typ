@@ -34,17 +34,24 @@
   }
 
   // Let figures float
-  // set figure(placement: auto)
+  set figure(placement: auto)
 
   // show bibliography: set text(7pt)
 
   // Change table settings
   
-  show table.cell.where(y: 0): set text(style: "normal", weight: "bold")
-  set table(stroke: (x: none))
+  show table.cell.where(y: 0): set text(style: "normal", weight: "bold", size: 9pt)
+  show table.cell: set text(style: "normal", size: 9pt)
 
-  show table.cell.where(y: 0): set text(weight: "bold")
-  show figure: set block(breakable: true)
+  set table(stroke: none)
+  
+  set table(stroke: (x, y) => (
+  left: 0pt,
+  right: 0pt,
+  top: if y <= 1 { 1pt } else { 0pt },
+  bottom: 1pt,
+  ))
+
 
   // Set the body font.
   set text(font: "Libertinus Serif", size: 12pt)

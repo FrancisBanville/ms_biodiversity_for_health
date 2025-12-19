@@ -242,7 +242,7 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
 
 
 | Action | Directly usable | Usable after adaptation |
-|:-----------------------------|--------|--------|
+|:---------------------|----------:|----------:|
 | 1.1 Establish the foundations for One Health capacities | 30 | 5 | 
 | 1.2 Generate mechanisms, tools, and capacities to establish a One Health competent workforce and the frameworks/processes to facilitate One Health work | 8 | 50 | 
 | 1.3 Generate an enabling environment for the effective implementation of One Health | 8 | 6 | 
@@ -263,7 +263,7 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
 | 6.3 Integrate environmental knowledge, data, and evidence into One Health decision-making | 20 | 6 |  
 | 6.4 Create an interoperable One Health academic and in-service training programme for environmental, medical, agricultural, and veterinary sector professionals | 5 | 7 |  
 
-: Table caption {#tbl-letters; tbl-colwidths="[10,45,45]"}
+: Table caption {#tbl-letters}
  
 - Many usable indicators are headline and binary indicators
   - How many?
