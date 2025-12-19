@@ -79,7 +79,7 @@ author:
 affiliations:
   - id: udem
     name: Université de Montréal
-    department: Département de Sciences Biologiques
+    department: Département de sciences biologiques
     city: Montréal
     region: Québec
     country: Canada
@@ -260,10 +260,7 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
   - Presentation of important gaps
   - Description of important categories and their connection with health
 
-- Figure 4: Sankey diagram
-  - Left: Categories of the Global Action Plan on biodiversity and health (including no assigned category)
-  - Right: Six action tracks (including no action track)
-
+![Figure caption.](figures/usability_GAP.png)
 
 # Conclusion
 
