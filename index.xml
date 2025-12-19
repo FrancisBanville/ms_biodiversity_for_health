@@ -570,33 +570,19 @@ for shared data, policy, and governance practices.</p>
         </list-item>
       </list>
     </list-item>
-    <list-item>
-      <p>Figure 2: Sankey diagram</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>Left: Indicator categories (headline, binary, component,
-          and complementary indicators)</p>
-        </list-item>
-        <list-item>
-          <p>Right: Six action tracks (including no action track)</p>
-        </list-item>
-      </list>
-    </list-item>
-    <list-item>
-      <p>Usable indicators are in all categories of the Action Plan</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>The KM-GBF addresses many dimensions of health</p>
-        </list-item>
-        <list-item>
-          <p>Presentation of important gaps</p>
-        </list-item>
-        <list-item>
-          <p>Description of important categories and their connection
-          with health</p>
-        </list-item>
-      </list>
-    </list-item>
+  </list>
+  <fig>
+    <caption><p>Elephant</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
+  </fig>
+  <p>#figure( rect[Hello], caption: [I am emphasized!], )</p>
+  <p>#figure( image(“figures/usability_categories.png”, width: 80%),
+  caption: [A curious figure.], ) </p>
+  <p>TEST - Usable indicators are in all categories of the Action Plan -
+  The KM-GBF addresses many dimensions of health - Presentation of
+  important gaps - Description of important categories and their
+  connection with health</p>
+  <list list-type="bullet">
     <list-item>
       <p>Figure 3: Sankey diagram</p>
       <list list-type="bullet">
