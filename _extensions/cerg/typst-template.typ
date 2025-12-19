@@ -44,6 +44,13 @@
   stroke: frame(1pt + rgb("21222C")),
   )
 
+  let frame(stroke) = (x, y) => (
+    left: if x > 0 { 0pt } else { stroke },
+    right: stroke,
+    top: if y < 2 { stroke } else { 0pt },
+    bottom: stroke,
+  )
+  
   show table.cell.where(x: 0): set text(style: "italic")
   show table.cell.where(y: 0): set text(style: "normal", weight: "bold")
   set table(stroke: (_, y) => if y > 0 { (top: 0.8pt) })
