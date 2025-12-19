@@ -243,6 +243,7 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
 `#show figure: set block(breakable: true)`{=typst}
 
 
+
 | Action | Directly usable | Usable after adaptation |
 |:-------------------------------------|-----|-----|
 | 1.1 Establish the foundations for One Health capacities | 30 | 5 | 
