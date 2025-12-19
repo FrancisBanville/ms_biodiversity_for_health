@@ -39,21 +39,6 @@
   // show bibliography: set text(7pt)
 
   // Change table settings
-  set table(
-  fill: (_, y) => if calc.odd(y) { rgb("EAF2F5") },
-  stroke: frame(1pt + rgb("21222C")),
-  )
-
-  let frame(stroke) = (x, y) => (
-    left: if x > 0 { 0pt } else { stroke },
-    right: stroke,
-    top: if y < 2 { stroke } else { 0pt },
-    bottom: stroke,
-  )
-  
-  show table.cell.where(x: 0): set text(style: "italic")
-  show table.cell.where(y: 0): set text(style: "normal", weight: "bold")
-  set table(stroke: (_, y) => if y > 0 { (top: 0.8pt) })
   
   // Set the body font.
   set text(font: "Libertinus Serif", size: 12pt)
