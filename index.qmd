@@ -240,9 +240,6 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
 ![Figure caption.](figures/usability_all.png)
 
 
-`#show figure: set block(breakable: true)`{=typst}
-
-
 
 | Action | Directly usable | Usable after adaptation |
 |:-------------------------------------|-----|-----|

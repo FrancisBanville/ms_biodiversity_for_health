@@ -14,8 +14,6 @@ format:
   docx: default
   jats: default
   cerg-typst: default
-  revealjs:
-    theme: custom_table.scss
 
   
 execute:
