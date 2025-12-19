@@ -61,8 +61,9 @@ abstract: |
 date: last-modified
 published-title: Date
 
-bibliography: references.bib 
-bibliographystyle: springer-basic-author-date
+bibliography: references.bib
+citeproc: true
+csl: https://www.zotero.org/styles/springer-basic-author-date
 
 ---
 
@@ -180,8 +181,11 @@ bibliographystyle: springer-basic-author-date
 - Most indicators can be used to monitor the OH JPA
   - How many indicators for each action track?
   - Description of Table 1
+  - Description of Figure 2
   - Importance of directly reusing indicators
   - Indicators usable after adaptation are based on similar and robust methodologies, which minimizing training requirements
+
+![Figure caption.](figures/usability_all.png)
 
 - Table 1: 
   - Lines: All actions in the OH JPA
@@ -190,28 +194,18 @@ bibliographystyle: springer-basic-author-date
 - Many usable indicators are headline and binary indicators
   - How many?
   - Presentation of important gaps
-  - Description of Figure 2
+  - Description of Figure 3
   - Important because these are mandatory indicators that are more likely to be measured
 
-![Elephant](figures/usability_categories.png)
+![Figure caption.](figures/usability_categories.png)
 
-#figure(
-  rect[Hello],
-  caption: [I am emphasized!],
-)
 
-#figure(
-  image("figures/usability_categories.png", width: 80%),
-  caption: [A curious figure.],
-) <bars_all>
-
-TEST
 - Usable indicators are in all categories of the Action Plan
   - The KM-GBF addresses many dimensions of health
   - Presentation of important gaps
   - Description of important categories and their connection with health
 
-- Figure 3: Sankey diagram
+- Figure 4: Sankey diagram
   - Left: Categories of the Global Action Plan on biodiversity and health (including no assigned category)
   - Right: Six action tracks (including no action track)
 
