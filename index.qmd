@@ -220,10 +220,7 @@ csl: https://www.zotero.org/styles/springer-basic-author-date
   - Description of Figure 1
   - Examples of indicator linked with human, animal, plant, and environmental health
 
-- Figure 1: Bar chart
-  - x-axis: Human, animal, plant, and environmental health
-  - color bars: Directly, indirectly, potentially connected and no connection
-  - y-axis: number of indicators
+![Figure caption.](figures/link_health.png)
 
 - Link between biodiversity and health
   - The state of biodiversity impacts health
