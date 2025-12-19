@@ -193,10 +193,19 @@ bibliographystyle: springer-basic-author-date
   - Description of Figure 2
   - Important because these are mandatory indicators that are more likely to be measured
 
-- Figure 2: Sankey diagram
-  - Left: Indicator categories (headline, binary, component, and complementary indicators)
-  - Right: Six action tracks (including no action track)
+![Elephant](figures/usability_categories.png.png)
 
+#figure(
+  rect[Hello],
+  caption: [I am emphasized!],
+)
+
+#figure(
+  image("figures/usability_categories.png", width: 80%),
+  caption: [A curious figure.],
+) <bars_all>
+
+TEST
 - Usable indicators are in all categories of the Action Plan
   - The KM-GBF addresses many dimensions of health
   - Presentation of important gaps
