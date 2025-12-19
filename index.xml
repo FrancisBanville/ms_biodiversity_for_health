@@ -585,21 +585,12 @@ for shared data, policy, and governance practices.</p>
         </list-item>
       </list>
     </list-item>
-    <list-item>
-      <p>Figure 1: Bar chart</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>x-axis: Human, animal, plant, and environmental health</p>
-        </list-item>
-        <list-item>
-          <p>color bars: Directly, indirectly, potentially connected and
-          no connection</p>
-        </list-item>
-        <list-item>
-          <p>y-axis: number of indicators</p>
-        </list-item>
-      </list>
-    </list-item>
+  </list>
+  <fig>
+    <caption><p>Figure caption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
+  </fig>
+  <list list-type="bullet">
     <list-item>
       <p>Link between biodiversity and health</p>
       <list list-type="bullet">
