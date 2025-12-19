@@ -40,6 +40,9 @@
 
   // Change table settings
   
+  show table.cell.where(y: 0): set text(weight: "bold")
+  show figure: set block(breakable: true)
+
   // Set the body font.
   set text(font: "Libertinus Serif", size: 12pt)
 
