@@ -34,7 +34,7 @@
   }
 
   // Let figures float
-  set figure(placement: auto)
+  // set figure(placement: auto)
 
   // show bibliography: set text(7pt)
 
