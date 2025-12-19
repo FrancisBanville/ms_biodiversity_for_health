@@ -42,6 +42,7 @@
   
   show table.cell.where(y: 0): set text(style: "normal", weight: "bold")
   set table(stroke: (_, y) => if y > 0 { (top: 0.8pt) })
+  set table(stroke: (x: none))
 
   show table.cell.where(y: 0): set text(weight: "bold")
   show figure: set block(breakable: true)
