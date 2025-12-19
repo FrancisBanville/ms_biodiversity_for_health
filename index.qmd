@@ -193,7 +193,7 @@ bibliographystyle: springer-basic-author-date
   - Description of Figure 2
   - Important because these are mandatory indicators that are more likely to be measured
 
-![Elephant](figures/usability_categories.png.png)
+![Elephant](figures/usability_categories.png)
 
 #figure(
   rect[Hello],
