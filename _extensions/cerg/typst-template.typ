@@ -52,6 +52,7 @@
   bottom: 1pt,
   ))
 
+  set table(fill: (_, y) => if y == 1 or y == 5 or y == 9 or y == 13 or y == 17 or y == 21 { rgb("EAF2F5") })
 
   // Set the body font.
   set text(font: "Libertinus Serif", size: 12pt)
