@@ -587,7 +587,11 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
   <fig>
-    <caption><p>Figure caption.</p></caption>
+    <caption><p><bold>Number of KM-GBF indicators linked with human,
+    animal, plant, and environmental health.</bold> Each indicator was
+    classified as being either directly connected (blue), indirectly
+    connected (green), potentially connected (orange), or not connected
+    (red) to each of the Health dimensions.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
   </fig>
   <list list-type="bullet">
@@ -638,23 +642,38 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
   <fig>
-    <caption><p>Figure caption.</p></caption>
+    <caption><p><bold>Number of KM-GBF indicators that can be used to
+    monitor at least one action in each of the OH JPA action
+    tracks.</bold> The opaque bars represent directly usable indicators,
+    whereas the transparent bars represent those usable after
+    adaptation. The proportion of usable indicators (either directly or
+    after adaptation) for each action track is indicated. The bottom bar
+    and proportion designate the indicators that can monitor at least
+    one action in the whole plan.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
   </fig>
   <fig id="tbl-letters">
-    <caption><p>Table 1: Table caption</p></caption>
+    <caption><p>Table 1: <bold>Number of KM-GBF indicators that can be
+    used directly and after adaptation to monitor each action of the OH
+    JPA.</bold> The total number of usable indicators for each action
+    track is indicated in the highlighted blue lines. A specific
+    indicator can be used to monitor multiple action tracks, but only
+    the most relevant action in each action track was
+    identified.</p></caption>
     <table-wrap>
       <table>
         <colgroup>
-          <col width="76%" />
+          <col width="68%" />
+          <col width="10%" />
           <col width="11%" />
-          <col width="13%" />
+          <col width="11%" />
         </colgroup>
         <thead>
           <tr>
             <th align="left">Action</th>
             <th align="right">Directly usable</th>
             <th align="right">Usable after adaptation</th>
+            <th align="right">Total usable</th>
           </tr>
         </thead>
         <tbody>
@@ -663,12 +682,14 @@ for shared data, policy, and governance practices.</p>
             strengthen health systems</bold></td>
             <td align="right"><bold>46</bold></td>
             <td align="right"><bold>61</bold></td>
+            <td align="right"><bold>107</bold></td>
           </tr>
           <tr>
             <td align="left">1.1 Establish the foundations for One
             Health capacities</td>
             <td align="right">30</td>
             <td align="right">5</td>
+            <td align="right">35</td>
           </tr>
           <tr>
             <td align="left">1.2 Generate mechanisms, tools, and
@@ -676,24 +697,28 @@ for shared data, policy, and governance practices.</p>
             the frameworks/processes to facilitate One Health work</td>
             <td align="right">8</td>
             <td align="right">50</td>
+            <td align="right">58</td>
           </tr>
           <tr>
             <td align="left">1.3 Generate an enabling environment for
             the effective implementation of One Health</td>
             <td align="right">8</td>
             <td align="right">6</td>
+            <td align="right">14</td>
           </tr>
           <tr>
             <td align="left"><bold>2 Reducing the risks from emerging
             and re-emerging zoonotic epidemics and pandemics</bold></td>
             <td align="right"><bold>40</bold></td>
             <td align="right"><bold>63</bold></td>
+            <td align="right"><bold>103</bold></td>
           </tr>
           <tr>
             <td align="left">2.1 Understand the drivers of emergence,
             spillover, and spread of zoonotic pathogens</td>
             <td align="right">16</td>
             <td align="right">27</td>
+            <td align="right">43</td>
           </tr>
           <tr>
             <td align="left">2.2 Identify and prioritize targeted,
@@ -701,6 +726,7 @@ for shared data, policy, and governance practices.</p>
             emergence, spillover, and spread of zoonotic pathogens</td>
             <td align="right">7</td>
             <td align="right">6</td>
+            <td align="right">13</td>
           </tr>
           <tr>
             <td align="left">2.3 Strengthen national, regional, and
@@ -708,6 +734,7 @@ for shared data, policy, and governance practices.</p>
             systems</td>
             <td align="right">17</td>
             <td align="right">30</td>
+            <td align="right">47</td>
           </tr>
           <tr>
             <td align="left"><bold>3 Controlling and eliminating endemic
@@ -715,6 +742,7 @@ for shared data, policy, and governance practices.</p>
             diseases</bold></td>
             <td align="right"><bold>25</bold></td>
             <td align="right"><bold>43</bold></td>
+            <td align="right"><bold>68</bold></td>
           </tr>
           <tr>
             <td align="left">3.1 Enable countries to develop and
@@ -724,6 +752,7 @@ for shared data, policy, and governance practices.</p>
             relevant stakeholders</td>
             <td align="right">3</td>
             <td align="right">14</td>
+            <td align="right">17</td>
           </tr>
           <tr>
             <td align="left">3.2 Ensure the harmonized application of
@@ -734,6 +763,7 @@ for shared data, policy, and governance practices.</p>
             diseases</td>
             <td align="right">18</td>
             <td align="right">10</td>
+            <td align="right">28</td>
           </tr>
           <tr>
             <td align="left">3.3 Increase political commitment and
@@ -742,6 +772,7 @@ for shared data, policy, and governance practices.</p>
             demonstrating the value of a One Health approach</td>
             <td align="right">4</td>
             <td align="right">19</td>
+            <td align="right">23</td>
           </tr>
           <tr>
             <td align="left"><bold>4 Strengthening the assessment,
@@ -749,6 +780,7 @@ for shared data, policy, and governance practices.</p>
             risks</bold></td>
             <td align="right"><bold>42</bold></td>
             <td align="right"><bold>70</bold></td>
+            <td align="right"><bold>112</bold></td>
           </tr>
           <tr>
             <td align="left">4.1 Strengthen the One Health approach in
@@ -756,6 +788,7 @@ for shared data, policy, and governance practices.</p>
             coordination</td>
             <td align="right">18</td>
             <td align="right">30</td>
+            <td align="right">48</td>
           </tr>
           <tr>
             <td align="left">4.2 Utilize and improve food systems data
@@ -764,6 +797,7 @@ for shared data, policy, and governance practices.</p>
             decisions</td>
             <td align="right">15</td>
             <td align="right">21</td>
+            <td align="right">36</td>
           </tr>
           <tr>
             <td align="left">4.3 Foster the adoption of the One Health
@@ -772,12 +806,14 @@ for shared data, policy, and governance practices.</p>
             disease and food contamination</td>
             <td align="right">9</td>
             <td align="right">19</td>
+            <td align="right">28</td>
           </tr>
           <tr>
             <td align="left"><bold>5 Curbing the silent pandemic of
             antimicrobial resistance (AMR)</bold></td>
             <td align="right"><bold>9</bold></td>
             <td align="right"><bold>31</bold></td>
+            <td align="right"><bold>40</bold></td>
           </tr>
           <tr>
             <td align="left">5.1 Strengthen the capacity and knowledge
@@ -786,6 +822,7 @@ for shared data, policy, and governance practices.</p>
             legislation, and practice</td>
             <td align="right">7</td>
             <td align="right">17</td>
+            <td align="right">24</td>
           </tr>
           <tr>
             <td align="left">5.2 Reinforce global and regional
@@ -793,11 +830,13 @@ for shared data, policy, and governance practices.</p>
             Health responses to AMR</td>
             <td align="right">2</td>
             <td align="right">13</td>
+            <td align="right">15</td>
           </tr>
           <tr>
             <td align="left">5.3 Strengthen global AMR governance
             structures</td>
             <td align="right">0</td>
+            <td align="right">1</td>
             <td align="right">1</td>
           </tr>
           <tr>
@@ -805,24 +844,28 @@ for shared data, policy, and governance practices.</p>
             One Health</bold></td>
             <td align="right"><bold>126</bold></td>
             <td align="right"><bold>36</bold></td>
+            <td align="right"><bold>162</bold></td>
           </tr>
           <tr>
             <td align="left">6.1 Protect, restore, and prevent the
             degradation of ecosystems and the wider environment</td>
             <td align="right">92</td>
             <td align="right">16</td>
+            <td align="right">108</td>
           </tr>
           <tr>
             <td align="left">6.2 Mainstream the health of the
             environment and ecosystems into the One Health approach</td>
             <td align="right">9</td>
             <td align="right">7</td>
+            <td align="right">16</td>
           </tr>
           <tr>
             <td align="left">6.3 Integrate environmental knowledge,
             data, and evidence into One Health decision-making</td>
             <td align="right">20</td>
             <td align="right">6</td>
+            <td align="right">26</td>
           </tr>
           <tr>
             <td align="left">6.4 Create an interoperable One Health
@@ -831,6 +874,7 @@ for shared data, policy, and governance practices.</p>
             professionals</td>
             <td align="right">5</td>
             <td align="right">7</td>
+            <td align="right">12</td>
           </tr>
         </tbody>
       </table>
@@ -857,7 +901,14 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
   <fig>
-    <caption><p>Figure caption.</p></caption>
+    <caption><p><bold>Proportion of KM-GBF indicators that can be used
+    to monitor at least one action in each of the OH JPA action tracks,
+    partitioned by the different groups of indicators.</bold> The number
+    of indicators in each group is indicated in parentheses. The opaque
+    bars represent directly usable indicators, whereas the transparent
+    bars represent those usable after adaptation. The gray bars
+    designate the indicators that can monitor at least one action in the
+    whole plan.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
   </fig>
   <list list-type="bullet">
@@ -878,7 +929,17 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
   <fig>
-    <caption><p>Figure caption.</p></caption>
+    <caption><p><bold>Proportion of KM-GBF indicators that can be used
+    to monitor at least one action in each of the OH JPA action tracks,
+    partitioned by the different thematic categories of the Global
+    Action Plan on Biodiversity and Health.</bold> The number of
+    indicators whose target is in each thematic category is indicated in
+    parentheses. The opaque bars represent directly usable indicators,
+    whereas the transparent bars represent those usable after
+    adaptation. The gray bars designate the indicators that can monitor
+    at least one action in the whole plan. Indicators that monitor
+    KM-GBF goals A, B, C, and D are not assigned to any thematic
+    category.</p></caption>
     <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_GAP.png" />
   </fig>
 </sec>
