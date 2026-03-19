@@ -984,10 +984,57 @@ for shared data, policy, and governance practices.</p>
       </list>
     </list-item>
   </list>
+  <p>Stephens et al.
+  (<xref alt="2016" rid="ref-Stephens2016Macroecology" ref-type="bibr">2016</xref>)</p>
+  <p>Blabla (allo,
+  <xref alt="Stephens et al., 2016" rid="ref-Stephens2016Macroecology" ref-type="bibr">Stephens
+  et al., 2016</xref>)</p>
 </sec>
 </body>
 
 <back>
+<ref-list>
+  <title></title>
+  <ref id="ref-Stephens2016Macroecology">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Stephens</surname><given-names>Patrick R.</given-names></name>
+        <name><surname>Altizer</surname><given-names>Sonia</given-names></name>
+        <name><surname>Smith</surname><given-names>Katherine F.</given-names></name>
+        <name><surname>Alonso Aguirre</surname><given-names>A.</given-names></name>
+        <name><surname>Brown</surname><given-names>James H.</given-names></name>
+        <name><surname>Budischak</surname><given-names>Sarah A.</given-names></name>
+        <name><surname>Byers</surname><given-names>James E.</given-names></name>
+        <name><surname>Dallas</surname><given-names>Tad A.</given-names></name>
+        <name><surname>Jonathan Davies</surname><given-names>T.</given-names></name>
+        <name><surname>Drake</surname><given-names>John M.</given-names></name>
+        <name><surname>Ezenwa</surname><given-names>Vanessa O.</given-names></name>
+        <name><surname>Farrell</surname><given-names>Maxwell J.</given-names></name>
+        <name><surname>Gittleman</surname><given-names>John L.</given-names></name>
+        <name><surname>Han</surname><given-names>Barbara A.</given-names></name>
+        <name><surname>Huang</surname><given-names>Shan</given-names></name>
+        <name><surname>Hutchinson</surname><given-names>Rebecca A.</given-names></name>
+        <name><surname>Johnson</surname><given-names>Pieter</given-names></name>
+        <name><surname>Nunn</surname><given-names>Charles L.</given-names></name>
+        <name><surname>Onstad</surname><given-names>David</given-names></name>
+        <name><surname>Park</surname><given-names>Andrew</given-names></name>
+        <name><surname>Vazquez-Prokopec</surname><given-names>Gonzalo M.</given-names></name>
+        <name><surname>Schmidt</surname><given-names>John P.</given-names></name>
+        <name><surname>Poulin</surname><given-names>Robert</given-names></name>
+      </person-group>
+      <article-title>The macroecology of infectious diseases: A new perspective on global-scale drivers of pathogen distributions and impacts</article-title>
+      <source>Ecology Letters</source>
+      <year iso-8601-date="2016">2016</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2025-10-13">2025</year><month>10</month><day>13</day></date-in-citation>
+      <volume>19</volume>
+      <issue>9</issue>
+      <issn>1461-0248</issn>
+      <pub-id pub-id-type="doi">10.1111/ele.12644</pub-id>
+      <fpage>1159</fpage>
+      <lpage>1171</lpage>
+    </element-citation>
+  </ref>
+</ref-list>
 </back>
 
 
