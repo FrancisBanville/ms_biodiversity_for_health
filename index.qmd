@@ -154,15 +154,11 @@ csl: https://www.zotero.org/styles/apa
     - Highlights the need for data sharing between Parties, organizations, and other stakeholders
     - Reduces the workload on countries
 
-# Evaluation of indicators
+# Methods
 
-- Qualitative assessments
-  - Total of 204 indicators
-  - Two evaluators for each indicator
-  - Assessments based on expert knowledge
-  - Finding a consensus between the evaluators
+We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitoring] to Health. Specifically, we evaluated the degree to which they were linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their usability for monitoring the OH JPA. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of Health. When such metadata was unavailable, assessments were entirely based on expert judgment. The result of this analysis and the code to reproduce the figures are available on Zenodo.
 
-## Assessing the link between biodiversity indicators and health
+## Assessing the link between indicators and health
 
 - Qualitative assessments
   - Assessing the link between each indicator and human, animal, plant, and environmental health
@@ -213,7 +209,9 @@ csl: https://www.zotero.org/styles/apa
   - Indicators usable after adaptation need to be slightly modified (e.g., changes in scale of measurement, data resolution, or taxa) before being used to monitor an action in the action track
   - Not usable indicators need to be greatly modified before being used to monitor the actions in the action track, or they monitor something outside the scope of the action track
 
-# Link between biodiversity indicators and health
+# Results and discussion
+
+## Link between biodiversity indicators and health
 
 - Most indicators are linked with health
   - How many indicators are directly or indirectly linked with human, animal, plant, and environmental health?
@@ -228,7 +226,7 @@ csl: https://www.zotero.org/styles/apa
   - Biodiversity and health have similar pressures
   - Biodiversity and health are protected with similar actions
 
-# Usability of indicators for monitoring the OH JPA
+## Usability of indicators for monitoring the OH JPA
 
 - Most indicators can be used to monitor the OH JPA
   - How many indicators for each action track?
@@ -298,9 +296,5 @@ csl: https://www.zotero.org/styles/apa
   - Indicators
 - Other indicators could be identified in other monitoring frameworks (e.g. SDG)
   - New indicators can be developed after identifying gaps
-
-@Stephens2016Macroecology
-
-Blabla [allo, @Stephens2016Macroecology]
 
 
