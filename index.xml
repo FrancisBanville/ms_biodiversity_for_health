@@ -362,30 +362,26 @@ for shared data, policy, and governance practices.</p>
     </list-item>
   </list>
 </sec>
-<sec id="evaluation-of-indicators">
-  <title>Evaluation of indicators</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Qualitative assessments</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>Total of 204 indicators</p>
-        </list-item>
-        <list-item>
-          <p>Two evaluators for each indicator</p>
-        </list-item>
-        <list-item>
-          <p>Assessments based on expert knowledge</p>
-        </list-item>
-        <list-item>
-          <p>Finding a consensus between the evaluators</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-  <sec id="assessing-the-link-between-biodiversity-indicators-and-health">
-    <title>Assessing the link between biodiversity indicators and
-    health</title>
+<sec id="methods">
+  <title>Methods</title>
+  <p>We qualitatively assessed the relevance of all 204 KM-GBF
+  indicators
+  (<xref alt="Conference of the Parties to the Convention on Biological Diversity, 2025" rid="ref-Monitoring" ref-type="bibr">Conference
+  of the Parties to the Convention on Biological Diversity, 2025</xref>)
+  to Health. Specifically, we evaluated the degree to which they were
+  linked to each of the four pillars of One Health (i.e., to human,
+  animal, plant, and environmental heath), as well as their usability
+  for monitoring the OH JPA. Our assessments were informed by the
+  metadata (rationale, definition, method of computation, data sources,
+  and scale of use) of the indicators provided by the World Conservation
+  Monitoring Centre of the UN Environment Programme
+  (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
+  2025</xref>), when available, looking for explicit considerations of
+  Health. When such metadata was unavailable, assessments were entirely
+  based on expert judgment. The result of this analysis and the code to
+  reproduce the figures are available on Zenodo.</p>
+  <sec id="assessing-the-link-between-indicators-and-health">
+    <title>Assessing the link between indicators and health</title>
     <list list-type="bullet">
       <list-item>
         <p>Qualitative assessments</p>
@@ -566,382 +562,390 @@ for shared data, policy, and governance practices.</p>
     </list>
   </sec>
 </sec>
-<sec id="link-between-biodiversity-indicators-and-health">
-  <title>Link between biodiversity indicators and health</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Most indicators are linked with health</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>How many indicators are directly or indirectly linked with
-          human, animal, plant, and environmental health?</p>
-        </list-item>
-        <list-item>
-          <p>Description of Figure 1</p>
-        </list-item>
-        <list-item>
-          <p>Examples of indicator linked with human, animal, plant, and
-          environmental health</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-  <fig>
-    <caption><p><bold>Number of KM-GBF indicators linked with human,
-    animal, plant, and environmental health.</bold> Each indicator was
-    classified as being either directly connected (blue), indirectly
-    connected (green), potentially connected (orange), or not connected
-    (red) to each of the Health dimensions.</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
-  </fig>
-  <list list-type="bullet">
-    <list-item>
-      <p>Link between biodiversity and health</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>The state of biodiversity impacts health</p>
-        </list-item>
-        <list-item>
-          <p>Ecosystem services benefit health</p>
-        </list-item>
-        <list-item>
-          <p>Biodiversity and health have similar pressures</p>
-        </list-item>
-        <list-item>
-          <p>Biodiversity and health are protected with similar
-          actions</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-</sec>
-<sec id="usability-of-indicators-for-monitoring-the-oh-jpa">
-  <title>Usability of indicators for monitoring the OH JPA</title>
-  <list list-type="bullet">
-    <list-item>
-      <p>Most indicators can be used to monitor the OH JPA</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>How many indicators for each action track?</p>
-        </list-item>
-        <list-item>
-          <p>Description of Table 1</p>
-        </list-item>
-        <list-item>
-          <p>Description of Figure 2</p>
-        </list-item>
-        <list-item>
-          <p>Importance of directly reusing indicators</p>
-        </list-item>
-        <list-item>
-          <p>Indicators usable after adaptation are based on similar and
-          robust methodologies, which minimizing training
-          requirements</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-  <fig>
-    <caption><p><bold>Number of KM-GBF indicators that can be used to
-    monitor at least one action in each of the OH JPA action
-    tracks.</bold> The opaque bars represent directly usable indicators,
-    whereas the transparent bars represent those usable after
-    adaptation. The proportion of usable indicators (either directly or
-    after adaptation) for each action track is indicated. The bottom bar
-    and proportion designate the indicators that can monitor at least
-    one action in the whole plan.</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
-  </fig>
-  <fig id="tbl-letters">
-    <caption><p>Table 1: <bold>Number of KM-GBF indicators that can be
-    used directly and after adaptation to monitor each action of the OH
-    JPA.</bold> The total number of usable indicators for each action
-    track is indicated in the highlighted blue lines. A specific
-    indicator can be used to monitor multiple action tracks, but only
-    the most relevant action in each action track was
-    identified.</p></caption>
-    <table-wrap>
-      <table>
-        <colgroup>
-          <col width="68%" />
-          <col width="10%" />
-          <col width="11%" />
-          <col width="11%" />
-        </colgroup>
-        <thead>
-          <tr>
-            <th align="left">Action</th>
-            <th align="right">Directly usable</th>
-            <th align="right">Usable after adaptation</th>
-            <th align="right">Total usable</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="left"><bold>1 Enhancing One Health capacities to
-            strengthen health systems</bold></td>
-            <td align="right"><bold>46</bold></td>
-            <td align="right"><bold>61</bold></td>
-            <td align="right"><bold>107</bold></td>
-          </tr>
-          <tr>
-            <td align="left">1.1 Establish the foundations for One
-            Health capacities</td>
-            <td align="right">30</td>
-            <td align="right">5</td>
-            <td align="right">35</td>
-          </tr>
-          <tr>
-            <td align="left">1.2 Generate mechanisms, tools, and
-            capacities to establish a One Health competent workforce and
-            the frameworks/processes to facilitate One Health work</td>
-            <td align="right">8</td>
-            <td align="right">50</td>
-            <td align="right">58</td>
-          </tr>
-          <tr>
-            <td align="left">1.3 Generate an enabling environment for
-            the effective implementation of One Health</td>
-            <td align="right">8</td>
-            <td align="right">6</td>
-            <td align="right">14</td>
-          </tr>
-          <tr>
-            <td align="left"><bold>2 Reducing the risks from emerging
-            and re-emerging zoonotic epidemics and pandemics</bold></td>
-            <td align="right"><bold>40</bold></td>
-            <td align="right"><bold>63</bold></td>
-            <td align="right"><bold>103</bold></td>
-          </tr>
-          <tr>
-            <td align="left">2.1 Understand the drivers of emergence,
-            spillover, and spread of zoonotic pathogens</td>
-            <td align="right">16</td>
-            <td align="right">27</td>
-            <td align="right">43</td>
-          </tr>
-          <tr>
-            <td align="left">2.2 Identify and prioritize targeted,
-            evidence-based upstream interventions to prevent the
-            emergence, spillover, and spread of zoonotic pathogens</td>
-            <td align="right">7</td>
-            <td align="right">6</td>
-            <td align="right">13</td>
-          </tr>
-          <tr>
-            <td align="left">2.3 Strengthen national, regional, and
-            global One Health surveillance, early warning, and response
-            systems</td>
-            <td align="right">17</td>
-            <td align="right">30</td>
-            <td align="right">47</td>
-          </tr>
-          <tr>
-            <td align="left"><bold>3 Controlling and eliminating endemic
-            zoonotic, neglected tropical and vector-borne
-            diseases</bold></td>
-            <td align="right"><bold>25</bold></td>
-            <td align="right"><bold>43</bold></td>
-            <td align="right"><bold>68</bold></td>
-          </tr>
-          <tr>
-            <td align="left">3.1 Enable countries to develop and
-            implement community-centric and risk-based solutions to
-            endemic zoonotic, neglected tropical, and vector-borne
-            disease control using a One Health approach involving all
-            relevant stakeholders</td>
-            <td align="right">3</td>
-            <td align="right">14</td>
-            <td align="right">17</td>
-          </tr>
-          <tr>
-            <td align="left">3.2 Ensure the harmonized application of
-            One Health principles at all levels by implementing
-            practical measures to strengthen local, national, regional,
-            and global policy frameworks for the control and prevention
-            of endemic zoonotic, neglected tropical, and vector-borne
-            diseases</td>
-            <td align="right">18</td>
-            <td align="right">10</td>
-            <td align="right">28</td>
-          </tr>
-          <tr>
-            <td align="left">3.3 Increase political commitment and
-            investment in the control of endemic zoonotic, neglected
-            tropical, and vector-borne diseases, by advocating for and
-            demonstrating the value of a One Health approach</td>
-            <td align="right">4</td>
-            <td align="right">19</td>
-            <td align="right">23</td>
-          </tr>
-          <tr>
-            <td align="left"><bold>4 Strengthening the assessment,
-            management and communication of food safety
-            risks</bold></td>
-            <td align="right"><bold>42</bold></td>
-            <td align="right"><bold>70</bold></td>
-            <td align="right"><bold>112</bold></td>
-          </tr>
-          <tr>
-            <td align="left">4.1 Strengthen the One Health approach in
-            national food control systems and food safety
-            coordination</td>
-            <td align="right">18</td>
-            <td align="right">30</td>
-            <td align="right">48</td>
-          </tr>
-          <tr>
-            <td align="left">4.2 Utilize and improve food systems data
-            and analysis, scientific evidence, and risk assessment in
-            developing policy and making integrated risk management
-            decisions</td>
-            <td align="right">15</td>
-            <td align="right">21</td>
-            <td align="right">36</td>
-          </tr>
-          <tr>
-            <td align="left">4.3 Foster the adoption of the One Health
-            approach in national foodborne disease surveillance systems
-            and research for the detection and monitoring of foodborne
-            disease and food contamination</td>
-            <td align="right">9</td>
-            <td align="right">19</td>
-            <td align="right">28</td>
-          </tr>
-          <tr>
-            <td align="left"><bold>5 Curbing the silent pandemic of
-            antimicrobial resistance (AMR)</bold></td>
-            <td align="right"><bold>9</bold></td>
-            <td align="right"><bold>31</bold></td>
-            <td align="right"><bold>40</bold></td>
-          </tr>
-          <tr>
-            <td align="left">5.1 Strengthen the capacity and knowledge
-            of countries to prioritize and implement context-specific
-            collaborative One Health work to control AMR in policy,
-            legislation, and practice</td>
-            <td align="right">7</td>
-            <td align="right">17</td>
-            <td align="right">24</td>
-          </tr>
-          <tr>
-            <td align="left">5.2 Reinforce global and regional
-            initiatives and programmes to influence and support One
-            Health responses to AMR</td>
-            <td align="right">2</td>
-            <td align="right">13</td>
-            <td align="right">15</td>
-          </tr>
-          <tr>
-            <td align="left">5.3 Strengthen global AMR governance
-            structures</td>
-            <td align="right">0</td>
-            <td align="right">1</td>
-            <td align="right">1</td>
-          </tr>
-          <tr>
-            <td align="left"><bold>6 Integrating the environment into
-            One Health</bold></td>
-            <td align="right"><bold>126</bold></td>
-            <td align="right"><bold>36</bold></td>
-            <td align="right"><bold>162</bold></td>
-          </tr>
-          <tr>
-            <td align="left">6.1 Protect, restore, and prevent the
-            degradation of ecosystems and the wider environment</td>
-            <td align="right">92</td>
-            <td align="right">16</td>
-            <td align="right">108</td>
-          </tr>
-          <tr>
-            <td align="left">6.2 Mainstream the health of the
-            environment and ecosystems into the One Health approach</td>
-            <td align="right">9</td>
-            <td align="right">7</td>
-            <td align="right">16</td>
-          </tr>
-          <tr>
-            <td align="left">6.3 Integrate environmental knowledge,
-            data, and evidence into One Health decision-making</td>
-            <td align="right">20</td>
-            <td align="right">6</td>
-            <td align="right">26</td>
-          </tr>
-          <tr>
-            <td align="left">6.4 Create an interoperable One Health
-            academic and in-service training programme for
-            environmental, medical, agricultural, and veterinary sector
-            professionals</td>
-            <td align="right">5</td>
-            <td align="right">7</td>
-            <td align="right">12</td>
-          </tr>
-        </tbody>
-      </table>
-    </table-wrap>
-  </fig>
-  <list list-type="bullet">
-    <list-item>
-      <p>Many usable indicators are headline and binary indicators</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>How many?</p>
-        </list-item>
-        <list-item>
-          <p>Presentation of important gaps</p>
-        </list-item>
-        <list-item>
-          <p>Description of Figure 3</p>
-        </list-item>
-        <list-item>
-          <p>Important because these are mandatory indicators that are
-          more likely to be measured</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-  <fig>
-    <caption><p><bold>Proportion of KM-GBF indicators that can be used
-    to monitor at least one action in each of the OH JPA action tracks,
-    partitioned by the different groups of indicators.</bold> The number
-    of indicators in each group is indicated in parentheses. The opaque
-    bars represent directly usable indicators, whereas the transparent
-    bars represent those usable after adaptation. The gray bars
-    designate the indicators that can monitor at least one action in the
-    whole plan.</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
-  </fig>
-  <list list-type="bullet">
-    <list-item>
-      <p>Usable indicators are in all categories of the Action Plan</p>
-      <list list-type="bullet">
-        <list-item>
-          <p>The KM-GBF addresses many dimensions of health</p>
-        </list-item>
-        <list-item>
-          <p>Presentation of important gaps</p>
-        </list-item>
-        <list-item>
-          <p>Description of important categories and their connection
-          with health</p>
-        </list-item>
-      </list>
-    </list-item>
-  </list>
-  <fig>
-    <caption><p><bold>Proportion of KM-GBF indicators that can be used
-    to monitor at least one action in each of the OH JPA action tracks,
-    partitioned by the different thematic categories of the Global
-    Action Plan on Biodiversity and Health.</bold> The number of
-    indicators whose target is in each thematic category is indicated in
-    parentheses. The opaque bars represent directly usable indicators,
-    whereas the transparent bars represent those usable after
-    adaptation. The gray bars designate the indicators that can monitor
-    at least one action in the whole plan. Indicators that monitor
-    KM-GBF goals A, B, C, and D are not assigned to any thematic
-    category.</p></caption>
-    <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_GAP.png" />
-  </fig>
+<sec id="results-and-discussion">
+  <title>Results and discussion</title>
+  <sec id="link-between-biodiversity-indicators-and-health">
+    <title>Link between biodiversity indicators and health</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Most indicators are linked with health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>How many indicators are directly or indirectly linked
+            with human, animal, plant, and environmental health?</p>
+          </list-item>
+          <list-item>
+            <p>Description of Figure 1</p>
+          </list-item>
+          <list-item>
+            <p>Examples of indicator linked with human, animal, plant,
+            and environmental health</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+    <fig>
+      <caption><p><bold>Number of KM-GBF indicators linked with human,
+      animal, plant, and environmental health.</bold> Each indicator was
+      classified as being either directly connected (blue), indirectly
+      connected (green), potentially connected (orange), or not
+      connected (red) to each of the Health dimensions.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
+    </fig>
+    <list list-type="bullet">
+      <list-item>
+        <p>Link between biodiversity and health</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The state of biodiversity impacts health</p>
+          </list-item>
+          <list-item>
+            <p>Ecosystem services benefit health</p>
+          </list-item>
+          <list-item>
+            <p>Biodiversity and health have similar pressures</p>
+          </list-item>
+          <list-item>
+            <p>Biodiversity and health are protected with similar
+            actions</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="usability-of-indicators-for-monitoring-the-oh-jpa">
+    <title>Usability of indicators for monitoring the OH JPA</title>
+    <list list-type="bullet">
+      <list-item>
+        <p>Most indicators can be used to monitor the OH JPA</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>How many indicators for each action track?</p>
+          </list-item>
+          <list-item>
+            <p>Description of Table 1</p>
+          </list-item>
+          <list-item>
+            <p>Description of Figure 2</p>
+          </list-item>
+          <list-item>
+            <p>Importance of directly reusing indicators</p>
+          </list-item>
+          <list-item>
+            <p>Indicators usable after adaptation are based on similar
+            and robust methodologies, which minimizing training
+            requirements</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+    <fig>
+      <caption><p><bold>Number of KM-GBF indicators that can be used to
+      monitor at least one action in each of the OH JPA action
+      tracks.</bold> The opaque bars represent directly usable
+      indicators, whereas the transparent bars represent those usable
+      after adaptation. The proportion of usable indicators (either
+      directly or after adaptation) for each action track is indicated.
+      The bottom bar and proportion designate the indicators that can
+      monitor at least one action in the whole plan.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_all.png" />
+    </fig>
+    <fig id="tbl-letters">
+      <caption><p>Table 1: <bold>Number of KM-GBF indicators that can be
+      used directly and after adaptation to monitor each action of the
+      OH JPA.</bold> The total number of usable indicators for each
+      action track is indicated in the highlighted blue lines. A
+      specific indicator can be used to monitor multiple action tracks,
+      but only the most relevant action in each action track was
+      identified.</p></caption>
+      <table-wrap>
+        <table>
+          <colgroup>
+            <col width="68%" />
+            <col width="10%" />
+            <col width="11%" />
+            <col width="11%" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th align="left">Action</th>
+              <th align="right">Directly usable</th>
+              <th align="right">Usable after adaptation</th>
+              <th align="right">Total usable</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left"><bold>1 Enhancing One Health capacities
+              to strengthen health systems</bold></td>
+              <td align="right"><bold>46</bold></td>
+              <td align="right"><bold>61</bold></td>
+              <td align="right"><bold>107</bold></td>
+            </tr>
+            <tr>
+              <td align="left">1.1 Establish the foundations for One
+              Health capacities</td>
+              <td align="right">30</td>
+              <td align="right">5</td>
+              <td align="right">35</td>
+            </tr>
+            <tr>
+              <td align="left">1.2 Generate mechanisms, tools, and
+              capacities to establish a One Health competent workforce
+              and the frameworks/processes to facilitate One Health
+              work</td>
+              <td align="right">8</td>
+              <td align="right">50</td>
+              <td align="right">58</td>
+            </tr>
+            <tr>
+              <td align="left">1.3 Generate an enabling environment for
+              the effective implementation of One Health</td>
+              <td align="right">8</td>
+              <td align="right">6</td>
+              <td align="right">14</td>
+            </tr>
+            <tr>
+              <td align="left"><bold>2 Reducing the risks from emerging
+              and re-emerging zoonotic epidemics and
+              pandemics</bold></td>
+              <td align="right"><bold>40</bold></td>
+              <td align="right"><bold>63</bold></td>
+              <td align="right"><bold>103</bold></td>
+            </tr>
+            <tr>
+              <td align="left">2.1 Understand the drivers of emergence,
+              spillover, and spread of zoonotic pathogens</td>
+              <td align="right">16</td>
+              <td align="right">27</td>
+              <td align="right">43</td>
+            </tr>
+            <tr>
+              <td align="left">2.2 Identify and prioritize targeted,
+              evidence-based upstream interventions to prevent the
+              emergence, spillover, and spread of zoonotic
+              pathogens</td>
+              <td align="right">7</td>
+              <td align="right">6</td>
+              <td align="right">13</td>
+            </tr>
+            <tr>
+              <td align="left">2.3 Strengthen national, regional, and
+              global One Health surveillance, early warning, and
+              response systems</td>
+              <td align="right">17</td>
+              <td align="right">30</td>
+              <td align="right">47</td>
+            </tr>
+            <tr>
+              <td align="left"><bold>3 Controlling and eliminating
+              endemic zoonotic, neglected tropical and vector-borne
+              diseases</bold></td>
+              <td align="right"><bold>25</bold></td>
+              <td align="right"><bold>43</bold></td>
+              <td align="right"><bold>68</bold></td>
+            </tr>
+            <tr>
+              <td align="left">3.1 Enable countries to develop and
+              implement community-centric and risk-based solutions to
+              endemic zoonotic, neglected tropical, and vector-borne
+              disease control using a One Health approach involving all
+              relevant stakeholders</td>
+              <td align="right">3</td>
+              <td align="right">14</td>
+              <td align="right">17</td>
+            </tr>
+            <tr>
+              <td align="left">3.2 Ensure the harmonized application of
+              One Health principles at all levels by implementing
+              practical measures to strengthen local, national,
+              regional, and global policy frameworks for the control and
+              prevention of endemic zoonotic, neglected tropical, and
+              vector-borne diseases</td>
+              <td align="right">18</td>
+              <td align="right">10</td>
+              <td align="right">28</td>
+            </tr>
+            <tr>
+              <td align="left">3.3 Increase political commitment and
+              investment in the control of endemic zoonotic, neglected
+              tropical, and vector-borne diseases, by advocating for and
+              demonstrating the value of a One Health approach</td>
+              <td align="right">4</td>
+              <td align="right">19</td>
+              <td align="right">23</td>
+            </tr>
+            <tr>
+              <td align="left"><bold>4 Strengthening the assessment,
+              management and communication of food safety
+              risks</bold></td>
+              <td align="right"><bold>42</bold></td>
+              <td align="right"><bold>70</bold></td>
+              <td align="right"><bold>112</bold></td>
+            </tr>
+            <tr>
+              <td align="left">4.1 Strengthen the One Health approach in
+              national food control systems and food safety
+              coordination</td>
+              <td align="right">18</td>
+              <td align="right">30</td>
+              <td align="right">48</td>
+            </tr>
+            <tr>
+              <td align="left">4.2 Utilize and improve food systems data
+              and analysis, scientific evidence, and risk assessment in
+              developing policy and making integrated risk management
+              decisions</td>
+              <td align="right">15</td>
+              <td align="right">21</td>
+              <td align="right">36</td>
+            </tr>
+            <tr>
+              <td align="left">4.3 Foster the adoption of the One Health
+              approach in national foodborne disease surveillance
+              systems and research for the detection and monitoring of
+              foodborne disease and food contamination</td>
+              <td align="right">9</td>
+              <td align="right">19</td>
+              <td align="right">28</td>
+            </tr>
+            <tr>
+              <td align="left"><bold>5 Curbing the silent pandemic of
+              antimicrobial resistance (AMR)</bold></td>
+              <td align="right"><bold>9</bold></td>
+              <td align="right"><bold>31</bold></td>
+              <td align="right"><bold>40</bold></td>
+            </tr>
+            <tr>
+              <td align="left">5.1 Strengthen the capacity and knowledge
+              of countries to prioritize and implement context-specific
+              collaborative One Health work to control AMR in policy,
+              legislation, and practice</td>
+              <td align="right">7</td>
+              <td align="right">17</td>
+              <td align="right">24</td>
+            </tr>
+            <tr>
+              <td align="left">5.2 Reinforce global and regional
+              initiatives and programmes to influence and support One
+              Health responses to AMR</td>
+              <td align="right">2</td>
+              <td align="right">13</td>
+              <td align="right">15</td>
+            </tr>
+            <tr>
+              <td align="left">5.3 Strengthen global AMR governance
+              structures</td>
+              <td align="right">0</td>
+              <td align="right">1</td>
+              <td align="right">1</td>
+            </tr>
+            <tr>
+              <td align="left"><bold>6 Integrating the environment into
+              One Health</bold></td>
+              <td align="right"><bold>126</bold></td>
+              <td align="right"><bold>36</bold></td>
+              <td align="right"><bold>162</bold></td>
+            </tr>
+            <tr>
+              <td align="left">6.1 Protect, restore, and prevent the
+              degradation of ecosystems and the wider environment</td>
+              <td align="right">92</td>
+              <td align="right">16</td>
+              <td align="right">108</td>
+            </tr>
+            <tr>
+              <td align="left">6.2 Mainstream the health of the
+              environment and ecosystems into the One Health
+              approach</td>
+              <td align="right">9</td>
+              <td align="right">7</td>
+              <td align="right">16</td>
+            </tr>
+            <tr>
+              <td align="left">6.3 Integrate environmental knowledge,
+              data, and evidence into One Health decision-making</td>
+              <td align="right">20</td>
+              <td align="right">6</td>
+              <td align="right">26</td>
+            </tr>
+            <tr>
+              <td align="left">6.4 Create an interoperable One Health
+              academic and in-service training programme for
+              environmental, medical, agricultural, and veterinary
+              sector professionals</td>
+              <td align="right">5</td>
+              <td align="right">7</td>
+              <td align="right">12</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </fig>
+    <list list-type="bullet">
+      <list-item>
+        <p>Many usable indicators are headline and binary indicators</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>How many?</p>
+          </list-item>
+          <list-item>
+            <p>Presentation of important gaps</p>
+          </list-item>
+          <list-item>
+            <p>Description of Figure 3</p>
+          </list-item>
+          <list-item>
+            <p>Important because these are mandatory indicators that are
+            more likely to be measured</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+    <fig>
+      <caption><p><bold>Proportion of KM-GBF indicators that can be used
+      to monitor at least one action in each of the OH JPA action
+      tracks, partitioned by the different groups of indicators.</bold>
+      The number of indicators in each group is indicated in
+      parentheses. The opaque bars represent directly usable indicators,
+      whereas the transparent bars represent those usable after
+      adaptation. The gray bars designate the indicators that can
+      monitor at least one action in the whole plan.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_categories.png" />
+    </fig>
+    <list list-type="bullet">
+      <list-item>
+        <p>Usable indicators are in all categories of the Action
+        Plan</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>The KM-GBF addresses many dimensions of health</p>
+          </list-item>
+          <list-item>
+            <p>Presentation of important gaps</p>
+          </list-item>
+          <list-item>
+            <p>Description of important categories and their connection
+            with health</p>
+          </list-item>
+        </list>
+      </list-item>
+    </list>
+    <fig>
+      <caption><p><bold>Proportion of KM-GBF indicators that can be used
+      to monitor at least one action in each of the OH JPA action
+      tracks, partitioned by the different thematic categories of the
+      Global Action Plan on Biodiversity and Health.</bold> The number
+      of indicators whose target is in each thematic category is
+      indicated in parentheses. The opaque bars represent directly
+      usable indicators, whereas the transparent bars represent those
+      usable after adaptation. The gray bars designate the indicators
+      that can monitor at least one action in the whole plan. Indicators
+      that monitor KM-GBF goals A, B, C, and D are not assigned to any
+      thematic category.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="figures/usability_GAP.png" />
+    </fig>
+  </sec>
 </sec>
 <sec id="conclusion">
   <title>Conclusion</title>
@@ -984,54 +988,32 @@ for shared data, policy, and governance practices.</p>
       </list>
     </list-item>
   </list>
-  <p>Stephens et al.
-  (<xref alt="2016" rid="ref-Stephens2016Macroecology" ref-type="bibr">2016</xref>)</p>
-  <p>Blabla (allo,
-  <xref alt="Stephens et al., 2016" rid="ref-Stephens2016Macroecology" ref-type="bibr">Stephens
-  et al., 2016</xref>)</p>
 </sec>
 </body>
 
 <back>
 <ref-list>
   <title></title>
-  <ref id="ref-Stephens2016Macroecology">
-    <element-citation publication-type="article-journal">
+  <ref id="ref-Indicators">
+    <element-citation>
       <person-group person-group-type="author">
-        <name><surname>Stephens</surname><given-names>Patrick R.</given-names></name>
-        <name><surname>Altizer</surname><given-names>Sonia</given-names></name>
-        <name><surname>Smith</surname><given-names>Katherine F.</given-names></name>
-        <name><surname>Alonso Aguirre</surname><given-names>A.</given-names></name>
-        <name><surname>Brown</surname><given-names>James H.</given-names></name>
-        <name><surname>Budischak</surname><given-names>Sarah A.</given-names></name>
-        <name><surname>Byers</surname><given-names>James E.</given-names></name>
-        <name><surname>Dallas</surname><given-names>Tad A.</given-names></name>
-        <name><surname>Jonathan Davies</surname><given-names>T.</given-names></name>
-        <name><surname>Drake</surname><given-names>John M.</given-names></name>
-        <name><surname>Ezenwa</surname><given-names>Vanessa O.</given-names></name>
-        <name><surname>Farrell</surname><given-names>Maxwell J.</given-names></name>
-        <name><surname>Gittleman</surname><given-names>John L.</given-names></name>
-        <name><surname>Han</surname><given-names>Barbara A.</given-names></name>
-        <name><surname>Huang</surname><given-names>Shan</given-names></name>
-        <name><surname>Hutchinson</surname><given-names>Rebecca A.</given-names></name>
-        <name><surname>Johnson</surname><given-names>Pieter</given-names></name>
-        <name><surname>Nunn</surname><given-names>Charles L.</given-names></name>
-        <name><surname>Onstad</surname><given-names>David</given-names></name>
-        <name><surname>Park</surname><given-names>Andrew</given-names></name>
-        <name><surname>Vazquez-Prokopec</surname><given-names>Gonzalo M.</given-names></name>
-        <name><surname>Schmidt</surname><given-names>John P.</given-names></name>
-        <name><surname>Poulin</surname><given-names>Robert</given-names></name>
+        <string-name>UNEP-WCMC</string-name>
       </person-group>
-      <article-title>The macroecology of infectious diseases: A new perspective on global-scale drivers of pathogen distributions and impacts</article-title>
-      <source>Ecology Letters</source>
-      <year iso-8601-date="2016">2016</year>
-      <date-in-citation content-type="access-date"><year iso-8601-date="2025-10-13">2025</year><month>10</month><day>13</day></date-in-citation>
-      <volume>19</volume>
-      <issue>9</issue>
-      <issn>1461-0248</issn>
-      <pub-id pub-id-type="doi">10.1111/ele.12644</pub-id>
-      <fpage>1159</fpage>
-      <lpage>1171</lpage>
+      <article-title>Indicators for the Kunming – Montreal Global Biodiversity Framework</article-title>
+      <source>Indicator Repository</source>
+      <publisher-name>https://www.gbf-indicators.org/</publisher-name>
+      <year iso-8601-date="2025">2025</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-20">2026</year><month>03</month><day>20</day></date-in-citation>
+    </element-citation>
+  </ref>
+  <ref id="ref-Monitoring">
+    <element-citation>
+      <person-group person-group-type="author">
+        <string-name>Conference of the Parties to the Convention on Biological Diversity</string-name>
+      </person-group>
+      <article-title>Monitoring framework for the Kunming-Montreal Global Biodiversity Framework</article-title>
+      <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/16/L.26/Rev.1.</publisher-name>
+      <year iso-8601-date="2025">2025</year>
     </element-citation>
   </ref>
 </ref-list>
