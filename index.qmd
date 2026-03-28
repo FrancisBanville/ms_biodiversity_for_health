@@ -130,7 +130,11 @@ csl: https://www.zotero.org/styles/apa
   - Collaboration across disciplines
 
 - The One Health Joint Plan of Action 
-  - Quadripartite Organizations
+  - Quadripartite Organizations 
+    - World Health Organization (WHO)
+    - World Organisation for Animal Health (WOAH)
+    - Food and Agriculture Organization of the United Nations (FAO)
+    - United Nations Environment Programme (UNEP)
   - 6 action tracks, many actions, even more activities
   - No indicators
 
@@ -158,57 +162,20 @@ csl: https://www.zotero.org/styles/apa
 
 We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitoring] to Health. Specifically, we evaluated the degree to which they were linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their usability for monitoring the OH JPA. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of Health. When such metadata was unavailable, assessments were entirely based on expert judgment. The result of this analysis and the code to reproduce the figures are available on Zenodo.
 
-## Assessing the link between indicators and health
+## Assessing the link between indicators and Health
 
-- Qualitative assessments
-  - Assessing the link between each indicator and human, animal, plant, and environmental health
-  - Direct connection if there is a direct causal relationship between the indicator and health (e.g., the indicator could directly measure the state or a risk factor of health) 
-  - Indirect connection if there is a single intermediary factor between the indicator and health
-  - Potential connection if there are two or more intermediary factors between the indicator and health, or if they are likely connected but we are not sure how
-  - No connection if the connection between the indicator and health is far-fetched, unlikely, or absent
-  - Require categorizing species and defining health
+Assessing the link between the KM-GBF indicators and the four pillars of One Health requires a working definition of human, animal, plant, and environmental health. We defined each of these groups of species based on the main objects of interest of the Quadripartite organizations. Humans are their own pillar and the primary focus of the WHO. We considered pets, livestock, and edible marine and freshwater species captured from fisheries and aquaculture in the animal health pillar. These are species mainly looked after by veterinarians and food inspectors and that are of core concern to the WOAH and FAO. Even though humans and wildlife are also animals, we excluded them from the animal health pillar. We included all cultivated plants used for food, fuel, and medicine into the plant health pillar, i.e. plant species that are the primary focus of the FAO. Wildlife was considered in the environment health pillar, alongside all other species not included in the other three pillars. The environment health pillar also includes whole ecosystems (natural and artificial), as well as tree species used in forestry and wild fish species. It is the primary focus of the UNEP. These definitions are alined with the core contributing sciences of the One Health approach [@Gibbs2014Evolution; @Lerner2017Comparison].
 
-- Categorizing species within One Health 
-  - Animals 
-    - Include pets, livestock, fisheries, and aquaculture, i.e. species currently looked after by veterinarians and food inspectors
-    - Exclude humans and wildlife 
-    - Are taken care of by the World Organisation for Animal Health (WOAH)
-  
-  - Humans
-    - Are taken care of by the World Health Organization (WHO)
+We used a broad definition of Health that considers the overall well-being of individuals and their capacity to function normally, which includes the absence of diseases [@Preamble]. In humans and domestic and wildlife animals, well-being is the ability for an individual to satisfy its physical, mental, and behavioral needs [@Webb2019What], whereas diseases are undesirable conditions often leading to pain, suffering, or death. In plants, which are not conscious organisms [@Mallatt2021Debunking], health is more ill-defined [@Doring2012Concepts]. Here, we considered plant health as the extent to which an individual is able to function physiologically, and plant diseases as impediments to their normal physiological functioning often leading to death. Similarly, when it comes to whole ecosystems, consisting of many individuals and their interactions, health is also ill-defined [@Schaeffer1988Ecosystem]. We defined environmental health as the extent to which an ecosystem can maintain its biological and chemical processes and adapt to changes. Disturbances are the ecosystem analogue of diseases, and represent degradations that usually lead to a decline in ecosystem functioning. When assessing environmental health, we also considered the health of species included in the environment pillar of One Health, e.g. wildlife and uncultivated plant species. These descriptions guided us in our assessments.
 
-  - Plants
-    - Include species used for food, fuel, and medicine, i.e. cultivates plants 
-    - Are taken care of by the Food and Agriculture Organization of the United Nations (FAO)
-
-  - Environment 
-    - Includes ecosystems and all species not considered in the human, animal, or plant categories
-    - Includes forestry and fisheries
-    - Being taken care of by the United Nations Environment Programme (UNEP)
-
-- Defining health
-  - Human and animal health
-    - Overall wellbeing of an individual, i.e. the extent to which it is able to function physically, mentally, and behaviorally 
-    - Diseases are deviations from the normal functioning of an individual, often leading to pain, suffering, and death
-
-  - Plant health 
-    - The extent to which an individual is able to function physically
-    - Diseases are deviations from the normal physiological functioning of an individual, often leading to death
-  
-  - Environmental health
-    - The extent to which the environment is able to function, maintain biological and chemical processes, and adapt to change 
-    - Disturbances are degradations that lead to a decline in the functioning of ecosystems and biological communities
-    - Environmental health include wildlife health
+We classified the degree to which the indicators are linked to each of the four pillars of One Health into four categories: direct connection, indirect connection, potential connection, and no connection. An indicator was qualified as directly connected to Health when there is a direct causal relationship between the indicator and Health. This is the case when the indicator directly measures a condition or determinant of health. For example, headline indicator 7.2 "Pesticide environment concentration and/or aggregated total applied toxicity" was considered directly connected to human health because of the toxicity of many pesticides under high level of exposure [@Kim2017Exposure]. An indicator was qualified as indirectly connected to Health when there is an intermediary factor between the indicator and Health. For instance, component indicator 4.CT.1 "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities" was considered indirectly connected to human health because conserving genetic resources increases the resilience of food systems to global disasters [@Esquinas-Alcazar2005Protecting], which in turn protects human health. An indicator was qualified as potentially connected to Health when there are multiple intermediary factors between the indicator and Health, or when its connection to Health is likely but difficult to certify. For example, complementary indicator 2.CY.2 "Proportion of key biodiversity areas in favourable condition" was qualified as potentially connected to human health because key biodiversity areas are mainly defined with ecological criteria for conserving rare or endemic species and pristine habitats [@ButchartExtent], and may or may not include areas of high importance for human health. Finally, an indicator was qualified as not connected to Health when the connection is unlikely or absent. This was the case for component indicator 21.CT.3 "Index of linguistic diversity", for which we did not find any evidence of a link to human, animal, plant or environmental health. For each of the four pillars of One Health, we counted the number of indicators assigned to each category.
 
 ## Assessing the usability of indicators for monitoring the OH JPA
 
-- Qualitative assessments
-  - Evaluating each action track independently
-  - Identifying the main action that can be monitored for each relevant action track
-  - Directly usable indicators can already be used to monitor an action in the action track
-  - Indicators usable after adaptation need to be slightly modified (e.g., changes in scale of measurement, data resolution, or taxa) before being used to monitor an action in the action track
-  - Not usable indicators need to be greatly modified before being used to monitor the actions in the action track, or they monitor something outside the scope of the action track
+We evaluated the usability of the KM-GBF indicators for monitoring the OH JPA by judging if they can likely detect trends relevant to the actions of the plan. For each action track, we classified the usability of the indicators into three categories: directly usable, usable after adaptation, and not usable. Directly usable indicators can be used in their current form to monitor at least one action in an action track. They do not require adaptations. For example, we qualified component indicator 4.CT.4 "Proportion of local breeds classified as being at risk of extinction" as being directly usable for monitoring the fourth action track because it directly measures food safety risks. In contrast, indicators usable after adaptation need to be slightly modified before they can be used to monitor actions in an action track. These adaptations should be small changes in the scale of measurement, the data resolution, or the taxa monitored by the indicator. For instance, we qualified headline indicator 9.1 "Benefits from the sustainable use of wild species" as being usable after adaptation for monitoring the second action track on zoonotic epidemics and pandemics. To be more relevant for this action track, this indicator could refer more specifically to wildlife reservoirs of zoonotic agents instead of all wild species. Finally, not usable indicators are outside the scope of an action track or need to be greatly modified before being used to monitor an action track. For example, we qualified component indicator 4.CT.3 "Human-wildlife conflict indicator" as being not usable for monitoring the fifth action track on antimicrobial resistance. 
 
+We assessed usability for each action track independently, i.e. an indicator can be useful for monitoring multiple action tracks. For each action track, we counted the total number of indicators in each category. In addition, we counted the number of usable indicators for the whole plan regardless of the action tracks. Then, we partitioned these numbers based on the indicator type in the KM-GBF Monitoring Framework (i.e. headline, binary, component, and complementary indicators) and the thematic categories of the Global Action Plan on Biodiversity and Health. Finally, for each action track where an indicator was considered usable (either directly or after adaptation), we identified the most relevant action that can be monitored by the indicator, and counted the number of indicators associated with each action. 
+  
 # Results and discussion
 
 ## Link between biodiversity indicators and health
@@ -218,7 +185,7 @@ We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitorin
   - Description of Figure 1
   - Examples of indicator linked with human, animal, plant, and environmental health
 
-![**Number of KM-GBF indicators linked with human, animal, plant, and environmental health.** Each indicator was classified as being either directly connected (blue), indirectly connected (green), potentially connected (orange), or not connected (red) to each of the Health dimensions.](figures/link_health.png)
+![**Number of KM-GBF indicators linked with human, animal, plant, and environmental health.** Each indicator was classified as being either directly connected (blue), indirectly connected (green), potentially connected (orange), or not connected (red) to each of the four pillars of One Health.](figures/link_health.png)
 
 - Link between biodiversity and health
   - The state of biodiversity impacts health
