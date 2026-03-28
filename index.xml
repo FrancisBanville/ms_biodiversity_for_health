@@ -281,6 +281,21 @@ for shared data, policy, and governance practices.</p>
       <list list-type="bullet">
         <list-item>
           <p>Quadripartite Organizations</p>
+          <list list-type="bullet">
+            <list-item>
+              <p>World Health Organization (WHO)</p>
+            </list-item>
+            <list-item>
+              <p>World Organisation for Animal Health (WOAH)</p>
+            </list-item>
+            <list-item>
+              <p>Food and Agriculture Organization of the United Nations
+              (FAO)</p>
+            </list-item>
+            <list-item>
+              <p>United Nations Environment Programme (UNEP)</p>
+            </list-item>
+          </list>
         </list-item>
         <list-item>
           <p>6 action tracks, many actions, even more activities</p>
@@ -381,185 +396,142 @@ for shared data, policy, and governance practices.</p>
   based on expert judgment. The result of this analysis and the code to
   reproduce the figures are available on Zenodo.</p>
   <sec id="assessing-the-link-between-indicators-and-health">
-    <title>Assessing the link between indicators and health</title>
-    <list list-type="bullet">
-      <list-item>
-        <p>Qualitative assessments</p>
-        <list list-type="bullet">
-          <list-item>
-            <p>Assessing the link between each indicator and human,
-            animal, plant, and environmental health</p>
-          </list-item>
-          <list-item>
-            <p>Direct connection if there is a direct causal
-            relationship between the indicator and health (e.g., the
-            indicator could directly measure the state or a risk factor
-            of health)</p>
-          </list-item>
-          <list-item>
-            <p>Indirect connection if there is a single intermediary
-            factor between the indicator and health</p>
-          </list-item>
-          <list-item>
-            <p>Potential connection if there are two or more
-            intermediary factors between the indicator and health, or if
-            they are likely connected but we are not sure how</p>
-          </list-item>
-          <list-item>
-            <p>No connection if the connection between the indicator and
-            health is far-fetched, unlikely, or absent</p>
-          </list-item>
-          <list-item>
-            <p>Require categorizing species and defining health</p>
-          </list-item>
-        </list>
-      </list-item>
-      <list-item>
-        <p>Categorizing species within One Health</p>
-        <list list-type="bullet">
-          <list-item>
-            <p>Animals</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>Include pets, livestock, fisheries, and aquaculture,
-                i.e. species currently looked after by veterinarians and
-                food inspectors</p>
-              </list-item>
-              <list-item>
-                <p>Exclude humans and wildlife</p>
-              </list-item>
-              <list-item>
-                <p>Are taken care of by the World Organisation for
-                Animal Health (WOAH)</p>
-              </list-item>
-            </list>
-          </list-item>
-          <list-item>
-            <p>Humans</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>Are taken care of by the World Health Organization
-                (WHO)</p>
-              </list-item>
-            </list>
-          </list-item>
-          <list-item>
-            <p>Plants</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>Include species used for food, fuel, and medicine,
-                i.e. cultivates plants</p>
-              </list-item>
-              <list-item>
-                <p>Are taken care of by the Food and Agriculture
-                Organization of the United Nations (FAO)</p>
-              </list-item>
-            </list>
-          </list-item>
-          <list-item>
-            <p>Environment</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>Includes ecosystems and all species not considered in
-                the human, animal, or plant categories</p>
-              </list-item>
-              <list-item>
-                <p>Includes forestry and fisheries</p>
-              </list-item>
-              <list-item>
-                <p>Being taken care of by the United Nations Environment
-                Programme (UNEP)</p>
-              </list-item>
-            </list>
-          </list-item>
-        </list>
-      </list-item>
-      <list-item>
-        <p>Defining health</p>
-        <list list-type="bullet">
-          <list-item>
-            <p>Human and animal health</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>Overall wellbeing of an individual, i.e. the extent
-                to which it is able to function physically, mentally,
-                and behaviorally</p>
-              </list-item>
-              <list-item>
-                <p>Diseases are deviations from the normal functioning
-                of an individual, often leading to pain, suffering, and
-                death</p>
-              </list-item>
-            </list>
-          </list-item>
-          <list-item>
-            <p>Plant health</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>The extent to which an individual is able to function
-                physically</p>
-              </list-item>
-              <list-item>
-                <p>Diseases are deviations from the normal physiological
-                functioning of an individual, often leading to death</p>
-              </list-item>
-            </list>
-          </list-item>
-          <list-item>
-            <p>Environmental health</p>
-            <list list-type="bullet">
-              <list-item>
-                <p>The extent to which the environment is able to
-                function, maintain biological and chemical processes,
-                and adapt to change</p>
-              </list-item>
-              <list-item>
-                <p>Disturbances are degradations that lead to a decline
-                in the functioning of ecosystems and biological
-                communities</p>
-              </list-item>
-              <list-item>
-                <p>Environmental health include wildlife health</p>
-              </list-item>
-            </list>
-          </list-item>
-        </list>
-      </list-item>
-    </list>
+    <title>Assessing the link between indicators and Health</title>
+    <p>Assessing the link between the KM-GBF indicators and the four
+    pillars of One Health requires a working definition of human,
+    animal, plant, and environmental health. We defined each of these
+    groups of species based on the main objects of interest of the
+    Quadripartite organizations. Humans are their own pillar and the
+    primary focus of the WHO. We considered pets, livestock, and edible
+    marine and freshwater species captured from fisheries and
+    aquaculture in the animal health pillar. These are species mainly
+    looked after by veterinarians and food inspectors and that are of
+    core concern to the WOAH and FAO. Even though humans and wildlife
+    are also animals, we excluded them from the animal health pillar. We
+    included all cultivated plants used for food, fuel, and medicine
+    into the plant health pillar, i.e. plant species that are the
+    primary focus of the FAO. Wildlife was considered in the environment
+    health pillar, alongside all other species not included in the other
+    three pillars. The environment health pillar also includes whole
+    ecosystems (natural and artificial), as well as tree species used in
+    forestry and wild fish species. It is the primary focus of the UNEP.
+    These definitions are alined with the core contributing sciences of
+    the One Health approach
+    (<xref alt="Gibbs, 2014" rid="ref-Gibbs2014Evolution" ref-type="bibr">Gibbs,
+    2014</xref>;
+    <xref alt="Lerner &amp; Berg, 2017" rid="ref-Lerner2017Comparison" ref-type="bibr">Lerner
+    &amp; Berg, 2017</xref>).</p>
+    <p>We used a broad definition of Health that considers the overall
+    well-being of individuals and their capacity to function normally,
+    which includes the absence of diseases
+    (<xref alt="WHO, 1948" rid="ref-Preamble" ref-type="bibr">WHO,
+    1948</xref>). In humans and domestic and wildlife animals,
+    well-being is the ability for an individual to satisfy its physical,
+    mental, and behavioral needs
+    (<xref alt="Webb et al., 2019" rid="ref-Webb2019What" ref-type="bibr">Webb
+    et al., 2019</xref>), whereas diseases are undesirable conditions
+    often leading to pain, suffering, or death. In plants, which are not
+    conscious organisms
+    (<xref alt="Mallatt et al., 2021" rid="ref-Mallatt2021Debunking" ref-type="bibr">Mallatt
+    et al., 2021</xref>), health is more ill-defined
+    (<xref alt="Döring et al., 2012" rid="ref-Doring2012Concepts" ref-type="bibr">Döring
+    et al., 2012</xref>). Here, we considered plant health as the extent
+    to which an individual is able to function physiologically, and
+    plant diseases as impediments to their normal physiological
+    functioning often leading to death. Similarly, when it comes to
+    whole ecosystems, consisting of many individuals and their
+    interactions, health is also ill-defined
+    (<xref alt="Schaeffer et al., 1988" rid="ref-Schaeffer1988Ecosystem" ref-type="bibr">Schaeffer
+    et al., 1988</xref>). We defined environmental health as the extent
+    to which an ecosystem can maintain its biological and chemical
+    processes and adapt to changes. Disturbances are the ecosystem
+    analogue of diseases, and represent degradations that usually lead
+    to a decline in ecosystem functioning. When assessing environmental
+    health, we also considered the health of species included in the
+    environment pillar of One Health, e.g. wildlife and uncultivated
+    plant species. These descriptions guided us in our assessments.</p>
+    <p>We classified the degree to which the indicators are linked to
+    each of the four pillars of One Health into four categories: direct
+    connection, indirect connection, potential connection, and no
+    connection. An indicator was qualified as directly connected to
+    Health when there is a direct causal relationship between the
+    indicator and Health. This is the case when the indicator directly
+    measures a condition or determinant of health. For example, headline
+    indicator 7.2 “Pesticide environment concentration and/or aggregated
+    total applied toxicity” was considered directly connected to human
+    health because of the toxicity of many pesticides under high level
+    of exposure
+    (<xref alt="Kim et al., 2017" rid="ref-Kim2017Exposure" ref-type="bibr">Kim
+    et al., 2017</xref>). An indicator was qualified as indirectly
+    connected to Health when there is an intermediary factor between the
+    indicator and Health. For instance, component indicator 4.CT.1
+    “Number of plant and animal genetic resources for food and
+    agriculture secured in either medium- or long-term conservation
+    facilities” was considered indirectly connected to human health
+    because conserving genetic resources increases the resilience of
+    food systems to global disasters
+    (<xref alt="Esquinas-Alcázar, 2005" rid="ref-Esquinas-Alcazar2005Protecting" ref-type="bibr">Esquinas-Alcázar,
+    2005</xref>), which in turn protects human health. An indicator was
+    qualified as potentially connected to Health when there are multiple
+    intermediary factors between the indicator and Health, or when its
+    connection to Health is likely but difficult to certify. For
+    example, complementary indicator 2.CY.2 “Proportion of key
+    biodiversity areas in favourable condition” was qualified as
+    potentially connected to human health because key biodiversity areas
+    are mainly defined with ecological criteria for conserving rare or
+    endemic species and pristine habitats
+    (<xref alt="Butchart et al., n.d." rid="ref-ButchartExtent" ref-type="bibr">Butchart
+    et al., n.d.</xref>), and may or may not include areas of high
+    importance for human health. Finally, an indicator was qualified as
+    not connected to Health when the connection is unlikely or absent.
+    This was the case for component indicator 21.CT.3 “Index of
+    linguistic diversity”, for which we did not find any evidence of a
+    link to human, animal, plant or environmental health. For each of
+    the four pillars of One Health, we counted the number of indicators
+    assigned to each category.</p>
   </sec>
   <sec id="assessing-the-usability-of-indicators-for-monitoring-the-oh-jpa">
     <title>Assessing the usability of indicators for monitoring the OH
     JPA</title>
-    <list list-type="bullet">
-      <list-item>
-        <p>Qualitative assessments</p>
-        <list list-type="bullet">
-          <list-item>
-            <p>Evaluating each action track independently</p>
-          </list-item>
-          <list-item>
-            <p>Identifying the main action that can be monitored for
-            each relevant action track</p>
-          </list-item>
-          <list-item>
-            <p>Directly usable indicators can already be used to monitor
-            an action in the action track</p>
-          </list-item>
-          <list-item>
-            <p>Indicators usable after adaptation need to be slightly
-            modified (e.g., changes in scale of measurement, data
-            resolution, or taxa) before being used to monitor an action
-            in the action track</p>
-          </list-item>
-          <list-item>
-            <p>Not usable indicators need to be greatly modified before
-            being used to monitor the actions in the action track, or
-            they monitor something outside the scope of the action
-            track</p>
-          </list-item>
-        </list>
-      </list-item>
-    </list>
+    <p>We evaluated the usability of the KM-GBF indicators for
+    monitoring the OH JPA by judging if they can likely detect trends
+    relevant to the actions of the plan. For each action track, we
+    classified the usability of the indicators into three categories:
+    directly usable, usable after adaptation, and not usable. Directly
+    usable indicators can be used in their current form to monitor at
+    least one action in an action track. They do not require
+    adaptations. For example, we qualified component indicator 4.CT.4
+    “Proportion of local breeds classified as being at risk of
+    extinction” as being directly usable for monitoring the fourth
+    action track because it directly measures food safety risks. In
+    contrast, indicators usable after adaptation need to be slightly
+    modified before they can be used to monitor actions in an action
+    track. These adaptations should be small changes in the scale of
+    measurement, the data resolution, or the taxa monitored by the
+    indicator. For instance, we qualified headline indicator 9.1
+    “Benefits from the sustainable use of wild species” as being usable
+    after adaptation for monitoring the second action track on zoonotic
+    epidemics and pandemics. To be more relevant for this action track,
+    this indicator could refer more specifically to wildlife reservoirs
+    of zoonotic agents instead of all wild species. Finally, not usable
+    indicators are outside the scope of an action track or need to be
+    greatly modified before being used to monitor an action track. For
+    example, we qualified component indicator 4.CT.3 “Human-wildlife
+    conflict indicator” as being not usable for monitoring the fifth
+    action track on antimicrobial resistance.</p>
+    <p>We assessed usability for each action track independently,
+    i.e. an indicator can be useful for monitoring multiple action
+    tracks. For each action track, we counted the total number of
+    indicators in each category. In addition, we counted the number of
+    usable indicators for the whole plan regardless of the action
+    tracks. Then, we partitioned these numbers based on the indicator
+    type in the KM-GBF Monitoring Framework (i.e. headline, binary,
+    component, and complementary indicators) and the thematic categories
+    of the Global Action Plan on Biodiversity and Health. Finally, for
+    each action track where an indicator was considered usable (either
+    directly or after adaptation), we identified the most relevant
+    action that can be monitored by the indicator, and counted the
+    number of indicators associated with each action.</p>
   </sec>
 </sec>
 <sec id="results-and-discussion">
@@ -589,7 +561,8 @@ for shared data, policy, and governance practices.</p>
       animal, plant, and environmental health.</bold> Each indicator was
       classified as being either directly connected (blue), indirectly
       connected (green), potentially connected (orange), or not
-      connected (red) to each of the Health dimensions.</p></caption>
+      connected (red) to each of the four pillars of One
+      Health.</p></caption>
       <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
     </fig>
     <list list-type="bullet">
@@ -994,6 +967,133 @@ for shared data, policy, and governance practices.</p>
 <back>
 <ref-list>
   <title></title>
+  <ref id="ref-ButchartExtent">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Butchart</surname><given-names>Stuart H. M.</given-names></name>
+        <name><surname>Crowe</surname><given-names>Olivia</given-names></name>
+        <name><surname>Scott</surname><given-names>Tom</given-names></name>
+        <name><surname>Plumptre</surname><given-names>Andrew J.</given-names></name>
+        <name><surname>Eldred</surname><given-names>Megan</given-names></name>
+        <name><surname>McKee</surname><given-names>Ellen</given-names></name>
+        <name><surname>Waliczky</surname><given-names>Zoltan</given-names></name>
+        <name><surname>Hasani</surname><given-names>Ibrahim Al</given-names></name>
+        <name><surname>Azpiroz</surname><given-names>Adrián B.</given-names></name>
+        <name><surname>Baisero</surname><given-names>Daniele</given-names></name>
+        <name><surname>Barasa</surname><given-names>Fred</given-names></name>
+        <name><surname>Beresford</surname><given-names>Alison E.</given-names></name>
+        <name><surname>Bezeng</surname><given-names>Bezeng S.</given-names></name>
+        <name><surname>Boyd</surname><given-names>Charlotte</given-names></name>
+        <name><surname>Brooks</surname><given-names>Thomas M.</given-names></name>
+        <name><surname>Buchanan</surname><given-names>Graeme</given-names></name>
+        <name><surname>Bunting</surname><given-names>Gill</given-names></name>
+        <name><surname>Capellan</surname><given-names>Sofia</given-names></name>
+        <name><surname>Cox</surname><given-names>Neil</given-names></name>
+        <name><surname>Davenport</surname><given-names>Tim R. B.</given-names></name>
+        <name><surname>Davies</surname><given-names>Tammy E.</given-names></name>
+        <name><surname>Togna</surname><given-names>Gina Della</given-names></name>
+        <name><surname>Elliott</surname><given-names>Wendy</given-names></name>
+        <name><surname>Foster</surname><given-names>Matt</given-names></name>
+        <name><surname>Gilbert</surname><given-names>Jo</given-names></name>
+        <name><surname>Handley</surname><given-names>Jonathan M.</given-names></name>
+        <name><surname>Juffe-Bignoli</surname><given-names>Diego</given-names></name>
+        <name><surname>Jones</surname><given-names>Victoria R.</given-names></name>
+        <name><surname>Kingston</surname><given-names>Naomi</given-names></name>
+        <name><surname>Kivono</surname><given-names>Jeannot</given-names></name>
+        <name><surname>Lamoreux</surname><given-names>John</given-names></name>
+        <name><surname>Langhammer</surname><given-names>Penny F.</given-names></name>
+        <name><surname>Lewis</surname><given-names>James</given-names></name>
+        <name><surname>Liggitt</surname><given-names>Bruce</given-names></name>
+        <name><surname>Marnewick</surname><given-names>Daniel</given-names></name>
+        <name><surname>Matiku</surname><given-names>Paul</given-names></name>
+        <name><surname>McCreless</surname><given-names>Erin</given-names></name>
+        <name><surname>Neugarten</surname><given-names>Rachel A.</given-names></name>
+        <name><surname>Numa</surname><given-names>Catherine</given-names></name>
+        <name><surname>O’Brien</surname><given-names>Mark</given-names></name>
+        <name><surname>Rao</surname><given-names>Madhu</given-names></name>
+        <name><surname>Raudsepp-Hearne</surname><given-names>Ciara</given-names></name>
+        <name><surname>Ray</surname><given-names>Justina C.</given-names></name>
+        <name><surname>Rijal</surname><given-names>Samridhi</given-names></name>
+        <name><surname>Rodríguez</surname><given-names>Jon Paul</given-names></name>
+        <name><surname>Sapijanskas</surname><given-names>Jurgis</given-names></name>
+        <name><surname>Sechrest</surname><given-names>Wes</given-names></name>
+        <name><surname>Sneary</surname><given-names>Martin</given-names></name>
+        <name><surname>Snyder</surname><given-names>Andrew</given-names></name>
+        <name><surname>Spiliopoulou</surname><given-names>Konstantina</given-names></name>
+        <name><surname>Starnes</surname><given-names>Thomas</given-names></name>
+        <name><surname>Tobar</surname><given-names>Cecilia</given-names></name>
+        <name><surname>Surya</surname><given-names>Gautam</given-names></name>
+        <name><surname>Tognelli</surname><given-names>Marcelo F.</given-names></name>
+        <name><surname>Tordoff</surname><given-names>Andrew W.</given-names></name>
+        <name><surname>Toscano</surname><given-names>Maria G.</given-names></name>
+        <name><surname>Trisurat</surname><given-names>Yongyut</given-names></name>
+        <name><surname>Upgren</surname><given-names>Amy</given-names></name>
+      </person-group>
+      <article-title>Extent, characteristics and policy applications of Key Biodiversity Areas</article-title>
+      <source>Biological Reviews</source>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>n/a</volume>
+      <issue>n/a</issue>
+      <issn>1469-185X</issn>
+      <pub-id pub-id-type="doi">10.1002/brv.70144</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="ref-Doring2012Concepts">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Döring</surname><given-names>T. F.</given-names></name>
+        <name><surname>Pautasso</surname><given-names>M.</given-names></name>
+        <name><surname>Finckh</surname><given-names>M. R.</given-names></name>
+        <name><surname>Wolfe</surname><given-names>M. S.</given-names></name>
+      </person-group>
+      <article-title>Concepts of plant health – reviewing and challenging the foundations of plant protection</article-title>
+      <source>Plant Pathology</source>
+      <year iso-8601-date="2012">2012</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>61</volume>
+      <issue>1</issue>
+      <issn>1365-3059</issn>
+      <pub-id pub-id-type="doi">10.1111/j.1365-3059.2011.02501.x</pub-id>
+      <fpage>1</fpage>
+      <lpage>15</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Esquinas-Alcazar2005Protecting">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Esquinas-Alcázar</surname><given-names>J.</given-names></name>
+      </person-group>
+      <article-title>Protecting crop genetic diversity for food security: Political, ethical and technical challenges</article-title>
+      <source>Nature Reviews Genetics</source>
+      <publisher-name>Nature Portfolio</publisher-name>
+      <publisher-loc>Berlin</publisher-loc>
+      <year iso-8601-date="2005">2005</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>6</volume>
+      <issue>12</issue>
+      <issn>1471-0056, 1471-0064</issn>
+      <pub-id pub-id-type="doi">10.1038/nrg1729</pub-id>
+      <fpage>946</fpage>
+      <lpage>953</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Gibbs2014Evolution">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Gibbs</surname><given-names>E. Paul J.</given-names></name>
+      </person-group>
+      <article-title>The evolution of One Health: A decade of progress and challenges for the future</article-title>
+      <source>Veterinary Record</source>
+      <year iso-8601-date="2014">2014</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>174</volume>
+      <issue>4</issue>
+      <issn>2042-7670</issn>
+      <pub-id pub-id-type="doi">10.1136/vr.g143</pub-id>
+      <fpage>85</fpage>
+      <lpage>91</lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Indicators">
     <element-citation>
       <person-group person-group-type="author">
@@ -1006,6 +1106,62 @@ for shared data, policy, and governance practices.</p>
       <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-20">2026</year><month>03</month><day>20</day></date-in-citation>
     </element-citation>
   </ref>
+  <ref id="ref-Kim2017Exposure">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Kim</surname><given-names>Ki-Hyun</given-names></name>
+        <name><surname>Kabir</surname><given-names>Ehsanul</given-names></name>
+        <name><surname>Jahan</surname><given-names>Shamin Ara</given-names></name>
+      </person-group>
+      <article-title>Exposure to pesticides and the associated human health effects</article-title>
+      <source>Science of The Total Environment</source>
+      <year iso-8601-date="2017">2017</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>575</volume>
+      <issn>0048-9697</issn>
+      <pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.09.009</pub-id>
+      <fpage>525</fpage>
+      <lpage>535</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Lerner2017Comparison">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Lerner</surname><given-names>Henrik</given-names></name>
+        <name><surname>Berg</surname><given-names>Charlotte</given-names></name>
+      </person-group>
+      <article-title>A Comparison of Three Holistic Approaches to Health: One Health, EcoHealth, and Planetary Health</article-title>
+      <source>Frontiers in Veterinary Science</source>
+      <year iso-8601-date="2017">2017</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>4</volume>
+      <issn>2297-1769</issn>
+      <pub-id pub-id-type="doi">10.3389/fvets.2017.00163</pub-id>
+      <fpage>163</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Mallatt2021Debunking">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Mallatt</surname><given-names>Jon</given-names></name>
+        <name><surname>Blatt</surname><given-names>Michael R.</given-names></name>
+        <name><surname>Draguhn</surname><given-names>Andreas</given-names></name>
+        <name><surname>Robinson</surname><given-names>David G.</given-names></name>
+        <name><surname>Taiz</surname><given-names>Lincoln</given-names></name>
+      </person-group>
+      <article-title>Debunking a myth: Plant consciousness</article-title>
+      <source>Protoplasma</source>
+      <year iso-8601-date="2021">2021</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>258</volume>
+      <issue>3</issue>
+      <issn>1615-6102</issn>
+      <pub-id pub-id-type="doi">10.1007/s00709-020-01579-w</pub-id>
+      <fpage>459</fpage>
+      <lpage>476</lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Monitoring">
     <element-citation>
       <person-group person-group-type="author">
@@ -1014,6 +1170,57 @@ for shared data, policy, and governance practices.</p>
       <article-title>Monitoring framework for the Kunming-Montreal Global Biodiversity Framework</article-title>
       <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/16/L.26/Rev.1.</publisher-name>
       <year iso-8601-date="2025">2025</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Preamble">
+    <element-citation publication-type="chapter">
+      <person-group person-group-type="author">
+        <name><surname>WHO</surname></name>
+      </person-group>
+      <article-title>Preamble to the Constitution of the World Health Organization as adopted by the International Health Conference. New York, 19-22 June, 1946; signed on 22 July 1946 by the representatives of 61 States (Official Records of the World Health Organization, no. 2, p. 100) and entered into force on 7 April 1948</article-title>
+      <source>Constitution of the World Health Organization</source>
+      <publisher-loc>Geneva, Switzerland</publisher-loc>
+      <year iso-8601-date="1948">1948</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+    </element-citation>
+  </ref>
+  <ref id="ref-Schaeffer1988Ecosystem">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Schaeffer</surname><given-names>David J.</given-names></name>
+        <name><surname>Herricks</surname><given-names>Edwin E.</given-names></name>
+        <name><surname>Kerster</surname><given-names>Harold W.</given-names></name>
+      </person-group>
+      <article-title>Ecosystem health: I. Measuring ecosystem health</article-title>
+      <source>Environmental Management</source>
+      <year iso-8601-date="1988">1988</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>12</volume>
+      <issue>4</issue>
+      <issn>1432-1009</issn>
+      <pub-id pub-id-type="doi">10.1007/BF01873258</pub-id>
+      <fpage>445</fpage>
+      <lpage>455</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Webb2019What">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Webb</surname><given-names>Laura E.</given-names></name>
+        <name><surname>Veenhoven</surname><given-names>Ruut</given-names></name>
+        <name><surname>Harfeld</surname><given-names>Jes Lynning</given-names></name>
+        <name><surname>Jensen</surname><given-names>Margit Bak</given-names></name>
+      </person-group>
+      <article-title>What is animal happiness?</article-title>
+      <source>Annals of the New York Academy of Sciences</source>
+      <year iso-8601-date="2019">2019</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+      <volume>1438</volume>
+      <issue>1</issue>
+      <issn>0077-8923</issn>
+      <pub-id pub-id-type="doi">10.1111/nyas.13983</pub-id>
+      <fpage>62</fpage>
+      <lpage>76</lpage>
     </element-citation>
   </ref>
 </ref-list>
