@@ -141,10 +141,14 @@ csl: https://www.zotero.org/styles/apa
 - The Kunming-Montreal Global Biodiversity Framework
   - Convention on Biological Diversity
   - Protecting biodiversity by working towards targets and goals
-  - Global Action Plan recognizes that biodiversity is linked with health 
+  - Global Action Plan (GAPBH) recognizes that biodiversity is linked with health 
+    - The state of biodiversity impacts Health 
+    - Ecosystem services benefit health
+    - Biodiversity and health have similar pressures
+    - Biodiversity and health are protected with similar actions
 
 - Monitoring framework of the KM-GBF
-  - Types of indicators (headline, binary, component, complementary)
+  - Groups of indicators (headline, binary, component, complementary)
   - Many indicators are linked with health (examples)
   - Reusing indicators decreases the workload of countries
 
@@ -156,7 +160,7 @@ csl: https://www.zotero.org/styles/apa
   
   2. Evaluate the usability of indicators for monitoring One Health actions
     - Highlights the need for data sharing between Parties, organizations, and other stakeholders
-    - Reduces the workload on countries
+    - Reusing indicators can greatly reduce the workload of countries to develop and monitor new indicators at the intersection of biodiversity and health, whereas adapting indicators minimizes training requirements because countries are already familiar with similar and robust methodologies.
 
 # Methods
 
@@ -174,36 +178,25 @@ We classified the degree to which the indicators are linked to each of the four 
 
 We evaluated the usability of the KM-GBF indicators for monitoring the OH JPA by judging if they can likely detect trends relevant to the actions of the plan. For each action track, we classified the usability of the indicators into three categories: directly usable, usable after adaptation, and not usable. Directly usable indicators can be used in their current form to monitor at least one action in an action track. They do not require adaptations. For example, we qualified component indicator 4.CT.4 "Proportion of local breeds classified as being at risk of extinction" as being directly usable for monitoring the fourth action track because it directly measures food safety risks. In contrast, indicators usable after adaptation need to be slightly modified before they can be used to monitor actions in an action track. These adaptations should be small changes in the scale of measurement, the data resolution, or the taxa monitored by the indicator. For instance, we qualified headline indicator 9.1 "Benefits from the sustainable use of wild species" as being usable after adaptation for monitoring the second action track on zoonotic epidemics and pandemics. To be more relevant for this action track, this indicator could refer more specifically to wildlife reservoirs of zoonotic agents instead of all wild species. Finally, not usable indicators are outside the scope of an action track or need to be greatly modified before being used to monitor an action track. For example, we qualified component indicator 4.CT.3 "Human-wildlife conflict indicator" as being not usable for monitoring the fifth action track on antimicrobial resistance. 
 
-We assessed usability for each action track independently, i.e. an indicator can be useful for monitoring multiple action tracks. For each action track, we counted the total number of indicators in each category. In addition, we counted the number of usable indicators for the whole plan regardless of the action tracks. Then, we partitioned these numbers based on the indicator type in the KM-GBF Monitoring Framework (i.e. headline, binary, component, and complementary indicators) and the thematic categories of the Global Action Plan on Biodiversity and Health. Finally, for each action track where an indicator was considered usable (either directly or after adaptation), we identified the most relevant action that can be monitored by the indicator, and counted the number of indicators associated with each action. 
+We assessed usability for each action track independently, i.e. an indicator can be useful for monitoring multiple action tracks. For each action track, we counted the total number of indicators in each category. In addition, we counted the number of usable indicators for the whole plan regardless of the action tracks. Then, we partitioned these numbers based on the group of indicator in the KM-GBF Monitoring Framework (i.e. headline, binary, component, and complementary indicators) and the thematic categories of the GAPBH. Finally, for each action track where an indicator was considered usable (either directly or after adaptation), we identified the most relevant action that can be monitored by the indicator, and counted the number of indicators associated with each action. 
   
 # Results and discussion
 
-## Link between biodiversity indicators and health
+## Link between indicators and Health
 
-- Most indicators are linked with health
-  - How many indicators are directly or indirectly linked with human, animal, plant, and environmental health?
-  - Description of Figure 1
-  - Examples of indicator linked with human, animal, plant, and environmental health
+We found that 75% of KM-GBF indicators are either directly or indirectly connected to human, animal, plant, or environmental health, with approximately 55% of indicators being directly connected to Health. This indicates that monitoring the state, benefits, and pressure of biodiversity and our responses to biodiversity loss gives us a lot of information on One Health. In @fig-link, we show the number of indicators that are directly, indirectly, potentially, and not connected to each of the four pillars of One Health. The number of directly connected indicators is slightly higher for environmental health (41% of indicators) compared to human (27%), animal (26%), and plant (28%) health. However, this difference shrinks after adding indirectly connected indicators (63% for environmental health compared to 56%, 53%, and 51% respectively for human, animal, and plant health). This suggests that the four pillars of One Health can all be meaningfully informed by biodiversity monitoring.
 
-![**Number of KM-GBF indicators linked with human, animal, plant, and environmental health.** Each indicator was classified as being either directly connected (blue), indirectly connected (green), potentially connected (orange), or not connected (red) to each of the four pillars of One Health.](figures/link_health.png)
+![**Number of KM-GBF indicators linked with human, animal, plant, and environmental health.** Each indicator was classified as being either directly connected (blue), indirectly connected (green), potentially connected (orange), or not connected (red) to each of the four pillars of One Health.](figures/link_health.png){#fig-link}
 
-- Link between biodiversity and health
-  - The state of biodiversity impacts health
-  - Ecosystem services benefit health
-  - Biodiversity and health have similar pressures
-  - Biodiversity and health are protected with similar actions
+The fact that most KM-GBF indicators are connected to Health is not surprising. The GAPBH recognizes the relevance to Health of all 23 targets of the KM-GBF, and because the indicators measure the progress made towards these targets, they also measure the progress made towards a healthier planet. However, we did not expect that comparable amounts of indicators would monitor the four pillars of One Health. This indicates that there are virtually no biases in the amount of information that can be reused to monitor human, animal, plant, and environmental health. In other words, we monitor all core components of One Health when we monitor biodiversity.
 
 ## Usability of indicators for monitoring the OH JPA
 
-- Most indicators can be used to monitor the OH JPA
-  - How many indicators for each action track?
-  - Description of Table 1
-  - Description of Figure 2
-  - Importance of directly reusing indicators
-  - Indicators usable after adaptation are based on similar and robust methodologies, which minimizing training requirements
+The vast majority of KM-GBF indicators (91%) can be used either directly or after adaptation to monitor actions in the OH JPA, and around 74% of indicators can be used directly. This signifies that we can already do an extensive evaluation of One Health actions with existing data and methodologies. However, we show in @fig-use-all that the usability of indicators greatly differs depending on the action track. The proportion of usable indicators varies from 20% for the fifth action track on antimicrobial resistance (4% of directly usable indicators) to 79% for the sixth action track on the integration of the environment into One Health (62% of directly usable indicators). The high proportion of usable indicators for the sixth action track is not surprising given that the KM-GBF is a multilateral environmental agreement that aims to protect species and restaure ecosystems. The low proportion of indicators that can monitor actions in the fifth action track could be due to the characteristics of these actions, which are more focused on collaboration, capacity-building and awareness-raising than the decreasing and prevention of antimicrobial resistance through biodiversity. Similarly, the actions in the third action track on endemic zoonotic, neglected tropical, and vector-borne diseases, which can only be monitored by 33% of the indicators, are more centered on capacity-building and less on the drivers and inhibitors of infectious diseases, especially in comparison to the actions of the second action track on zoonotic epidemics and pandemics. These differences suggest that, although the KM-GBF Monitoring Framework can greatly reduce the workload of countries by reducing the need to develop new indicators at the intersection of biodiversity and health, additional work is still needed to equally cover all aspects of the plan.
 
-![**Number of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks.** The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The proportion of usable indicators (either directly or after adaptation) for each action track is indicated. The bottom bar and proportion designate the indicators that can monitor at least one action in the whole plan.](figures/usability_all.png)
+![**Number of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks.** The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The proportion of usable indicators (either directly or after adaptation) for each action track is indicated. The bottom bar and proportion designate the indicators that can monitor at least one action in the whole plan.](figures/usability_all.png){#fig-use-all}
 
+The number of indicators associated with each action is presented in @tbl-letters. There are high discrepancies in the usability of indicators between actions. The total number of usable indicators (either directly or after adaptation) varies from 1 (action 5.3: Strengthen global AMR governance structures) to 108 (action 6.1: Protect, restore, and prevent the degradation of ecosystems and the wider environment). Within a single action track, the biggest differences are found within the sixth action track, where only 12 indicators were associated to action 6.4 whereas 108 indicators were associated to action 6.1  This result shows that there is substantial information available for some of the actions, but it also further highlights the need to identify or develop new indicators for specific actions of the plan, even within the action tracks that can be monitored by numerous indicators.
 
 | Action | Directly usable | Usable after adaptation | Total usable |
 |:-----------------------------------------|-----:|------:| ------:| 
@@ -215,7 +208,7 @@ We assessed usability for each action track independently, i.e. an indicator can
 | 2.1 Understand the drivers of emergence, spillover, and spread of zoonotic pathogens | 16 | 27 | 43 | 
 | 2.2 Identify and prioritize targeted, evidence-based upstream interventions to prevent the emergence, spillover, and spread of zoonotic pathogens | 7 | 6 | 13 |
 | 2.3 Strengthen national, regional, and global One Health surveillance, early warning, and response systems | 17 | 30 | 47 |
-| **3 Controlling and eliminating endemic zoonotic,  neglected tropical and vector-borne diseases** | **25** | **43** | **68** |
+| **3 Controlling and eliminating endemic zoonotic, neglected tropical and vector-borne diseases** | **25** | **43** | **68** |
 | 3.1 Enable countries to develop and implement community-centric and risk-based solutions to endemic zoonotic, neglected tropical, and vector-borne disease control using a One Health approach involving all relevant stakeholders | 3 | 14 | 17 |
 | 3.2 Ensure the harmonized application of One Health principles at all levels by implementing practical measures to strengthen local, national, regional, and global policy frameworks for the control and prevention of endemic zoonotic, neglected tropical, and vector-borne diseases | 18 | 10 | 28 |
 | 3.3 Increase political commitment and investment in the control of endemic zoonotic, neglected tropical, and vector-borne diseases, by advocating for and demonstrating the value of a One Health approach | 4 | 19 | 23 |
@@ -233,23 +226,15 @@ We assessed usability for each action track independently, i.e. an indicator can
 | 6.3 Integrate environmental knowledge, data, and evidence into One Health decision-making | 20 | 6 | 26 | 
 | 6.4 Create an interoperable One Health academic and in-service training programme for environmental, medical, agricultural, and veterinary sector professionals | 5 | 7 | 12 |
 
-: **Number of KM-GBF indicators that can be used directly and after adaptation to monitor each action of the OH JPA.** The total number of usable indicators for each action track is indicated in the highlighted blue lines. A specific indicator can be used to monitor multiple action tracks, but only the most relevant action in each action track was identified. {#tbl-letters}
+: **Number of KM-GBF indicators that can be used directly and after adaptation to monitor each action of the OH JPA.** The total number of usable indicators for each action track is indicated in the highlighted blue lines. A specific indicator can be used to monitor multiple action tracks, but only the most relevant action in each action track was identified for each indicator. {#tbl-letters}
  
-- Many usable indicators are headline and binary indicators
-  - How many?
-  - Presentation of important gaps
-  - Description of Figure 3
-  - Important because these are mandatory indicators that are more likely to be measured
+@fig-use-cat shows the proportion of indicators that can be used to monitor each action track, for each group of indicators in the KM-GBF Monitoring Framework. We evaluated that 100% of headline indicators (27/27), 93% of binary indicators (14/15), 94% of component indicators (49/52), and 87% of complementary indicators (96/110) can be used, either directly or after adaptation, to monitor at least one action track. Headline and binary indicators are the only two groups of indicators that are mandatory, i.e. that Parties have the legal obligation to report on. The high proportion of headline and binary indicators is encouraging, because it indicates that the information most likely to figure in National Biodiversity Strategies and Action Plans (NBSAPs) will be reusable for evaluating the implementation of the OH JPA. On the other hand, the high reusability of component and complementary indicators, which are currently optional, should be seen as an additional incitative to measure them. 
 
-![**Proportion of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks, partitioned by the different groups of indicators.** The number of indicators in each group is indicated in parentheses. The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The gray bars designate the indicators that can monitor at least one action in the whole plan.](figures/usability_categories.png)
+![**Proportion of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks, partitioned by the different groups of indicators.** The number of indicators in each group is indicated in parentheses. The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The gray bars designate the indicators that can monitor at least one action in the whole plan.](figures/usability_categories.png){#fig-use-cat}
 
+In @fig-use-GAP, we present the usability of indicators for each thematic category of the GAPBH. In every category, at least 89% of indicators can be used, either directly or after adaptation, for monitoring at least one action track, excepting in the Knowledge and engagement of people category, which only has 52% of usable indicators. This suggests that every sector of the KM-GBF Monitoring Framework, from Nature's contribution to people to Species management, is relevant for One Health, even though there are wide variations in the action track most relevant for each category. This figure also shows that all indicators that can directly monitor the fifth action track on antimicrobial resistance are in the Access and benefit-sharing and Biosafety and biotechnology categories, further emphasizing the importance of collaboration, capacity-building and awareness-raising set forth in this action track.
 
-- Usable indicators are in all categories of the Action Plan
-  - The KM-GBF addresses many dimensions of health
-  - Presentation of important gaps
-  - Description of important categories and their connection with health
-
-![**Proportion of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks, partitioned by the different thematic categories of the Global Action Plan on Biodiversity and Health.** The number of indicators whose target is in each thematic category is indicated in parentheses. The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The gray bars designate the indicators that can monitor at least one action in the whole plan. Indicators that monitor KM-GBF goals A, B, C, and D are not assigned to any thematic category.](figures/usability_GAP.png)
+![**Proportion of KM-GBF indicators that can be used to monitor at least one action in each of the OH JPA action tracks, partitioned by the different thematic categories of the GAPBH.** The number of indicators in each thematic category is indicated in parentheses. The thematic category of an indicator was assigned based on the thematic category of its target. Indicators that monitor KM-GBF goals A, B, C, and D are not assigned to any thematic category. The opaque bars represent directly usable indicators, whereas the transparent bars represent those usable after adaptation. The gray bars designate the indicators that can monitor at least one action in the whole plan.](figures/usability_GAP.png){#fig-use-GAP}
  
 # Conclusion
 
@@ -264,4 +249,9 @@ We assessed usability for each action track independently, i.e. an indicator can
 - Other indicators could be identified in other monitoring frameworks (e.g. SDG)
   - New indicators can be developed after identifying gaps
 
+# Acknowledgments 
+
+We acknowledge that this study was conducted on land within the traditional unceded territory of the Saint Lawrence Iroquoian, Anishinabewaki, Mohawk, Huron-Wendat and Omàmiwininiwak nations. FB and TP were supported by the Wellcome Trust. A special thanks to the GEO BON One Health working group and Claire Burnel for their useful feedback on the manuscript.
+
+# References
 
