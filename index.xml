@@ -272,10 +272,11 @@ policy, and governance practices.</p>
   et al., 2008</xref>). The health of animals, plants, and the wider
   environment greatly impacts the capacity of ecosystems to provide
   services and prevent disease emergence
-  (<xref alt="Rabinowitz2013Links?" rid="ref-Rabinowitz2013Links" ref-type="bibr"><bold>Rabinowitz2013Links?</bold></xref>).
-  Moreover, the relationship between biodiversity and Health becomes far
-  more important when we consider that they are both affected by the
-  same threats [e.g., climate and land use change; Carlson et al.
+  (<xref alt="Rabinowitz &amp; Conti, 2013" rid="ref-Rabinowitz2013Linksa" ref-type="bibr">Rabinowitz
+  &amp; Conti, 2013</xref>). Moreover, the relationship between
+  biodiversity and Health becomes far more important when we consider
+  that they are both affected by the same threats [e.g., climate and
+  land use change; Carlson et al.
   (<xref alt="2025" rid="ref-Carlson2025Pathogens" ref-type="bibr">2025</xref>)],
   supported by the same actions that mitigate these threats, and
   monitored by the same set of tools
@@ -319,10 +320,10 @@ policy, and governance practices.</p>
   indicators requires significant resources and expertise, which should
   therefore be well allocated.</p>
   <p>More recently, the Parties to the CBD also adopted the Global
-  Action Plan on Biodiversity and Health (GAPBH,
-  <xref alt="UNEP, 2024" rid="ref-Global" ref-type="bibr">UNEP,
-  2024</xref>), which formally recognizes the links between biodiversity
-  and Health. The GAPBH groups the targets of the KM-GBF into 14
+  Action Plan on Biodiversity and Health [GAP-BH], which formally
+  recognizes the links between biodiversity and Health
+  (<xref alt="UNEP, 2024" rid="ref-Global" ref-type="bibr">UNEP,
+  2024</xref>). The GAP-BH groups the targets of the KM-GBF into 14
   thematic categories, ranging from Access and benefit-sharing to
   Knowledge and engagement of people. Each thematic category has its own
   relevance to Health. For example, the targets that fall under the
@@ -500,7 +501,7 @@ policy, and governance practices.</p>
     tracks. Then, we partitioned these numbers based on the group of
     indicator in the KM-GBF Monitoring Framework (i.e. headline, binary,
     component, and complementary indicators) and the thematic categories
-    of the GAPBH. Finally, for each action track where an indicator was
+    of the GAP-BH. Finally, for each action track where an indicator was
     considered usable (either directly or after adaptation), we
     identified the most relevant action that can be monitored by the
     indicator, and counted the number of indicators associated with each
@@ -538,7 +539,7 @@ policy, and governance practices.</p>
       <graphic mimetype="image" mime-subtype="png" xlink:href="figures/link_health.png" />
     </fig>
     <p>The fact that most KM-GBF indicators are connected to Health is
-    not surprising. The GAPBH recognizes the relevance to Health of all
+    not surprising. The GAP-BH recognizes the relevance to Health of all
     23 targets of the KM-GBF, and because the indicators measure the
     progress made towards these targets, they also measure the progress
     made towards a healthier planet. However, we did not expect that
@@ -868,7 +869,7 @@ policy, and governance practices.</p>
     </fig>
     <p>In <xref alt="Figure 4" rid="fig-use-GAP">Figure 4</xref>, we
     present the usability of indicators for each thematic category of
-    the GAPBH. In every category, at least 89% of indicators can be
+    the GAP-BH. In every category, at least 89% of indicators can be
     used, either directly or after adaptation, for monitoring at least
     one action track, excepting in the Knowledge and engagement of
     people category, which only has 52% of usable indicators. This
@@ -885,7 +886,7 @@ policy, and governance practices.</p>
       <caption><p>Figure 4: <bold>Proportion of KM-GBF indicators that
       can be used to monitor at least one action in each of the OH JPA
       action tracks, partitioned by the different thematic categories of
-      the GAPBH.</bold> The number of indicators in each thematic
+      the GAP-BH.</bold> The number of indicators in each thematic
       category is indicated in parentheses. The thematic category of an
       indicator was assigned based on the thematic category of its
       target. Indicators that monitor KM-GBF goals A, B, C, and D are
@@ -1275,6 +1276,22 @@ policy, and governance practices.</p>
       <publisher-loc>Geneva, Switzerland</publisher-loc>
       <year iso-8601-date="1948">1948</year>
       <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-28">2026</year><month>03</month><day>28</day></date-in-citation>
+    </element-citation>
+  </ref>
+  <ref id="ref-Rabinowitz2013Linksa">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Rabinowitz</surname><given-names>Peter</given-names></name>
+        <name><surname>Conti</surname><given-names>Lisa</given-names></name>
+      </person-group>
+      <article-title>Links among human health, animal health, and ecosystem health</article-title>
+      <source>Annual Review of Public Health</source>
+      <year iso-8601-date="2013">2013</year>
+      <volume>34</volume>
+      <issn>1545-2093</issn>
+      <pub-id pub-id-type="doi">10.1146/annurev-publhealth-031912-114426</pub-id>
+      <fpage>189</fpage>
+      <lpage>204</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Robinson2024Biodiversity">
