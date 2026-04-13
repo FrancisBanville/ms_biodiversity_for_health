@@ -229,23 +229,24 @@ and environmental health (track 6), most of these tracks directly
 concern biodiversity. However, there are currently no indicators for
 monitoring the OH JPA. Our research examines the extent to which all six
 tracks are covered by the Kunming-Montreal Global Biodiversity Framework
-(KM-GBF) of the Convention on Biological Diversity (CBD), which contains
-many indicators at the intersection of biodiversity and Health. We
-assessed (1) the link between each indicator of the KM-GBF and human,
-animal, plant, and environmental health and (2) the usability of these
-indicators for monitoring One Health actions. We found that 75% of
-indicators are associated with Health, and that 91% of indicators can be
-used for monitoring One Health actions. Overall, our work aims to
-strengthen collaboration between the CBD Secretariat and the
-Quadripartite Organizations by highlighting the need for shared data,
-policy, and governance practices.</p>
+(KM-GBF) monitoring framework of the Convention on Biological Diversity
+(CBD), which contains many indicators at the intersection of
+biodiversity and Health. We assessed (1) the link between each indicator
+of the KM-GBF monitoring framework and human, animal, plant, and
+environmental health and (2) the usability of these indicators for
+monitoring One Health actions. We found that 75% of indicators are
+associated with Health, and that 91% of indicators can be used for
+monitoring One Health actions. Overall, our work aims to strengthen
+collaboration between the CBD Secretariat and the Quadripartite
+Organizations by highlighting the need for shared data, policy, and
+governance practices.</p>
 </abstract>
 <kwd-group kwd-group-type="author">
 <kwd>biodiversity indicators</kwd>
 <kwd>Kunming-Montreal Global Biodiversity Framework</kwd>
 <kwd>One Health</kwd>
 <kwd>One Health Joint Plan of Action</kwd>
-<kwd>Quadripartite Organizations</kwd>
+<kwd>Quadripartite organizations</kwd>
 </kwd-group>
 
 
@@ -258,12 +259,12 @@ policy, and governance practices.</p>
 <body>
 <sec id="introduction">
   <title>Introduction</title>
-  <p>There are multiple pathways through which human health depends on
-  biodiversity
+  <p>Human health responds to changes in biodiversity in complex and
+  sometimes opposite ways
   (<xref alt="Robinson et al., 2024" rid="ref-Robinson2024Biodiversity" ref-type="bibr">Robinson
-  et al., 2024</xref>). On one hand, nature’s contributions to people
-  provide important ecosystem services, such as shelter and food, that
-  are vital to human health
+  et al., 2024</xref>). On one hand, through nature’s contributions to
+  people, biodiversity provides shelter and food that are vital to human
+  health
   (<xref alt="Diaz et al., 2018" rid="ref-Diaz2018Assessing" ref-type="bibr"><named-content content-type="nocase">Diaz
   et al.</named-content>, 2018</xref>). On the other hand, infectious
   diseases originating in wildlife can be a major threat to public
@@ -274,67 +275,74 @@ policy, and governance practices.</p>
   services and prevent disease emergence
   (<xref alt="Rabinowitz &amp; Conti, 2013" rid="ref-Rabinowitz2013Linksa" ref-type="bibr">Rabinowitz
   &amp; Conti, 2013</xref>). Moreover, the relationship between
-  biodiversity and Health becomes far more important when we consider
+  biodiversity and health becomes far more important when we consider
   that they are both affected by the same threats (e.g., climate and
   land use change,
   <xref alt="Carlson et al., 2025" rid="ref-Carlson2025Pathogens" ref-type="bibr">Carlson
   et al., 2025</xref>), supported by the same actions that mitigate
   these threats, and monitored by the same set of tools
   (<xref alt="Poisot et al., 2025" rid="ref-Poisot2025Biodiversity" ref-type="bibr">Poisot
-  et al., 2025</xref>). The One Health approach recognizes these
-  interconnections between human, animal, plant, and environmental
-  health and provides a set of principes for achieving a healthier
-  planet by fostering collaboration across disciplines.</p>
-  <p>The One Health Joint Plan of Action (OH JPA) is an action-oriented
-  framework aimed at advancing One Health principles in the horizon of
-  2026. Developed by the Quadripartite organizations, which is a
-  strategic One Health partnership between the Food and Agriculture
-  Organization of the United Nations (FAO), the United Nations
-  Environment Programme (UNEP), the World Organisation for Animal Health
-  (WOAH), and the World Health Organization (WHO), the OH JPA contains
-  19 actions that address important challenges at the interface between
-  human, animal, plant, and environmental health. These actions form six
-  action tracks that collectively seek to strengthen health systems and
-  food safety capacities while preventing zoonotic diseases,
-  antimicrobial resistance, and environmental degradation. However,
-  while this plan does a good job at promoting capacity-building across
-  many dimensions of One Health, there are currently no indicators that
-  would help us monitor its implementation. As we enter the final year
-  of the plan, the need to evaluate the progress made since its adoption
-  in 2022 grows acute, especially as this evaluation can inform the
-  development of the next version of the plan.</p>
+  et al., 2025</xref>). The One Health approach
+  (<xref alt="Danasekaran, 2024" rid="ref-Danasekaran2024One" ref-type="bibr">Danasekaran,
+  2024</xref>) recognizes these interconnections between human, animal,
+  plant, and environmental health and provides a set of principles for
+  achieving a healthier planet by fostering collaboration across
+  disciplines.</p>
+  <p>The One Health Joint Plan of Action (OH JPA,
+  <xref alt="Quadripartite organizations, 2022" rid="ref-Organization2022One" ref-type="bibr">Quadripartite
+  organizations, 2022</xref>) is an action-oriented framework aimed at
+  advancing One Health principles in the horizon of 2026. Developed by
+  the Quadripartite collaboration, which is a strategic One Health
+  partnership between the Food and Agriculture Organization of the
+  United Nations (FAO), the United Nations Environment Programme (UNEP),
+  the World Organisation for Animal Health (WOAH), and the World Health
+  Organization (WHO), the OH JPA contains 19 actions that address
+  important challenges at the interface between human, animal, plant,
+  and environmental health. These actions form six action tracks that
+  collectively seek to strengthen health systems and food safety
+  capacities while preventing zoonotic diseases, antimicrobial
+  resistance, and environmental degradation. However, while this plan
+  does a good job at promoting capacity-building across many dimensions
+  of One Health, there are currently no indicators that would help us
+  monitor its implementation. As we enter the final year of the plan,
+  the need to evaluate the progress made since its adoption in 2022
+  grows acute, especially as this evaluation can inform the development
+  of the next version of the plan.</p>
   <p>In 2022, in their fifteenth conference, the Parties to the
   Convention of Biological Diversity (CBD) adopted the Kunming-Montreal
-  Global Biodiversity Framework (KM-GBF) to alt and reverse biodiversity
-  loss by 2030. To achieve this, the KM-GBF contains 4 general goals and
-  23 specific targets, ranging from the restoration of degraded
-  ecosystems to the integration of biodiversity in decision-making. The
-  KM-GBF Monitoring Framework includes 204 indicators that countries can
-  use to monitor these goals and targets
-  (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
-  2025</xref>). These indicators are classified in four groups: headline
-  (high-level), binary (yes/no questions), component (technical), and
-  complementary (supporting) indicators. Two of these groups (headline
-  and binary indicators) are mandatory, i.e. countries have the legal
-  obligation to include them in their national reports. Measuring these
-  indicators requires significant resources and expertise, which should
-  therefore be well allocated.</p>
+  Global Biodiversity Framework (KM-GBF,
+  <xref alt="UNEP, 2022" rid="ref-KMGBF" ref-type="bibr">UNEP,
+  2022</xref>) to halt and reverse biodiversity loss by 2030. To achieve
+  this, the KM-GBF contains 4 general goals and 23 specific targets,
+  ranging from the restoration of degraded ecosystems to the integration
+  of biodiversity in decision-making. The KM-GBF monitoring framework
+  (<xref alt="UNEP, 2025" rid="ref-Monitoring" ref-type="bibr">UNEP,
+  2025</xref>) includes 204 indicators that countries can use to monitor
+  these goals and targets. These indicators are classified in four
+  groups: headline (high-level), binary (yes/no questions), component
+  (technical), and complementary (supporting) indicators. Two of these
+  groups (headline and binary indicators) are mandatory, i.e. countries
+  have the legal obligation to include them in their national reports.
+  Measuring these indicators requires significant resources and
+  expertise, which should therefore be well allocated.</p>
   <p>More recently, the Parties to the CBD also adopted the Global
   Action Plan on Biodiversity and Health (GAP-BH), which formally
   recognizes the links between biodiversity and Health
   (<xref alt="UNEP, 2024" rid="ref-Global" ref-type="bibr">UNEP,
   2024</xref>). The GAP-BH groups the targets of the KM-GBF into 14
-  thematic categories, ranging from Access and benefit-sharing to
-  Knowledge and engagement of people. Each thematic category has its own
-  relevance to Health. For example, the targets that fall under the
-  Mainstreaming category contribute to “the consideration of
-  biodiversity and health interlinkages in decision-making across all
-  sectors [which] can improve awareness of the benefits of biodiversity
-  to foster more equitable health systems.” Because of the high
-  relevance of KM-GBF targets to Health, we hypothesized that the
-  indicators of these targets will also be of relevance to Health.</p>
-  <p>This study aims to identify the indicators of the KM-GBF Monitoring
-  Framework that are of relevance to One Health. First, we assessed the
+  thematic categories, ranging from Access and Benefit-Sharing (category
+  9) to Knowledge and Engagement of People (category 14). Each thematic
+  category has its own relevance to Health. For example, the targets
+  that fall under the Mainstreaming category contribute to “the
+  consideration of biodiversity and health interlinkages in
+  decision-making across all sectors [which] can improve awareness of
+  the benefits of biodiversity to foster more equitable health systems”
+  (<xref alt="UNEP, 2024" rid="ref-Global" ref-type="bibr">UNEP,
+  2024</xref>). Because of the high relevance of KM-GBF targets to
+  Health, we hypothesized that a large proportion of the indicators of
+  these targets will also be relevant to Health.</p>
+  <p>This study aims to identify the indicators of the KM-GBF monitoring
+  framework that are of relevance to One Health. First, we assessed the
   link between each of these indicators and human, animal, plant, and
   environmental health. We found that 75% of indicators are directly or
   indirectly connected to at least one of the four pillars of One
@@ -349,25 +357,28 @@ policy, and governance practices.</p>
   to develop and monitor new indicators at the intersection of human,
   animal, plant, and environmental health. Together, these two results
   highlight the need for data sharing and knowledge transfer practices
-  between the CBD Secretariat and the Quadripartite organizations.</p>
+  between the CBD Secretariat and the Quadripartite organizations. More
+  importantly, our results emphasize that biodiversity is an essential
+  component of effective One Health strategies, and that adequate
+  biodiversity monitoring enables tracking the progress towards the
+  ambitious goals of the OH JPA.</p>
 </sec>
 <sec id="methods">
   <title>Methods</title>
   <p>We qualitatively assessed the relevance of all 204 KM-GBF
   indicators
-  (<xref alt="Conference of the Parties to the Convention on Biological Diversity, 2025" rid="ref-Monitoring" ref-type="bibr">Conference
-  of the Parties to the Convention on Biological Diversity, 2025</xref>)
-  to Health. Specifically, we evaluated the degree to which they are
-  linked to each of the four pillars of One Health (i.e., to human,
-  animal, plant, and environmental heath), as well as their usability
-  for monitoring the OH JPA. Our assessments were informed by the
-  metadata (rationale, definition, method of computation, data sources,
-  and scale of use) of the indicators provided by the World Conservation
-  Monitoring Centre of the UN Environment Programme
+  (<xref alt="UNEP, 2025" rid="ref-Monitoring" ref-type="bibr">UNEP,
+  2025</xref>) to Health. Specifically, we evaluated the degree to which
+  they are linked to each of the four pillars of One Health (i.e., to
+  human, animal, plant, and environmental heath), as well as their
+  usability for monitoring the OH JPA. Our assessments were informed by
+  the metadata (rationale, definition, method of computation, data
+  sources, and scale of use) of the indicators provided by the World
+  Conservation Monitoring Centre of the UN Environment Programme
   (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
   2025</xref>), when available, looking for explicit considerations of
-  Health. When such metadata was unavailable, assessments were entirely
-  based on expert judgment. The result of this analysis and the code to
+  Health. When such metadata was unavailable, assessments were based on
+  expert elicitation. The result of this analysis and the code to
   reproduce the figures are available on Zenodo.</p>
   <sec id="assessing-the-link-between-indicators-and-health">
     <title>Assessing the link between indicators and Health</title>
@@ -395,9 +406,13 @@ policy, and governance practices.</p>
     2014</xref>;
     <xref alt="Lerner &amp; Berg, 2017" rid="ref-Lerner2017Comparison" ref-type="bibr">Lerner
     &amp; Berg, 2017</xref>).</p>
-    <p>We used a broad definition of Health that considers the overall
-    well-being of individuals and their capacity to function normally,
-    which includes the absence of diseases
+    <p>The concept of Health varies depending on the level of biological
+    organization
+    (<xref alt="Lerner &amp; Berg, 2015" rid="ref-Lerner2015Concept" ref-type="bibr">Lerner
+    &amp; Berg, 2015</xref>). At the individual level, we used a broad
+    definition of Health that considers the overall well-being of
+    individuals and their capacity to function normally, which includes
+    the absence of diseases
     (<xref alt="WHO, 1948" rid="ref-Preamble" ref-type="bibr">WHO,
     1948</xref>). In humans and domestic and wildlife animals,
     well-being is the ability for an individual to satisfy its physical,
@@ -412,18 +427,19 @@ policy, and governance practices.</p>
     et al., 2012</xref>). Here, we considered plant health as the extent
     to which an individual is able to function physiologically, and
     plant diseases as impediments to their normal physiological
-    functioning often leading to death. Similarly, when it comes to
-    whole ecosystems, consisting of many individuals and their
-    interactions, health is also ill-defined
+    functioning often leading to death. At the ecosystem level,
+    consisting of many individuals and their interactions, health is
+    also ill-defined
     (<xref alt="Schaeffer et al., 1988" rid="ref-Schaeffer1988Ecosystem" ref-type="bibr">Schaeffer
     et al., 1988</xref>). We defined environmental health as the extent
     to which an ecosystem can maintain its biological and chemical
-    processes and adapt to changes. Disturbances are the ecosystem
-    analogue of diseases, and represent degradations that usually lead
-    to a decline in ecosystem functioning. When assessing environmental
-    health, we also considered the health of species included in the
-    environment pillar of One Health, e.g. wildlife and uncultivated
-    plant species.</p>
+    processes and adapt to changes
+    (<xref alt="Jakobsson, 2012" rid="ref-Jakobsson2012Sustainable" ref-type="bibr">Jakobsson,
+    2012</xref>). Disturbances are the ecosystem analogue of diseases,
+    and represent degradations that usually lead to a decline in
+    ecosystem functioning. When assessing environmental health, we also
+    considered the health of species included in the environment pillar
+    of One Health, e.g. wildlife and uncultivated plant species.</p>
     <p>We classified the degree to which the indicators are linked to
     each of the four pillars of One Health into four categories: direct
     connection, indirect connection, potential connection, and no
@@ -436,7 +452,7 @@ policy, and governance practices.</p>
     health because of the toxicity of many pesticides under high level
     of exposure
     (<xref alt="Kim et al., 2017" rid="ref-Kim2017Exposure" ref-type="bibr">Kim
-    et al., 2017</xref>). An indicator was qualified as indirectly
+    et al., 2017</xref>). Then, an indicator was qualified as indirectly
     connected to Health when there is an intermediary factor between the
     indicator and Health. For instance, component indicator 4.CT.1
     “Number of plant and animal genetic resources for food and
@@ -445,24 +461,24 @@ policy, and governance practices.</p>
     because conserving genetic resources increases the resilience of
     food systems to global disasters
     (<xref alt="Esquinas-Alcázar, 2005" rid="ref-Esquinas-Alcazar2005Protecting" ref-type="bibr">Esquinas-Alcázar,
-    2005</xref>), which in turn protects human health. An indicator was
-    qualified as potentially connected to Health when there are multiple
-    intermediary factors between the indicator and Health, or when its
-    connection to Health is likely but difficult to certify. For
-    example, complementary indicator 2.CY.2 “Proportion of key
-    biodiversity areas in favourable condition” was qualified as
+    2005</xref>), which in turn protects human health. Next, an
+    indicator was qualified as potentially connected to Health when
+    there are multiple intermediary factors between the indicator and
+    Health, or when its connection to Health is likely but difficult to
+    certify. For example, complementary indicator 2.CY.2 “Proportion of
+    key biodiversity areas in favourable condition” was qualified as
     potentially connected to human health because key biodiversity areas
     are mainly defined with ecological criteria for conserving rare or
     endemic species and pristine habitats
     (<xref alt="Butchart et al., 2026" rid="ref-Butchart2026Extent" ref-type="bibr">Butchart
     et al., 2026</xref>), and may or may not include areas of high
     importance for human health. Finally, an indicator was qualified as
-    not connected to Health when the connection is unlikely or absent.
-    This was the case for component indicator 21.CT.3 “Index of
-    linguistic diversity”, for which we did not find any evidence of a
-    link to human, animal, plant or environmental health. For each of
-    the four pillars of One Health, we counted the number of indicators
-    assigned to each category.</p>
+    not connected to Health when the connection is unlikely, unsupported
+    by current scientific evidence, or absent. This was the case for
+    component indicator 21.CT.3 “Index of linguistic diversity”, for
+    which we did not find any evidence of a link to human, animal, plant
+    or environmental health. For each of the four pillars of One Health,
+    we counted the number of indicators assigned to each category.</p>
   </sec>
   <sec id="assessing-the-usability-of-indicators-for-monitoring-the-oh-jpa">
     <title>Assessing the usability of indicators for monitoring the OH
@@ -499,7 +515,7 @@ policy, and governance practices.</p>
     indicators in each category. In addition, we counted the number of
     usable indicators for the whole plan regardless of the action
     tracks. Then, we partitioned these numbers based on the group of
-    indicator in the KM-GBF Monitoring Framework (i.e. headline, binary,
+    indicator in the KM-GBF monitoring framework (i.e. headline, binary,
     component, and complementary indicators) and the thematic categories
     of the GAP-BH. Finally, for each action track where an indicator was
     considered usable (either directly or after adaptation), we
@@ -565,7 +581,7 @@ policy, and governance practices.</p>
     usable indicators). The high proportion of usable indicators for the
     sixth action track is not surprising given that the KM-GBF is a
     multilateral environmental agreement that aims to protect species
-    and restaure ecosystems. The low proportion of indicators that can
+    and restore ecosystems. The low proportion of indicators that can
     monitor actions in the fifth action track could be due to the
     characteristics of these actions, which are more focused on
     collaboration, capacity-building and awareness-raising than the
@@ -576,7 +592,7 @@ policy, and governance practices.</p>
     centered on capacity-building and less on the drivers and inhibitors
     of infectious diseases, especially in comparison to the actions of
     the second action track on zoonotic epidemics and pandemics. These
-    differences suggest that, although the KM-GBF Monitoring Framework
+    differences suggest that, although the KM-GBF monitoring framework
     can greatly reduce the workload of countries by reducing the need to
     develop new indicators at the intersection of biodiversity and
     Health, additional work is still needed to equally cover all aspects
@@ -618,10 +634,10 @@ policy, and governance practices.</p>
       <table-wrap>
         <table>
           <colgroup>
-            <col width="68%" />
-            <col width="10%" />
-            <col width="11%" />
-            <col width="11%" />
+            <col width="61%" />
+            <col width="13%" />
+            <col width="13%" />
+            <col width="13%" />
           </colgroup>
           <thead>
             <tr>
@@ -841,8 +857,8 @@ policy, and governance practices.</p>
     </fig>
     <p><xref alt="Figure 3" rid="fig-use-cat">Figure 3</xref> shows the
     proportion of indicators that can be used to monitor each action
-    track, for each group of indicators in the KM-GBF Monitoring
-    Framework. We evaluated that 100% of headline indicators (27/27),
+    track, for each group of indicators in the KM-GBF monitoring
+    framework. We evaluated that 100% of headline indicators (27/27),
     93% of binary indicators (14/15), 94% of component indicators
     (49/52), and 87% of complementary indicators (96/110) can be used,
     either directly or after adaptation, to monitor at least one action
@@ -873,7 +889,7 @@ policy, and governance practices.</p>
     used, either directly or after adaptation, for monitoring at least
     one action track, excepting in the Knowledge and engagement of
     people category, which only has 52% of usable indicators. This
-    suggests that every sector of the KM-GBF Monitoring Framework, from
+    suggests that every sector of the KM-GBF monitoring framework, from
     Nature’s contribution to people to Species management, is relevant
     for One Health, even though there are wide variations in the action
     track most relevant for each category. This figure also shows that
@@ -905,7 +921,7 @@ policy, and governance practices.</p>
   countries that are part of different multilateral environmental
   agreements with overlapping objectives. Instead of developing new
   indicators, our study shows that countries can reuse many indicators
-  from the KM-GBF Monitoring Framework to monitor One Health actions.
+  from the KM-GBF monitoring framework to monitor One Health actions.
   Our evaluation suggests that most of these indicators are linked to
   Health and can be used to monitor the specific actions of the OH JPA.
   Biologists, who develop and measure these indicators, can thus
@@ -926,10 +942,11 @@ policy, and governance practices.</p>
   <title>Acknowledgments</title>
   <p>We acknowledge that this study was conducted on land within the
   traditional unceded territory of the Saint Lawrence Iroquoian,
-  Anishinabewaki, Mohawk, Huron-Wendat and Omàmiwininiwak nations. FB
-  and TP were supported by the Wellcome Trust. A special thanks to the
-  GEO BON One Health working group and Claire Burnel for their useful
-  feedback on the manuscript.</p>
+  Anishinabewaki, Mohawk, Huron-Wendat and Omàmiwininiwak nations. TP
+  was funded through award no. 223764/Z/21/Z from the Wellcome Trust and
+  supported by the US National Science Foundation (grant no. DBI
+  2213854). We thank members of the GEO BON One Health working group and
+  Claire Burnel for their useful feedback on the manuscript.</p>
 </sec>
 </body>
 
@@ -1033,6 +1050,23 @@ policy, and governance practices.</p>
       <pub-id pub-id-type="doi">10.1038/s44358-024-00005-w</pub-id>
       <fpage>32</fpage>
       <lpage>49</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Danasekaran2024One">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Danasekaran</surname><given-names>Raja</given-names></name>
+      </person-group>
+      <article-title>One Health: A Holistic Approach to Tackling Global Health Issues</article-title>
+      <source>Indian Journal of Community Medicine: Official Publication of Indian Association of Preventive &amp; Social Medicine</source>
+      <year iso-8601-date="2024">2024</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-04-13">2026</year><month>04</month><day>13</day></date-in-citation>
+      <volume>49</volume>
+      <issue>2</issue>
+      <issn>0970-0218</issn>
+      <pub-id pub-id-type="doi">10.4103/ijcm.ijcm_521_23</pub-id>
+      <fpage>260</fpage>
+      <lpage>263</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Diaz2018Assessing">
@@ -1145,7 +1179,7 @@ policy, and governance practices.</p>
         <name><surname>UNEP</surname></name>
       </person-group>
       <article-title>Global Action Plan on Biodiversity and Health</article-title>
-      <publisher-name>https://www.cbd.int/health/GAP.shtml</publisher-name>
+      <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/DEC/16/19</publisher-name>
       <year iso-8601-date="2024">2024</year>
     </element-citation>
   </ref>
@@ -1159,6 +1193,17 @@ policy, and governance practices.</p>
       <publisher-name>https://www.gbf-indicators.org/</publisher-name>
       <year iso-8601-date="2025">2025</year>
       <date-in-citation content-type="access-date"><year iso-8601-date="2026-03-20">2026</year><month>03</month><day>20</day></date-in-citation>
+    </element-citation>
+  </ref>
+  <ref id="ref-Jakobsson2012Sustainable">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name><surname>Jakobsson</surname><given-names>Christine</given-names></name>
+      </person-group>
+      <source>Sustainable Agriculture</source>
+      <publisher-name>Baltic University Press</publisher-name>
+      <year iso-8601-date="2012">2012</year>
+      <isbn>978-91-86189-10-5</isbn>
     </element-citation>
   </ref>
   <ref id="ref-Jones2008Global">
@@ -1204,6 +1249,35 @@ policy, and governance practices.</p>
       <lpage>535</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-KMGBF">
+    <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>UNEP</surname></name>
+      </person-group>
+      <article-title>Kunming-Montreal Global Biodiversity Framework</article-title>
+      <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/DEC/15/4</publisher-name>
+      <year iso-8601-date="2022">2022</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Lerner2015Concept">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Lerner</surname><given-names>Henrik</given-names></name>
+        <name><surname>Berg</surname><given-names>Charlotte</given-names></name>
+      </person-group>
+      <article-title>The concept of health in One Health and some practical implications for research and education: What is One Health?</article-title>
+      <source>Infection Ecology &amp; Epidemiology</source>
+      <publisher-name>Taylor &amp; Francis</publisher-name>
+      <year iso-8601-date="2015">2015</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-04-13">2026</year><month>04</month><day>13</day></date-in-citation>
+      <volume>5</volume>
+      <issue>1</issue>
+      <issn>null</issn>
+      <pub-id pub-id-type="doi">10.3402/iee.v5.25300</pub-id>
+      <fpage>25300</fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Lerner2017Comparison">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -1245,11 +1319,22 @@ policy, and governance practices.</p>
   <ref id="ref-Monitoring">
     <element-citation>
       <person-group person-group-type="author">
-        <string-name>Conference of the Parties to the Convention on Biological Diversity</string-name>
+        <name><surname>UNEP</surname></name>
       </person-group>
       <article-title>Monitoring framework for the Kunming-Montreal Global Biodiversity Framework</article-title>
       <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/16/L.26/Rev.1.</publisher-name>
       <year iso-8601-date="2025">2025</year>
+    </element-citation>
+  </ref>
+  <ref id="ref-Organization2022One">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <string-name>Quadripartite organizations</string-name>
+      </person-group>
+      <source>One Health Joint Plan of Action (2022-2026): Working together for the health of humans, animals, plants and the environment</source>
+      <publisher-name>World Health Organization</publisher-name>
+      <year iso-8601-date="2022">2022</year>
+      <isbn>978-92-4-005913-9</isbn>
     </element-citation>
   </ref>
   <ref id="ref-Poisot2025Biodiversity">
