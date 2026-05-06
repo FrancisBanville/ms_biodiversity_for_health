@@ -10,3 +10,5 @@
 /.luarc.json
 
 index-preview.html
+
+**/*.quarto_ipynb
