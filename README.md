@@ -1,4 +1,4 @@
-# Monitoring biodiversity for human, animal, and environmental health
+# The Global Biodiversity Framework supports global assessment of One Health action
 
 This manuscript was made with Quarto. Follow [this tutorial](https://quarto.org/docs/manuscripts/authoring/vscode.html) to learn how to use Quarto with VS Code. 
 
