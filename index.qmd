@@ -135,7 +135,7 @@ This study aims to identify the indicators of the KM-GBF monitoring framework th
 
 # Methods
 
-We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitoring] to Health. Specifically, we evaluated the degree to which they are linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their usability for monitoring the OH JPA. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of Health. When such metadata was unavailable, assessments were based on expert elicitation. The result of this analysis and the code to reproduce the figures are available on Zenodo.
+We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitoring] to Health. Specifically, we evaluated the degree to which they are linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their usability for monitoring the OH JPA. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of Health. When such metadata was unavailable, assessments were based on expert elicitation. The result of this analysis and the code to reproduce the figures are available on Zenodo (https://doi.org/10.5281/zenodo.20085701).
 
 ## Assessing the link between indicators and Health
 
