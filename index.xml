@@ -442,23 +442,19 @@ for shared data, metrics, and governance practices.</p>
   <p>We qualitatively assessed the relevance of all 204 KM-GBF
   indicators
   (<xref alt="UNEP, 2025" rid="ref-Monitoring" ref-type="bibr">UNEP,
-  2025</xref>) to health. Specifically, we evaluated the degree to which
+  2025</xref>) to Health. Specifically, we evaluated the degree to which
   they are linked to each of the four pillars of One Health (i.e., to
-  human, animal, plant, and environmental health), as well as their
-  usability for monitoring the implementation of the OH JPA action
-  tracks. This was done independently by at least two evaluators for
-  each of the indicators, a consensus being reached where there were
-  initial disagreements. Our evaluations were informed by the metadata
-  (rationale, definition, method of computation, data sources, and scale
-  of use) of the indicators provided by the World Conservation
-  Monitoring Centre of the UN Environment Programme
+  human, animal, plant, and environmental heath), as well as their
+  usability for monitoring the OH JPA. Our assessments were informed by
+  the metadata (rationale, definition, method of computation, data
+  sources, and scale of use) of the indicators provided by the World
+  Conservation Monitoring Centre of the UN Environment Programme
   (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
   2025</xref>), when available, looking for explicit considerations of
-  health. When such metadata was unavailable, assessments were based on
-  expert elicitation. Moreover, our evaluations were guided by the
-  definitions of human, animal, plant, and environmental health
-  presented in Boxes 1 and 2. The result of this analysis and the code
-  to reproduce the figures are available on Zenodo.</p>
+  Health. When such metadata was unavailable, assessments were based on
+  expert elicitation. The result of this analysis and the code to
+  reproduce the figures are available on Zenodo
+  (https://doi.org/10.5281/zenodo.20085701).</p>
   <boxed-text>
   <p><bold>Box 1: What are animals, plants, and the environment in One
   Health?</bold></p>
