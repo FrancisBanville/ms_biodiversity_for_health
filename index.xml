@@ -11,9 +11,8 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 
 <title-group>
-<article-title>Towards the monitoring of One Health action tracks using
-the indicators of the Kunming-Montreal Global Biodiversity
-Framework</article-title>
+<article-title>The Global Biodiversity Framework supports global
+assessment of One Health actions</article-title>
 </title-group>
 
 <contrib-group>
@@ -253,9 +252,10 @@ indicators are associated with either human (56%), animal (53%), plant
 for monitoring at least one action track. Reusing existing indicators
 can alleviate the costs associated with the development and measurement
 of new indicators, thus improving the efficiency of monitoring systems.
-Our work supports collaboration between the CBD Secretariat and the
-Quadripartite organizations by highlighting the need and opportunities
-for shared data, metrics, and governance practices.</p>
+Our work supports the idea that multilateral progress on the monitoring
+of biodiversity, through its indissociability from all facets of health,
+provide a way to retrospsectively and prospectively measure progress
+accomplished on abitious One Health actions.</p>
 </abstract>
 <kwd-group kwd-group-type="author">
 <kwd>biodiversity indicators</kwd>
@@ -280,8 +280,8 @@ for shared data, metrics, and governance practices.</p>
   <p>Human health responds to changes in biodiversity in complex and
   sometimes opposite ways
   (<xref alt="Robinson et al., 2024" rid="ref-Robinson2024Biodiversity" ref-type="bibr">Robinson
-  et al., 2024</xref>). For instance, on one hand, biodiversity supplies
-  food, shelter, and medicine that are vital to human health
+  et al., 2024</xref>). On one hand, biodiversity supplies food,
+  shelter, and medicine that are vital to human health
   (<xref alt="Diaz et al., 2018" rid="ref-Diaz2018Assessing" ref-type="bibr"><named-content content-type="nocase">Diaz
   et al.</named-content>, 2018</xref>). Ecosystem services, such as
   climate stabilization, air and water filtration, and natural hazards
@@ -293,9 +293,9 @@ for shared data, metrics, and governance practices.</p>
   transmission of pathogens from animals to humans being a major cause
   of disease outbreaks
   (<xref alt="K. E. Jones et al., 2008" rid="ref-Jones2008Global" ref-type="bibr">K.
-  E. Jones et al., 2008</xref>). Plant diseases can also impact human
-  health by hindering ecosystem services, e.g. through food
-  contamination or the reduction in food production
+  E. Jones et al., 2008</xref>). Plant diseases also impact human health
+  by hindering ecosystem services, e.g. through food contamination or
+  the reduction in food production
   (<xref alt="Al-Sadi, 2017" rid="ref-Al-Sadi2017Impact" ref-type="bibr">Al-Sadi,
   2017</xref>). Biodiversity and human health can both be affected by
   the same threats
@@ -365,9 +365,10 @@ for shared data, metrics, and governance practices.</p>
   refer to as an “indicator industry”
   (<xref alt="Lehtonen, 2015" rid="ref-Lehtonen2015Chapter" ref-type="bibr">Lehtonen,
   2015</xref>), which aims to provide a more precise and quantitative
-  assessments of policies. In this context, biodiversity indicators are
-  defined as measures of changes in the state of biodiversity over time
-  that allow for tracking progress towards specific objectives
+  assessments of policies.</p>
+  <p>Biodiversity indicators are defined as measures of changes in the
+  state of biodiversity over time that allow for tracking progress
+  towards specific objectives
   (<xref alt="Hébert et al., 2025" rid="ref-Hebert2025Selectinga" ref-type="bibr">Hébert
   et al., 2025</xref>;
   <xref alt="J. P. G. Jones et al., 2011" rid="ref-Jones2011Why" ref-type="bibr">J.
@@ -407,7 +408,12 @@ for shared data, metrics, and governance practices.</p>
   (<xref alt="2024" rid="ref-Global" ref-type="bibr">2024</xref>), we
   hypothesized that a large proportion of the indicators of these
   targets would also be relevant to health, and therefore to the
-  monitoring of the OH JPA.</p>
+  retroactive monitoring of the OH JPA. Given the recent increase in
+  prominence of the One Health concept following its introduction in the
+  Article 5 on the WHO Pandemic Agreement (<bold>TODO FB REF</bold>), it
+  is also crucial to anticipate on the reporting need of a future
+  high-level document for One Health, and to suggest existing indicator
+  and reporting processes that can support its implementation.</p>
   <p>We argue that reusing some of the same indicators for both
   monitoring systems (the KM-GBF and the OH JPA) would improve their
   efficiency and reduce the workload of countries, as developing and
@@ -426,7 +432,11 @@ for shared data, metrics, and governance practices.</p>
   agreed-upon methodology, both at the national and international levels
   (<xref alt="Affinito et al., 2025" rid="ref-Affinito2025Assessinga" ref-type="bibr">Affinito
   et al., 2025</xref>): a further reason why pooling efforts would help
-  improve both this framework and the OH JPA.</p>
+  improve both this framework and the OH JPA. Despite these
+  difficulties, the indicators of the KM-GBF have ultimately achieved a
+  broad global consensus, and this grants them an important legitimacy
+  as reporting instruments in other context, whenever they are
+  relevant.</p>
   <p>This study therefore aimed to identify the indicators of the KM-GBF
   monitoring framework that are of relevance to health. First, we
   assessed the link between each of these indicators and human, animal,
@@ -451,41 +461,43 @@ for shared data, metrics, and governance practices.</p>
   Conservation Monitoring Centre of the UN Environment Programme
   (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
   2025</xref>), when available, looking for explicit considerations of
-  Health. When such metadata was unavailable, assessments were based on
-  expert elicitation. The result of this analysis and the code to
-  reproduce the figures are available on Zenodo
+  Health. When such metadata was unavailable, assessments were
+  supplemented by expert elicitation. The result of this analysis and
+  the code to reproduce the figures are available on Zenodo
   (https://doi.org/10.5281/zenodo.20085701).</p>
   <boxed-text>
   <p><bold>Box 1: What are animals, plants, and the environment in One
   Health?</bold></p>
   <p>The definitions of animals, plants, and the environment in One
   Health are based more on institutional norms than on biological
-  realities. In this context, we define each of these groups of species
-  according to the mandates of the four organizations that form the
-  Quadripartite. (<bold><italic>TP: Point 1: How can we better justify
-  our definitions of animals and plants based on UN
-  mandates?</italic></bold>). Humans are their own pillar of One Health
-  and the primary focus of the WHO. Animals and plants refer to
-  <italic>domesticated</italic> species only, a distinction we make to
-  align more closely with the mandates of the WOAH and FAO. Therefore,
-  we include pets, livestock, and edible marine and freshwater species
-  captured from fisheries and aquaculture in the animal health pillar,
-  i.e. species mainly looked after by veterinarians and food inspectors.
-  Even though, biologically speaking, humans and wildlife are also
-  animals, they are not part of the animal health pillar. Similarly, we
-  include all cultivated plants used for food, fuel, and medicine into
-  the plant health pillar. Wildlife and uncultivated plant species, such
-  as wild fish and tree species used in forestry, are part of the
-  environment health pillar, alongside all other species absent from the
-  other three pillars. The environment health pillar also includes whole
-  ecosystems (natural and artificial), which are central to UNEP’s
-  mission. These definitions are aligned with the core contributing
-  sciences of the One Health approach, i.e. human medicine, veterinary
-  medicine, agriculture, and ecology
+  realities. Here, we adhere to the delineation of these groups by
+  mandates of the four organizations that form the Quadripartite. Humans
+  are their own pillar of One Health and the primary focus of the WHO.
+  Animals and plants refer to <italic>domesticated</italic> species
+  only, a distinction we make to align more closely with the mandates of
+  the WOAH (animals) and FAO (plants). Therefore, we include pets,
+  livestock, and edible marine and freshwater species captured from
+  fisheries and aquaculture in the animal health pillar, i.e. species
+  mainly looked after by veterinarians and food inspectors. Even though,
+  biologically speaking, humans and wildlife are also animals, they are
+  not part of the animal health pillar. Similarly, we include all
+  cultivated plants used for food, fuel, and medicine into the plant
+  health pillar. Wildlife and uncultivated plant species, such as wild
+  fish and tree species used in forestry, are part of the environment
+  health pillar, alongside all other species absent from the other three
+  pillars. The environment health pillar also includes whole ecosystems
+  (natural and artificial), which are central to UNEP’s mission. These
+  definitions are aligned with the core contributing sciences of the One
+  Health approach, i.e. human medicine, veterinary medicine,
+  agriculture, and ecology
   (<xref alt="Gibbs, 2014" rid="ref-Gibbs2014Evolution" ref-type="bibr">Gibbs,
   2014</xref>;
   <xref alt="Lerner &amp; Berg, 2017" rid="ref-Lerner2017Comparison" ref-type="bibr">Lerner
-  &amp; Berg, 2017</xref>).</p>
+  &amp; Berg, 2017</xref>). While it may be biologically frustrating to
+  work within this framework, we emphasize that assigning groups of
+  organisms to specific organizations has the direct benefit of
+  inscribing our work within established, and multilaterally
+  agreed-upon, systems of governance and reporting.</p>
   </boxed-text>
   <boxed-text>
   <p><bold>Box 2: What is health?</bold></p>
@@ -505,10 +517,11 @@ for shared data, metrics, and governance practices.</p>
   behavioral needs
   (<xref alt="Webb et al., 2019" rid="ref-Webb2019What" ref-type="bibr">Webb
   et al., 2019</xref>), whereas diseases are undesirable conditions
-  often leading to pain, suffering, or death. (<bold><italic>TP: Point
-  2: How does our work distinguish between human health, public health,
-  and health systems?</italic></bold>). In plants, which are not
-  conscious organisms
+  often leading to pain, suffering, or death. (this is adresswed, in the
+  spirit of One Health, holistically at the individual, populational,
+  and global scale, and therefore accounts for <italic>e.g.</italic>
+  health system preparedness). In plants, which are not conscious
+  organisms
   (<xref alt="Mallatt et al., 2021" rid="ref-Mallatt2021Debunking" ref-type="bibr">Mallatt
   et al., 2021</xref>), health is harder to define
   (<xref alt="Döring et al., 2012" rid="ref-Doring2012Concepts" ref-type="bibr">Döring
@@ -524,9 +537,11 @@ for shared data, metrics, and governance practices.</p>
   &amp; Scott, 2005</xref>). At the ecosystem level, consisting of many
   species and their interactions, health is also ill-defined
   (<xref alt="Schaeffer et al., 1988" rid="ref-Schaeffer1988Ecosystem" ref-type="bibr">Schaeffer
-  et al., 1988</xref>). We consider environmental health as the extent
-  to which an ecosystem can maintain its biological and chemical
-  processes and adapt to changes
+  et al., 1988</xref>), and the idea of ecosystem health, although
+  ancient, has often been promoted as metaphorical <bold>REF Costanza +
+  Rapport</bold>. We consider environmental health as the extent to
+  which an ecosystem can maintain its biological and chemical processes
+  and adapt to changes
   (<xref alt="Jakobsson, 2012" rid="ref-Jakobsson2012Sustainable" ref-type="bibr">Jakobsson,
   2012</xref>). Disturbances, such as extreme weather events or resource
   exploitation, are the ecosystem analogue of diseases, and represent
@@ -535,6 +550,27 @@ for shared data, metrics, and governance practices.</p>
   of the environment pillar of One Health, e.g. wildlife and
   uncultivated plant species.</p>
   </boxed-text>
+  <code language="bibtex">@article{costanza1999healthy,
+  title={What is a healthy ecosystem?},
+  author={Costanza, Robert and Mageau, Michael},
+  journal={Aquatic ecology},
+  volume={33},
+  number={1},
+  pages={105--115},
+  year={1999},
+  publisher={Springer}
+}
+
+@article{rapport1989constitutes,
+  title={What constitutes ecosystem health?},
+  author={Rapport, David J},
+  journal={Perspectives in biology and medicine},
+  volume={33},
+  number={1},
+  pages={120--132},
+  year={1989},
+  publisher={Johns Hopkins University Press}
+}</code>
   <sec id="assessing-the-link-between-km-gbf-indicators-and-health">
     <title>Assessing the link between KM-GBF indicators and
     health</title>
@@ -628,14 +664,15 @@ for shared data, metrics, and governance practices.</p>
     <xref alt="Figure 1" rid="fig-link">Figure 1</xref>, we show the
     number of indicators that are directly, indirectly, potentially, and
     not connected to each of the four pillars of One Health. The number
-    of directly connected indicators is slightly higher for
-    environmental health (41% of indicators) compared to human (27%),
-    animal (26%), and plant (28%) health, mostly because the environment
-    contains most of biodiversity. However, this difference is less
-    pronounced after adding indirectly connected indicators (63% for
-    environmental health compared to 56%, 53%, and 51% respectively for
-    human, animal, and plant health), highlighting the multiple pathways
-    through which biodiversity and health are connected.</p>
+    of directly connected indicators is, as expected, slightly higher
+    for environmental health (41% of indicators) compared to human
+    (27%), animal (26%), and plant (28%) health, mostly because the
+    environment trivially contains most of biodiversity. However, this
+    difference is less pronounced after adding indirectly connected
+    indicators (63% for environmental health compared to 56%, 53%, and
+    51% respectively for human, animal, and plant health), highlighting
+    the multiple pathways through which biodiversity and health are
+    connected.</p>
     <fig id="fig-link">
       <caption><p>Figure 1: <bold>Number of indicators of the
       Kunming-Montreal Global Biodiversity Framework linked with human,
@@ -1058,8 +1095,8 @@ for shared data, metrics, and governance practices.</p>
   Anishinabewaki, Mohawk, Huron-Wendat and Omàmiwininiwak nations. TP
   was funded through award no. 223764/Z/21/Z from the Wellcome Trust and
   supported by the US National Science Foundation (grant no. DBI
-  2515340). We thank members of the GEO BON One Health working group for
-  their useful feedback on the project.</p>
+  2515340). This manuscript is a contribution of the GEO BON One Health
+  working group.</p>
 </sec>
 </body>
 
