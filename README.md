@@ -1,4 +1,4 @@
-# The Global Biodiversity Framework supports global assessment of One Health action
+# The Global Biodiversity Framework supports global assessment of One Health actions
 
 This manuscript was made with Quarto. Follow [this tutorial](https://quarto.org/docs/manuscripts/authoring/vscode.html) to learn how to use Quarto with VS Code. 
 
