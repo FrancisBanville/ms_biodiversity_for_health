@@ -254,8 +254,8 @@ can alleviate the costs associated with the development and measurement
 of new indicators, thus improving the efficiency of monitoring systems.
 Our work supports the idea that multilateral progress on the monitoring
 of biodiversity, through its indissociability from all facets of health,
-provide a way to retrospsectively and prospectively measure progress
-accomplished on abitious One Health actions.</p>
+provides a way to retrospsectively and prospectively measure progress
+accomplished on ambitious One Health actions.</p>
 </abstract>
 <kwd-group kwd-group-type="author">
 <kwd>biodiversity indicators</kwd>
@@ -285,8 +285,8 @@ accomplished on abitious One Health actions.</p>
   (<xref alt="Diaz et al., 2018" rid="ref-Diaz2018Assessing" ref-type="bibr"><named-content content-type="nocase">Diaz
   et al.</named-content>, 2018</xref>). Ecosystem services, such as
   climate stabilization, air and water filtration, and natural hazards
-  mitigation, also supports human societies by maintaining safe and
-  adequate environmental conditions
+  mitigation, support human societies by maintaining safe and adequate
+  environmental conditions
   (<xref alt="Jackson et al., 2013" rid="ref-Jackson2013Linking" ref-type="bibr">Jackson
   et al., 2013</xref>). On the other hand, infectious diseases
   originating in wildlife are a serious threat to public health, the
@@ -346,8 +346,8 @@ accomplished on abitious One Health actions.</p>
   plan.</p>
   <p>A solid example of monitoring can be found in the Kunming-Montreal
   Global Biodiversity Framework (KM-GBF)
-  (<xref alt="UNEP, 2022" rid="ref-KMGBF" ref-type="bibr">UNEP,
-  2022</xref>), adopted in 2022 by the Parties to the Convention on
+  (<xref alt="UNEP, 2022a" rid="ref-KMGBF" ref-type="bibr">UNEP,
+  2022a</xref>), adopted in 2022 by the Parties to the Convention on
   Biological Diversity (CBD). The KM-GBF aims to halt and reverse
   biodiversity loss by 2030 through 4 general goals and 23 specific
   targets, ranging from the restoration of degraded ecosystems to the
@@ -364,7 +364,7 @@ accomplished on abitious One Health actions.</p>
   evaluation and indicators is in line with a broader trend that some
   refer to as an “indicator industry”
   (<xref alt="Lehtonen, 2015" rid="ref-Lehtonen2015Chapter" ref-type="bibr">Lehtonen,
-  2015</xref>), which aims to provide a more precise and quantitative
+  2015</xref>), which aims to provide more precise and quantitative
   assessments of policies.</p>
   <p>Biodiversity indicators are defined as measures of changes in the
   state of biodiversity over time that allow for tracking progress
@@ -410,10 +410,12 @@ accomplished on abitious One Health actions.</p>
   targets would also be relevant to health, and therefore to the
   retroactive monitoring of the OH JPA. Given the recent increase in
   prominence of the One Health concept following its introduction in the
-  Article 5 on the WHO Pandemic Agreement (<bold>TODO FB REF</bold>), it
-  is also crucial to anticipate on the reporting need of a future
-  high-level document for One Health, and to suggest existing indicator
-  and reporting processes that can support its implementation.</p>
+  Article 5 of the WHO Pandemic Agreement
+  (<xref alt="WHO, 2025" rid="ref-Who" ref-type="bibr">WHO,
+  2025</xref>), it is also crucial to anticipate on the reporting need
+  of a future high-level document for One Health, and to suggest
+  existing indicators and reporting processes that can support its
+  implementation.</p>
   <p>We argue that reusing some of the same indicators for both
   monitoring systems (the KM-GBF and the OH JPA) would improve their
   efficiency and reduce the workload of countries, as developing and
@@ -452,7 +454,7 @@ accomplished on abitious One Health actions.</p>
   <p>We qualitatively assessed the relevance of all 204 KM-GBF
   indicators
   (<xref alt="UNEP, 2025" rid="ref-Monitoring" ref-type="bibr">UNEP,
-  2025</xref>) to Health. Specifically, we evaluated the degree to which
+  2025</xref>) to health. Specifically, we evaluated the degree to which
   they are linked to each of the four pillars of One Health (i.e., to
   human, animal, plant, and environmental heath), as well as their
   usability for monitoring the OH JPA. Our assessments were informed by
@@ -461,7 +463,7 @@ accomplished on abitious One Health actions.</p>
   Conservation Monitoring Centre of the UN Environment Programme
   (<xref alt="UNEP-WCMC, 2025" rid="ref-Indicators" ref-type="bibr">UNEP-WCMC,
   2025</xref>), when available, looking for explicit considerations of
-  Health. When such metadata was unavailable, assessments were
+  health. When such metadata was unavailable, assessments were
   supplemented by expert elicitation. The result of this analysis and
   the code to reproduce the figures are available on Zenodo
   (https://doi.org/10.5281/zenodo.20085701).</p>
@@ -517,10 +519,10 @@ accomplished on abitious One Health actions.</p>
   behavioral needs
   (<xref alt="Webb et al., 2019" rid="ref-Webb2019What" ref-type="bibr">Webb
   et al., 2019</xref>), whereas diseases are undesirable conditions
-  often leading to pain, suffering, or death. (this is adresswed, in the
+  often leading to pain, suffering, or death. This is addressed, in the
   spirit of One Health, holistically at the individual, populational,
   and global scale, and therefore accounts for <italic>e.g.</italic>
-  health system preparedness). In plants, which are not conscious
+  health system preparedness. In plants, which are not conscious
   organisms
   (<xref alt="Mallatt et al., 2021" rid="ref-Mallatt2021Debunking" ref-type="bibr">Mallatt
   et al., 2021</xref>), health is harder to define
@@ -538,10 +540,13 @@ accomplished on abitious One Health actions.</p>
   species and their interactions, health is also ill-defined
   (<xref alt="Schaeffer et al., 1988" rid="ref-Schaeffer1988Ecosystem" ref-type="bibr">Schaeffer
   et al., 1988</xref>), and the idea of ecosystem health, although
-  ancient, has often been promoted as metaphorical <bold>REF Costanza +
-  Rapport</bold>. We consider environmental health as the extent to
-  which an ecosystem can maintain its biological and chemical processes
-  and adapt to changes
+  ancient, has often been promoted as metaphorical
+  (<xref alt="Costanza &amp; Mageau, 1999" rid="ref-Costanza1999What" ref-type="bibr">Costanza
+  &amp; Mageau, 1999</xref>;
+  <xref alt="Rapport, 1989" rid="ref-Rapport1989What" ref-type="bibr">Rapport,
+  1989</xref>). We consider environmental health as the extent to which
+  an ecosystem can maintain its biological and chemical processes and
+  adapt to changes
   (<xref alt="Jakobsson, 2012" rid="ref-Jakobsson2012Sustainable" ref-type="bibr">Jakobsson,
   2012</xref>). Disturbances, such as extreme weather events or resource
   exploitation, are the ecosystem analogue of diseases, and represent
@@ -550,27 +555,6 @@ accomplished on abitious One Health actions.</p>
   of the environment pillar of One Health, e.g. wildlife and
   uncultivated plant species.</p>
   </boxed-text>
-  <code language="bibtex">@article{costanza1999healthy,
-  title={What is a healthy ecosystem?},
-  author={Costanza, Robert and Mageau, Michael},
-  journal={Aquatic ecology},
-  volume={33},
-  number={1},
-  pages={105--115},
-  year={1999},
-  publisher={Springer}
-}
-
-@article{rapport1989constitutes,
-  title={What constitutes ecosystem health?},
-  author={Rapport, David J},
-  journal={Perspectives in biology and medicine},
-  volume={33},
-  number={1},
-  pages={120--132},
-  year={1989},
-  publisher={Johns Hopkins University Press}
-}</code>
   <sec id="assessing-the-link-between-km-gbf-indicators-and-health">
     <title>Assessing the link between KM-GBF indicators and
     health</title>
@@ -1070,23 +1054,25 @@ accomplished on abitious One Health actions.</p>
   sector can meaningfully contribute to One Health efforts by sharing
   their data, tools, and expertise with national One Health agencies,
   which can in turn provide further incentives and means to measure
-  relevant indicators and improve their methodologies.
-  (<bold><italic>TP: Point 3: How can KM-GBF indicators be integrated
-  into existing human health monitoring frameworks?</italic></bold>)
-  Making indicators serve more than one purpose can also improve the
-  efficiency of public and private spending by avoiding duplication of
-  work. However, additional effort is needed to identify or develop new
-  indicators to monitor the action tracks where few KM-GBF indicators
-  were found to be usable. These gaps could be filled by finding
-  existing indicators in other multilateral environmental agreements,
-  such as the global indicator framework of the Sustainable Development
-  Goals (SDGs). Nevertheless, the high reusability of most KM-GBF
-  indicators for monitoring the One Health action tracks provides an
-  opportunity for close collaboration between the CBD Secretariat and
-  the Quadripartite organizations, especially as we enter the last year
-  of the current OH JPA. Putting in the work to monitor the OH JPA will
+  relevant indicators and improve their methodologies. Making indicators
+  serve more than one purpose can also improve the efficiency of public
+  and private spending by avoiding duplication of work. However,
+  additional effort is needed to identify or develop new indicators to
+  monitor the action tracks where few KM-GBF indicators were found to be
+  usable. These gaps could be filled by finding existing indicators in
+  other multilateral environmental agreements, such as the global
+  indicator framework of the Sustainable Development Goals (SDGs).
+  Nevertheless, the high reusability of most KM-GBF indicators can
+  greatly facilitate the monitoring of One Health action tracks, and
+  putting in the work to monitor the implementation of the OH JPA will
   be an essential step to ensure it is effectively put into action and
-  meets its goals.</p>
+  meets its goals. As Parties to the CBD submit their National
+  Biodiversity Strategies and Action Plans (NBSAPs) with the monitored
+  indicators
+  (<xref alt="UNEP, 2022b" rid="ref-Mechanisms" ref-type="bibr">UNEP,
+  2022b</xref>), large amounts of data will become available for the
+  retrospsective assessment of the progress made on the ambitious One
+  Health actions.</p>
 </sec>
 <sec id="acknowledgments">
   <title>Acknowledgments</title>
@@ -1222,6 +1208,24 @@ accomplished on abitious One Health actions.</p>
       <pub-id pub-id-type="doi">10.1111/cobi.14192</pub-id>
       <fpage>e14192</fpage>
       <lpage></lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Costanza1999What">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Costanza</surname><given-names>Robert</given-names></name>
+        <name><surname>Mageau</surname><given-names>Michael</given-names></name>
+      </person-group>
+      <article-title>What is a healthy ecosystem?</article-title>
+      <source>Aquatic Ecology</source>
+      <year iso-8601-date="1999">1999</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-05-08">2026</year><month>05</month><day>08</day></date-in-citation>
+      <volume>33</volume>
+      <issue>1</issue>
+      <issn>1573-5125</issn>
+      <pub-id pub-id-type="doi">10.1023/A:1009930313242</pub-id>
+      <fpage>105</fpage>
+      <lpage>115</lpage>
     </element-citation>
   </ref>
   <ref id="ref-Diaz2018Assessing">
@@ -1654,6 +1658,16 @@ accomplished on abitious One Health actions.</p>
       <lpage>476</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Mechanisms">
+    <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>UNEP</surname></name>
+      </person-group>
+      <article-title>Mechanisms for planning, monitoring, reporting and review</article-title>
+      <publisher-name>United Nations Environment Programme. Decision no. CBD/COP/DEC/15/6</publisher-name>
+      <year iso-8601-date="2022">2022</year>
+    </element-citation>
+  </ref>
   <ref id="ref-Monitoring">
     <element-citation>
       <person-group person-group-type="author">
@@ -1797,6 +1811,23 @@ accomplished on abitious One Health actions.</p>
       <lpage>204</lpage>
     </element-citation>
   </ref>
+  <ref id="ref-Rapport1989What">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Rapport</surname><given-names>David J.</given-names></name>
+      </person-group>
+      <article-title>What Constitutes Ecosystem Health?</article-title>
+      <source>Perspectives in Biology and Medicine</source>
+      <publisher-name>Johns Hopkins University Press</publisher-name>
+      <year iso-8601-date="1989">1989</year>
+      <date-in-citation content-type="access-date"><year iso-8601-date="2026-05-08">2026</year><month>05</month><day>08</day></date-in-citation>
+      <volume>33</volume>
+      <issue>1</issue>
+      <issn>1529-8795</issn>
+      <fpage>120</fpage>
+      <lpage>132</lpage>
+    </element-citation>
+  </ref>
   <ref id="ref-Robinson2024Biodiversity">
     <element-citation publication-type="article-journal">
       <person-group person-group-type="author">
@@ -1873,6 +1904,16 @@ accomplished on abitious One Health actions.</p>
       <pub-id pub-id-type="doi">10.1111/nyas.13983</pub-id>
       <fpage>62</fpage>
       <lpage>76</lpage>
+    </element-citation>
+  </ref>
+  <ref id="ref-Who">
+    <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>WHO</surname></name>
+      </person-group>
+      <article-title>WHO Pandemic Agreement</article-title>
+      <publisher-name>Seventy-eighth World Health Assembly. WHA78.1.</publisher-name>
+      <year iso-8601-date="2025">2025</year>
     </element-citation>
   </ref>
   <ref id="ref-Winkler2025Lancet">
