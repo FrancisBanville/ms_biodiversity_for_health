@@ -21,7 +21,7 @@ author:
 
   - name: Claire Burnel
     affiliations:
-      - ref: udem
+      - ref: udem2
     roles:
       - writing – review & editing
       - validation
@@ -87,6 +87,13 @@ affiliations:
   - id: udem
     name: Université de Montréal
     department: Département de sciences biologiques
+    city: Montréal
+    region: Québec
+    country: Canada
+
+  - id: udem2
+    name: Université de Montréal
+    department: Département de sociologie
     city: Montréal
     region: Québec
     country: Canada
