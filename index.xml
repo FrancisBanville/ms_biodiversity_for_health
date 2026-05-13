@@ -56,7 +56,7 @@ curation</role>
 editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-review-editing/">writing
 – review &amp; editing</role>
 <role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
-<xref ref-type="aff" rid="udem">a</xref>
+<xref ref-type="aff" rid="udem2">b</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0001-6960-8434</contrib-id>
@@ -72,7 +72,7 @@ editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writin
 <role vocab="https://credit.niso.org" vocab-term="conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">conceptualization</role>
 <role vocab="https://credit.niso.org" vocab-term="supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">supervision</role>
 <role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
-<xref ref-type="aff" rid="yale">b</xref>
+<xref ref-type="aff" rid="yale">c</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0001-5971-4903</contrib-id>
@@ -90,7 +90,7 @@ curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-
 curation</role>
 <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
 <role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
-<xref ref-type="aff" rid="ki">c</xref>
+<xref ref-type="aff" rid="ki">d</xref>
 </contrib>
 <contrib contrib-type="author">
 <name>
@@ -107,7 +107,7 @@ curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-
 curation</role>
 <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">investigation</role>
 <role vocab="https://credit.niso.org" vocab-term="validation" vocab-term-identifier="https://credit.niso.org/contributor-roles/validation/">validation</role>
-<xref ref-type="aff" rid="cihi">d</xref>
+<xref ref-type="aff" rid="cihi">e</xref>
 </contrib>
 <contrib contrib-type="author">
 <contrib-id contrib-id-type="orcid">0000-0001-6484-1210</contrib-id>
@@ -163,6 +163,19 @@ administration</role>
 <aff id="udem">
 <institution content-type="dept">Département de sciences
 biologiques</institution>
+<institution-wrap>
+<institution>Université de Montréal</institution>
+</institution-wrap>
+
+<city>Montréal</city>
+<state>Québec</state>
+<country>Canada</country>
+
+
+
+</aff>
+<aff id="udem2">
+<institution content-type="dept">Département de sociologie</institution>
 <institution-wrap>
 <institution>Université de Montréal</institution>
 </institution-wrap>
