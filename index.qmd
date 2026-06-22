@@ -158,22 +158,21 @@ Reusing existing indicators alleviates the costs associated with the development
 
 The Wellcome Trust and the US National Science Foundation.
 
-::: {.callout-note icon=false}
-### Research in context
+# Research in context
 
-### Evidence before this study
+## Evidence before this study
 
 The One Health approach has gained momentum in recent years with the adoption of global health agreements and action plans, such as the One Health Joint Plan of Actions and the Global Action Plan on Biodiversity and Health. Their adoption marks a turning point in the way we view public health by formally recognizing our interdependence with biodiversity and the wider environment, a connexion that is well supported by the literature. However, most of these plans are not legally binding, and, without indicators to monitor their implementation, States are less incentivized to act. Previous research has shown that indicators can improve the effectiveness of policies through greater transparency and accountability, but the costs associated with the development and measurement of new indicators can hinder their adoption, particularly in less well-resourced nations. To alleviate these costs, previous studies have 
 suggested that existing indicators can be reused to facilitate the monitoring of One Health actions.
 
-### Added value of this study
+## Added value of this study
 
 This study serves as a first step in building a One Health monitoring programme based on existing indicators from adopted multilateral environmental agreements. We identify the indicators of the Kunming-Montreal Global Biodiversity Framework (KM-GBF) that are relevant to human, animal, plant, and environmental health, respectively, and those that can be reused, either directly or after adaptation, to monitor the actions tracks of the One Health Joint Plan of Actions. The indicators of the KM-GBF are widely accepted internationally and cover multiple facets of the biodiversity and health nexus, which makes them strong candidates for One Health monitoring. Our work shows that biodiversity monitoring provides large amounts of data that can be reused to retrospectively and prospectively measure the implementation of One Health actions. It also shows how pooling efforts can benefit both monitoring systems by avoiding duplication of work.
 
-### Implications of all the available evidence
+## Implications of all the available evidence
 
 The vast majority of the KM-GBF indicators can be used either directly or after adaptation to monitor at least one of the action tracks. However, the proportion of reusable indicators differ between the action tracks: it vary between 20% for the fifth action track on antimicrobial resistance to 79% for the sixth action track on environmental health. These results suggest that, although most of the KM-GBF indicators are relevant to One Health, additional indicators need to be identified to monitor the action tracks with limited coverage. The missing indicators could be found in other multilateral environmental agreements with human health implications. Identifying existing indicators from multilateral environmental agreements such as the KM-GBF ensures that One Health monitoring programmes are robust and achievable given limited resources for monitoring.
-:::
+
 
 # Introduction
 
