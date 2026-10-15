@@ -152,7 +152,7 @@ We argue that reusing indicators for both monitoring systems (the KM-GBF and the
 
 # Methods
 
-We qualitatively assessed the relevance of all 204 KM-GBF indicators [@Monitoring] to health. This was done independently by at least two evaluators for each of the indicators, this process leading to a consensus among the coauthors for all indicators. Specifically, we evaluated the degree to which the indicators are linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their potential usability for monitoring the OH JPA. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of health. When such metadata was unavailable, assessments were supplemented by expert elicitation. The spreadsheet containing the results of the indicator assessments is provided in Supp Mat.
+We qualitatively assessed the relevance of all KM-GBF indicators [@Monitoring] to health. Specifically, we evaluated the degree to which the indicators are linked to each of the four pillars of One Health (i.e., to human, animal, plant, and environmental heath), as well as their potential usability for monitoring the OH JPA. This was done independently by two evaluators for each of the indicators, this process leading to a consensus among the coauthors for all indicators. The first author assessed all 204 indicators, while three other coauthors shared and independently reassessed an equal portion of the indicators based on their area of expertise, providing a brief justification for each indicator. Our assessments were informed by the metadata (rationale, definition, method of computation, data sources, and scale of use) of the indicators provided by the World Conservation Monitoring Centre of the UN Environment Programme [@Indicators], when available, looking for explicit considerations of health. When such metadata was unavailable, assessments were based on expert elicitation. No formal scoring rubric or specific criteria were used to allow open-ended, nuanced, and indicator-specific justifications. Small disagreements between the evaluators (assessments in adjacent classes) were resolved by systematically retaining the coauthor's classification. For larger disagreements, the first author reevaluated his original assessments based on the justifications provided by the coauthors. All coauthors reviewed and approved the final classifications. The spreadsheet containing the assessment results is provided in the Supplementary Materials.
 
 ::: {.callout-note icon=false}
 ### Box 1: What are animals, plants, and the environment in One Health?
@@ -251,8 +251,7 @@ Our evaluation of the reusability of KM-GBF indicators for monitoring the OH JPA
 # Data availability statement
 
 All data generated in this study and the code to reproduce the figures are available on Zenodo
-(https://doi.org/10.5281/zenodo.20085701). The spreadsheet containing the results of the indicator assessments is provided in Supp Mat.
-
+(https://doi.org/10.5281/zenodo.20085701). The spreadsheet containing the indicator assessment results is provided in Supp Mat.
 
 # Acknowledgments
 
